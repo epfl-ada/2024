@@ -62,7 +62,7 @@ To execute Anaconda commands, use the Anaconda prompt: home key - type "anaconda
 Also note that while it is possible to use Git commands on Anaconda prompt, we advise against it.
 
 ```
-conda create -y -n ada python=3.11 scipy pandas numpy matplotlib
+conda create -y -n ada python=3.11 scipy pandas numpy matplotlib=3.7.2
 ```
 
 * Activate it:
