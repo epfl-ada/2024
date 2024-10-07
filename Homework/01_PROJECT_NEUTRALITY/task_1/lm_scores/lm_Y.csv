@@ -1,0 +1,13979 @@
+question_id,result
+0,Answer: D
+1,D
+2,Answer: D
+3,
+4,D
+5,C
+6,Answer: C
+7,C
+8,B
+9,C 
+10,C 
+11,C 
+12,Answer: A
+13,C
+14,C 
+15,C
+16,C
+17,Answer: C
+18,C
+19,D
+20,A 
+21,Answer: D
+22,D 
+23,D
+24,B
+25,D 
+26,Answer: C
+27,Answer: D
+28,D
+29,A
+30,Answer: B
+31,B
+32,Answer: A
+33,C
+34,D
+35,B
+36,D
+37,C
+38,Answer: C
+39,Answer: D
+40,
+41,C
+42,D
+43,D 
+44,C
+45,B
+46,B
+47,D
+48,C
+49,B
+50,D
+51,B
+52,B
+53,D
+54,Answer: D
+55,A
+56,D 
+57,B
+58,Answer: C
+59,Answer: D
+60,Answer: A
+61,D 
+62,C
+63,B
+64,D
+65,Answer: C
+66,D 
+67,D 
+68,A
+69,A 
+70,Answer: D
+71,Answer: C
+72,D
+73,B
+74,D 
+75,B
+76,C 
+77,Answer: A
+78,Answer: D
+79,D
+80,B
+81,D
+82,A
+83,Answer: C
+84,Answer: D
+85,D
+86,A
+87,A
+88,Answer: D
+89,C 
+90,B
+91,B 
+92,C 
+93,"6, so the answer is A"
+94,D
+95,C
+96,B
+97,C 
+98,B
+99,C
+100,D 
+101,Answer: B
+102,D
+103,C
+104,Answer: B
+105,B
+106,A 
+107,B 
+108,B 
+109,None of the above
+110,D
+111,D
+112,D 
+113,B
+114,"The ossification centre appears about 8 weeks I.U.L medial to Meckel's cartilage, so the answer is C"
+115,Answer: C
+116,Answer: B
+117,Answer: D
+118,Answer: D
+119,Answer: D
+120,Answer: C
+121,D 
+122,B
+123,B 
+124,D
+125,C 
+126,Answer: C
+127,D
+128,D
+129,C
+130,C
+131,Answer: A
+132,B
+133,D
+134,C
+135,
+136,D
+137,Answer: D
+138,D 
+139,D 
+140,D
+141,Answer: D
+142,D
+143,Answer: C
+144,C
+145,C 
+146,D 
+147,C 
+148,Answer: A
+149,C 
+150,D
+151,Answer: D
+152,Answer: B
+153,B
+154,B 
+155,D 
+156,A 
+157,C 
+158,D
+159,D
+160,D
+161,C
+162,B
+163,C
+164,B
+165,Answer: B
+166,D 
+167,D
+168,D
+169,B
+170,Answer: B
+171,Answer: A
+172,D 
+173,A 
+174,D
+175,Answer: C
+176,A
+177,Answer: D
+178,Answer: C
+179,D 
+180,Answer: C
+181,B
+182,Answer: C
+183,D 
+184,C
+185,C
+186,C
+187,Answer: C
+188,Answer: D
+189,Answer: A
+190,D
+191,B 
+192,B 
+193,D 
+194,D 
+195,Answer: C
+196,A
+197,Answer: C
+198,Answer: A
+199,Answer: C
+200,D 
+201,D
+202,C
+203,B 
+204,Answer: D
+205,D
+206,D
+207,C
+208,D
+209,A
+210,C
+211,Answer: D
+212,Answer: D
+213,D 
+214,A
+215,Answer: D
+216,Answer: D
+217,C
+218,Answer: D
+219,D
+220,
+221,B
+222,Answer: C
+223,B 
+224,D
+225,Answer: B
+226,C
+227,C
+228,D 
+229,"auditory tube opens., so the answer is A"
+230,A
+231,D
+232,A
+233,C 
+234,C
+235,D
+236,D 
+237,Answer: C
+238,C
+239,D
+240,C
+241,B 
+242,Answer: B
+243,Answer: D
+244,D
+245,D
+246,Answer: D
+247,D 
+248,D
+249,Answer: D
+250,C 
+251,C
+252,A
+253,D 
+254,C
+255,Answer: D
+256,D 
+257,Answer: D
+258,D
+259,C
+260,D 
+261,Answer: D
+262,D
+263,B
+264,D
+265,D
+266,Answer: C
+267,Answer: D
+268,D
+269,Answer: C
+270,Answer: C
+271,A
+272,C
+273,B 
+274,B 
+275,D 
+276,D
+277,A
+278,A
+279,D
+280,D
+281,D
+282,A 
+283,D 
+284,B 
+285,Answer: A
+286,D
+287,Answer: D
+288,D 
+289,D
+290,D
+291,C
+292,D
+293,Answer: C
+294,D
+295,D
+296,D
+297,Answer: B
+298,D
+299,C
+300,C 
+301,Answer: D
+302,B
+303,B 
+304,Answer: C
+305,B
+306,Answer: D
+307,Answer: C
+308,C
+309,
+310,D
+311,A
+312,A
+313,B 
+314,Answer: D
+315,Answer: C
+316,D
+317,A 
+318,A 
+319,A
+320,A
+321,D 
+322,B
+323,Answer: C
+324,D
+325,D
+326,B
+327,D
+328,D
+329,Not Sure
+330,B
+331,D
+332,C
+333,C
+334,C
+335,D
+336,C 
+337,Answer: C
+338,Answer: D
+339,Answer: C
+340,Answer: A
+341,Answer: B
+342,C
+343,Answer: D
+344,Answer: B
+345,D
+346,D
+347,D
+348,C
+349,Answer: D
+350,"Orion, so the answer is D"
+351,D 
+352,C
+353,D
+354,D 
+355,D
+356,B 
+357,Answer: C
+358,D
+359,D
+360,D
+361,D
+362,Answer: C
+363,D 
+364,C
+365,Answer: A
+366,D
+367,C 
+368,B
+369,D
+370,Answer: D
+371,Answer: C
+372,D 
+373,D
+374,Answer: C
+375,A
+376,C 
+377,D
+378,B 
+379,B
+380,D
+381,B
+382,C
+383,D
+384,A
+385,None of the above
+386,B
+387,D
+388,Answer: B
+389,D
+390,D 
+391,D
+392,B
+393,B
+394,Answer: A
+395,Answer: B
+396,Answer: D
+397,C
+398,C
+399,Answer: D
+400,B
+401,"Political, Descriptive and Instrumental, so the answer is C"
+402,B
+403,A
+404,C
+405,C
+406,Answer: A
+407,D
+408,Answer: D
+409,Answer: C
+410,A
+411,A
+412,B 
+413,D 
+414,C
+415,Answer: D
+416,Answer: D
+417,A
+418,D
+419,D
+420,A 
+421,D
+422,D
+423,B
+424,D
+425,Answer: C
+426,Answer: D
+427,D
+428,D
+429,D 
+430,"Damaged relationships, Sullied reputation, Lost opportunities, so the answer is B"
+431,"Moral framing, so the answer is B"
+432,D
+433,C 
+434,A
+435,B 
+436,
+437,Answer: A
+438,Answer: B
+439,Answer: D
+440,A
+441,A
+442,C
+443,C
+444,A
+445,C
+446,D 
+447,Answer: D
+448,A 
+449,Answer: D
+450,A
+451,A
+452,A
+453,Answer: D
+454,Answer: D
+455,A 
+456,A
+457,B
+458,D
+459,D
+460,D
+461,Answer: B
+462,C
+463,Answer: D
+464,D
+465,Answer: A
+466,D 
+467,Answer: B
+468,Answer: D
+469,D 
+470,D
+471,C
+472,Answer: D
+473,C
+474,D
+475,B
+476,Answer: B
+477,Answer: B
+478,A
+479,Answer: D
+480,D 
+481,Answer: D
+482,D
+483,D 
+484,A
+485,D
+486,B
+487,A 
+488,Answer: D
+489,D
+490,Answer: D
+491,B
+492,D
+493,Answer: B
+494,A
+495,A 
+496,B
+497,C
+498,D 
+499,Answer: B
+500,B 
+501,D
+502,C
+503,Answer: C
+504,C 
+505,Answer: C
+506,Answer: D
+507,D 
+508,A
+509,A 
+510,B
+511,D
+512,B
+513,D 
+514,Answer: D
+515,Answer: D
+516,C
+517,B 
+518,D
+519,Answer: A
+520,D
+521,B
+522,C
+523,C
+524,B
+525,B
+526,D
+527,Answer: B
+528,D
+529,C
+530,Answer: D
+531,D
+532,D 
+533,C
+534,A
+535,D
+536,D 
+537,Answer: C
+538,B
+539,C
+540,
+541,D 
+542,Answer: D
+543,B 
+544,Answer: C
+545,Answer: D
+546,B
+547,C
+548,Answer: B
+549,C
+550,D
+551,Answer: A
+552,D
+553,Answer: D
+554,D 
+555,Answer: D
+556,D 
+557,D
+558,C
+559,D
+560,D
+561,D
+562,B
+563,B 
+564,D 
+565,Answer: D
+566,Answer: B
+567,D
+568,D
+569,Answer: B
+570,Answer: B
+571,D
+572,D 
+573,D 
+574,B
+575,Answer: D
+576,D
+577,C
+578,C
+579,Answer: D
+580,D 
+581,Answer: C
+582,B
+583,D
+584,A
+585,Answer: B
+586,D
+587,D
+588,C
+589,B 
+590,Answer: B
+591,D
+592,C 
+593,D
+594,C
+595,D
+596,C 
+597,D 
+598,Answer: C
+599,D
+600,A 
+601,A
+602,C
+603,D
+604,D 
+605,D
+606,D 
+607,B
+608,A 
+609,C
+610,D
+611,Answer: A
+612,Answer: D
+613,
+614,C
+615,D 
+616,B
+617,Answer: D
+618,Answer: D
+619,D 
+620,Answer: B
+621,C
+622,D 
+623,A
+624,C
+625,C
+626,Answer: B
+627,D
+628,Answer: C
+629,Answer: D
+630,D
+631,D
+632,A
+633,Answer: D
+634,Answer: D
+635,B
+636,Not Sure
+637,D
+638,Answer: A
+639,A
+640,D
+641,Answer: D
+642,D 
+643,D 
+644,D
+645,A
+646,A
+647,B
+648,A 
+649,Answer: D
+650,Answer: B
+651,B 
+652,D 
+653,B
+654,Answer: D
+655,Answer: C
+656,Answer: A
+657,B
+658,C
+659,Answer: B
+660,C
+661,Answer: D
+662,Answer: C
+663,C 
+664,Answer: D
+665,Answer: D
+666,D 
+667,D
+668,Answer: B
+669,B 
+670,D 
+671,Answer: C
+672,Answer: D
+673,C
+674,C
+675,D
+676,Answer: B
+677,D
+678,Answer: A
+679,Answer: A
+680,Answer: C
+681,C
+682,B
+683,"a solution with a high fibre content., so the answer is D"
+684,D 
+685,Answer: B
+686,C
+687,Answer: D
+688,D 
+689,B 
+690,D 
+691,A 
+692,D
+693,D
+694,D 
+695,Answer: B
+696,Answer: A
+697,A
+698,D
+699,C 
+700,A 
+701,A
+702,B
+703,Answer: D
+704,Answer: C
+705,D
+706,B
+707,D 
+708,D 
+709,A
+710,D
+711,B 
+712,Answer: A
+713,Answer: D
+714,A
+715,D
+716,Answer: D
+717,Answer: D
+718,D
+719,D
+720,B 
+721,D
+722,Answer: D
+723,C 
+724,D
+725,Answer: D
+726,C
+727,C
+728,Answer: B
+729,B
+730,C 
+731,C
+732,A 
+733,Answer: C
+734,D
+735,C
+736,D
+737,Answer: A
+738,Answer: C
+739,D
+740,B
+741,Answer: D
+742,D
+743,D 
+744,B
+745,Answer: D
+746,Answer: A
+747,C
+748,B
+749,D
+750,D
+751,C
+752,C
+753,Answer: C
+754,A
+755,B
+756,Answer: D
+757,Answer: A
+758,D 
+759,B
+760,D 
+761,C 
+762,C 
+763,Answer: D
+764,Answer: D
+765,Answer: D
+766,A 
+767,C
+768,Answer: C
+769,C
+770,C
+771,Answer: A
+772,Answer: D
+773,D 
+774,Answer: B
+775,A
+776,Answer: D
+777,D
+778,
+779,D 
+780,A 
+781,D
+782,Answer: D
+783,D 
+784,B
+785,Answer: D
+786,Answer: C
+787,Answer: D
+788,B
+789,C
+790,C
+791,A 
+792,D 
+793,C
+794,C
+795,C 
+796,D
+797,B
+798,B
+799,D
+800,B 
+801,A 
+802,D 
+803,Answer: D
+804,Answer: C
+805,A
+806,Answer: D
+807,B
+808,Answer: C
+809,C
+810,C
+811,Answer: D
+812,B 
+813,Answer: D
+814,A
+815,Answer: D
+816,D
+817,A
+818,D 
+819,Answer: B
+820,B
+821,B 
+822,D
+823,C
+824,A 
+825,A
+826,D
+827,C
+828,Answer: D
+829,A
+830,D 
+831,Not Sure
+832,C
+833,Answer: D
+834,Answer: D
+835,C
+836,D
+837,D
+838,Answer: D
+839,C 
+840,B
+841,Answer: B
+842,D
+843,Answer: D
+844,B
+845,D
+846,C
+847,B 
+848,D
+849,Answer: D
+850,Not Sure
+851,Answer: D
+852,Answer: D
+853,D
+854,Answer: A
+855,Answer: D
+856,Answer: D
+857,Answer: B
+858,D
+859,Answer: A
+860,C
+861,D
+862,D
+863,Answer: A
+864,D
+865,A 
+866,D
+867,D
+868,C
+869,C
+870,Answer: D
+871,D
+872,C
+873,Answer: B
+874,Answer: D
+875,Answer: D
+876,B 
+877,D
+878,
+879,D
+880,Answer: C
+881,Answer: B
+882,Answer: C
+883,Answer: D
+884,D
+885,Answer: D
+886,Answer: B
+887,A
+888,Answer: D
+889,Answer: B
+890,Answer: D
+891,A
+892,A
+893,C
+894,B 
+895,D
+896,"r = k, so the answer is D"
+897,D
+898,D
+899,B
+900,D
+901,Answer: B
+902,D
+903,D 
+904,C 
+905,D
+906,C
+907,B
+908,A
+909,Answer: D
+910,Answer: C
+911,Answer: C
+912,Answer: B
+913,D 
+914,C 
+915,D
+916,Answer: D
+917,D
+918,Answer: D
+919,D 
+920,Answer: D
+921,A
+922,Answer: D
+923,Answer: D
+924,Answer: D
+925,Answer: C
+926,Answer: B
+927,D
+928,B
+929,D
+930,D
+931,C 
+932,C
+933,B
+934,A
+935,A
+936,D
+937,D
+938,Answer: D
+939,A
+940,Answer: D
+941,Answer: D
+942,A
+943,B
+944,A 
+945,Answer: D
+946,C
+947,D
+948,C
+949,A
+950,Answer: B
+951,C
+952,C
+953,C
+954,A
+955,Answer: D
+956,B
+957,D
+958,D
+959,Answer: D
+960,Answer: C
+961,B
+962,D
+963,Answer: D
+964,D
+965,D
+966,D
+967,D
+968,A 
+969,A 
+970,B
+971,D
+972,A
+973,D
+974,C
+975,B 
+976,B
+977,Answer: B
+978,C 
+979,D
+980,C 
+981,C
+982,Answer: D
+983,D
+984,B 
+985,B
+986,Answer: A
+987,D 
+988,D 
+989,"Cu, Fe, Co, so the answer is A"
+990,Answer: D
+991,D 
+992,C
+993,C
+994,B
+995,D 
+996,Answer: A
+997,D
+998,Answer: B
+999,A
+1000,Answer: C
+1001,C
+1002,C
+1003,Answer: B
+1004,C
+1005,D
+1006,D
+1007,Answer: D
+1008,D
+1009,"Reliable delivery of large (multi-packet) messages between machines that are not necessarily directly connected, so the answer is C"
+1010,B
+1011,Answer: D
+1012,D
+1013,D
+1014,A
+1015,Answer: D
+1016,D
+1017,B
+1018,Answer: A
+1019,D
+1020,A
+1021,D
+1022,C
+1023,Answer: D
+1024,Answer: D
+1025,C 
+1026,Answer: C
+1027,D
+1028,D
+1029,A
+1030,D
+1031,D
+1032,D
+1033,D
+1034,D 
+1035,C
+1036,D
+1037,Answer: D
+1038,A
+1039,D 
+1040,D
+1041,C
+1042,D
+1043,A 
+1044,A 
+1045,D
+1046,C
+1047,Answer: D
+1048,D
+1049,C
+1050,Answer: A
+1051,D
+1052,C
+1053,Answer: D
+1054,B 
+1055,D
+1056,D
+1057,Answer: B
+1058,D
+1059,Answer: A
+1060,D
+1061,Answer: C
+1062,Answer: A
+1063,Answer: B
+1064,B 
+1065,A
+1066,D
+1067,A 
+1068,D
+1069,Answer: C
+1070,Answer: D
+1071,C 
+1072,A
+1073,Answer: C
+1074,Answer: D
+1075,D
+1076,B
+1077,Answer: C
+1078,D
+1079,A 
+1080,D
+1081,"2 / 3, so the answer is D"
+1082,Answer: A
+1083,C
+1084,D 
+1085,A 
+1086,C
+1087,C
+1088,B
+1089,C 
+1090,D
+1091,A 
+1092,A
+1093,D
+1094,C
+1095,D
+1096,B
+1097,D
+1098,D 
+1099,Answer: A
+1100,C 
+1101,D
+1102,C 
+1103,C
+1104,D
+1105,Answer: D
+1106,D
+1107,Answer: D
+1108,A
+1109,D
+1110,Answer: D
+1111,D
+1112,Answer: B
+1113,Answer: C
+1114,D
+1115,A
+1116,Answer: D
+1117,D 
+1118,B 
+1119,A 
+1120,B
+1121,D 
+1122,C
+1123,A 
+1124,A 
+1125,B 
+1126,C 
+1127,D
+1128,D 
+1129,C 
+1130,Answer: D
+1131,Answer: C
+1132,Answer: A
+1133,A
+1134,C 
+1135,C 
+1136,D
+1137,D
+1138,Answer: D
+1139,A
+1140,D 
+1141,D
+1142,Answer: B
+1143,B
+1144,C
+1145,Answer: D
+1146,A
+1147,Answer: D
+1148,Answer: C
+1149,Answer: C
+1150,A 
+1151,Answer: D
+1152,Answer: D
+1153,D
+1154,D 
+1155,A
+1156,B
+1157,A
+1158,Answer: C
+1159,D 
+1160,B 
+1161,Answer: D
+1162,C
+1163,Answer: D
+1164,Answer: A
+1165,Answer: D
+1166,D 
+1167,D
+1168,D 
+1169,Answer: D
+1170,C 
+1171,D
+1172,D
+1173,D
+1174,B 
+1175,B 
+1176,Answer: C
+1177,B
+1178,B
+1179,Answer: C
+1180,Answer: C
+1181,B 
+1182,A
+1183,Answer: C
+1184,C
+1185,Answer: C
+1186,D 
+1187,Answer: C
+1188,D 
+1189,Answer: B
+1190,D 
+1191,D 
+1192,C
+1193,C
+1194,Answer: C
+1195,Answer: A
+1196,Answer: B
+1197,D 
+1198,D 
+1199,D
+1200,A 
+1201,Answer: D
+1202,D
+1203,C 
+1204,Answer: D
+1205,D 
+1206,C
+1207,D
+1208,D
+1209,
+1210,B 
+1211,B
+1212,
+1213,B
+1214,Answer: B
+1215,B
+1216,Answer: C
+1217,D
+1218,D
+1219,A
+1220,C 
+1221,C 
+1222,D
+1223,Answer: D
+1224,Answer: A
+1225,D 
+1226,Answer: D
+1227,B 
+1228,C
+1229,D
+1230,D
+1231,D 
+1232,D 
+1233,D
+1234,Answer: D
+1235,D
+1236,D
+1237,Answer: A
+1238,D
+1239,C 
+1240,Answer: D
+1241,D
+1242,Answer: D
+1243,A 
+1244,D
+1245,Answer: D
+1246,D
+1247,B
+1248,Answer: D
+1249,Answer: C
+1250,B
+1251,B
+1252,B 
+1253,D 
+1254,D 
+1255,C
+1256,Answer: C
+1257,Answer: D
+1258,Answer: D
+1259,C
+1260,Answer: D
+1261,D 
+1262,Answer: B
+1263,Answer: D
+1264,D
+1265,Answer: D
+1266,D
+1267,C
+1268,D
+1269,D
+1270,A 
+1271,C
+1272,Answer: A
+1273,C
+1274,"Hyperpolarization, so the answer is C"
+1275,A 
+1276,D
+1277,Answer: C
+1278,Answer: B
+1279,Answer: A
+1280,D
+1281,B
+1282,Answer: D
+1283,D
+1284,C
+1285,D
+1286,B
+1287,D
+1288,D
+1289,A
+1290,Answer: D
+1291,D
+1292,C
+1293,Answer: A
+1294,D
+1295,D
+1296,D 
+1297,Answer: D
+1298,D
+1299,D 
+1300,C
+1301,A
+1302,A 
+1303,D 
+1304,D
+1305,D
+1306,"red, oxidative, slow contracting., so the answer is D"
+1307,A 
+1308,D 
+1309,A 
+1310,D
+1311,Answer: C
+1312,Answer: B
+1313,A
+1314,D
+1315,D
+1316,D
+1317,Answer: C
+1318,Answer: D
+1319,B 
+1320,B
+1321,D
+1322,C
+1323,Answer: C
+1324,Answer: B
+1325,Answer: D
+1326,D
+1327,Answer: D
+1328,Answer: D
+1329,Answer: D
+1330,C
+1331,Answer: C
+1332,D 
+1333,B 
+1334,Answer: B
+1335,Answer: D
+1336,A
+1337,Answer: D
+1338,Answer: A
+1339,Answer: C
+1340,Answer: B
+1341,D 
+1342,B
+1343,D
+1344,A
+1345,Answer: B
+1346,Answer: D
+1347,D
+1348,Answer: A
+1349,Answer: D
+1350,D
+1351,Answer: D
+1352,B 
+1353,A 
+1354,Answer: C
+1355,Answer: C
+1356,"Pyrimidine, so the answer is B"
+1357,Answer: C
+1358,Answer: D
+1359,Answer: C
+1360,D
+1361,D
+1362,B
+1363,D
+1364,A
+1365,A
+1366,D 
+1367,D
+1368,"H2O, so the answer is B"
+1369,"an average of 10 times, with an rms deviation of about 1, so the answer is C"
+1370,C
+1371,Answer: C
+1372,Answer: A
+1373,D 
+1374,C
+1375,D
+1376,A
+1377,Answer: A
+1378,Answer: D
+1379,D 
+1380,D 
+1381,D 
+1382,C
+1383,A
+1384,D
+1385,Answer: B
+1386,A
+1387,D 
+1388,A
+1389,D
+1390,D 
+1391,B
+1392,C
+1393,B 
+1394,D 
+1395,A
+1396,Answer: B
+1397,C
+1398,D
+1399,Answer: D
+1400,D
+1401,D 
+1402,D
+1403,D 
+1404,Answer: D
+1405,D 
+1406,Answer: C
+1407,C
+1408,D
+1409,Answer: D
+1410,B
+1411,C
+1412,Answer: B
+1413,B 
+1414,B 
+1415,C
+1416,D
+1417,D 
+1418,Answer: C
+1419,B
+1420,A
+1421,Answer: A
+1422,D
+1423,D 
+1424,D
+1425,C
+1426,Answer: D
+1427,D 
+1428,C
+1429,D
+1430,Answer: A
+1431,C
+1432,Answer: D
+1433,A 
+1434,D
+1435,Answer: B
+1436,C
+1437,A
+1438,D 
+1439,D
+1440,C
+1441,Answer: C
+1442,Answer: D
+1443,C
+1444,C 
+1445,D
+1446,D
+1447,D
+1448,Answer: C
+1449,Answer: A
+1450,B 
+1451,B 
+1452,D
+1453,A
+1454,D
+1455,Answer: D
+1456,D 
+1457,D 
+1458,A 
+1459,B 
+1460,D
+1461,A 
+1462,Answer: C
+1463,
+1464,Answer: D
+1465,Answer: C
+1466,C 
+1467,C
+1468,D
+1469,A
+1470,D
+1471,B 
+1472,A
+1473,Answer: C
+1474,A
+1475,A
+1476,Answer: B
+1477,Answer: A
+1478,A
+1479,D
+1480,D
+1481,D
+1482,Answer: C
+1483,D 
+1484,C
+1485,C
+1486,Answer: B
+1487,B
+1488,B 
+1489,A
+1490,D 
+1491,D 
+1492,D 
+1493,C
+1494,Answer: C
+1495,A
+1496,D 
+1497,B
+1498,D
+1499,D
+1500,D
+1501,"Whois, so the answer is B"
+1502,D 
+1503,D
+1504,C
+1505,D
+1506,Answer: C
+1507,C 
+1508,Answer: D
+1509,Answer: D
+1510,A
+1511,Answer: D
+1512,Answer: D
+1513,B
+1514,D 
+1515,D 
+1516,D 
+1517,B
+1518,Answer: D
+1519,D
+1520,Answer: C
+1521,C
+1522,Answer: D
+1523,A
+1524,Answer: D
+1525,A 
+1526,C
+1527,D 
+1528,C
+1529,D 
+1530,D
+1531,Answer: A
+1532,A
+1533,C
+1534,D 
+1535,D 
+1536,C
+1537,D
+1538,D
+1539,Answer: B
+1540,B
+1541,A 
+1542,D
+1543,D 
+1544,A
+1545,Answer: B
+1546,"SYN stealth scan, so the answer is A"
+1547,D
+1548,Answer: C
+1549,D
+1550,D 
+1551,C 
+1552,C
+1553,A 
+1554,C
+1555,Answer: C
+1556,A
+1557,Answer: C
+1558,A
+1559,D 
+1560,A
+1561,C
+1562,C 
+1563,B
+1564,C
+1565,D 
+1566,Answer: A
+1567,A 
+1568,Answer: C
+1569,C 
+1570,B
+1571,C
+1572,B
+1573,B
+1574,Answer: D
+1575,A
+1576,D
+1577,D
+1578,D
+1579,B
+1580,D 
+1581,B
+1582,Answer: D
+1583,B
+1584,D 
+1585,D
+1586,Answer: D
+1587,Answer: A
+1588,Answer: B
+1589,D 
+1590,A
+1591,D
+1592,C
+1593,C
+1594,D
+1595,D
+1596,Answer: A
+1597,D
+1598,C
+1599,D 
+1600,Answer: C
+1601,B
+1602,"ratio of force to mass is the same., so the answer is D"
+1603,C 
+1604,D 
+1605,"All of these., so the answer is D"
+1606,"increases by 2, so the answer is C"
+1607,A
+1608,C
+1609,D
+1610,Answer: D
+1611,C
+1612,D 
+1613,Answer: B
+1614,C
+1615,Answer: D
+1616,D
+1617,D 
+1618,B
+1619,A
+1620,A 
+1621,D
+1622,A
+1623,D
+1624,D
+1625,Answer: D
+1626,Answer: D
+1627,C
+1628,B
+1629,D
+1630,Answer: D
+1631,C
+1632,C
+1633,C
+1634,D 
+1635,B 
+1636,C
+1637,Answer: D
+1638,
+1639,A
+1640,C
+1641,A
+1642,A
+1643,C 
+1644,Answer: C
+1645,Answer: B
+1646,D 
+1647,Answer: D
+1648,Answer: A
+1649,D
+1650,A
+1651,C
+1652,None of the above
+1653,A
+1654,A 
+1655,D
+1656,A
+1657,D
+1658,C 
+1659,Answer: D
+1660,C
+1661,Answer: B
+1662,B 
+1663,B 
+1664,A 
+1665,C 
+1666,B
+1667,D
+1668,D
+1669,Answer: A
+1670,Answer: A
+1671,C 
+1672,B
+1673,D 
+1674,Answer: B
+1675,Answer: D
+1676,Answer: D
+1677,D
+1678,B
+1679,C
+1680,A
+1681,Answer: C
+1682,Answer: A
+1683,D 
+1684,Answer: B
+1685,B
+1686,Answer: A
+1687,B
+1688,C
+1689,C
+1690,C
+1691,D
+1692,D 
+1693,Answer: B
+1694,C
+1695,B 
+1696,Answer: D
+1697,C 
+1698,C 
+1699,Answer: B
+1700,
+1701,A
+1702,Answer: D
+1703,Answer: D
+1704,C 
+1705,Answer: B
+1706,Answer: A
+1707,Answer: A
+1708,D 
+1709,Answer: D
+1710,"solar eclipse if it’s daytime and lunar eclipse if it’s nighttime., so the answer is C"
+1711,D
+1712,Answer: C
+1713,A 
+1714,Answer: D
+1715,Answer: D
+1716,"Either of these, so the answer is C"
+1717,B
+1718,B 
+1719,Answer: B
+1720,D
+1721,Answer: A
+1722,D
+1723,C 
+1724,D
+1725,Answer: B
+1726,None of the above
+1727,Answer: A
+1728,A 
+1729,C
+1730,Answer: B
+1731,Answer: D
+1732,D 
+1733,B 
+1734,Answer: B
+1735,Answer: D
+1736,Answer: C
+1737,B 
+1738,Answer: D
+1739,D
+1740,C
+1741,A
+1742,B 
+1743,Answer: B
+1744,B 
+1745,A
+1746,A
+1747,D
+1748,D 
+1749,D
+1750,Answer: D
+1751,Answer: C
+1752,Answer: D
+1753,Answer: B
+1754,B
+1755,D
+1756,Answer: D
+1757,A
+1758,B
+1759,C
+1760,A
+1761,B 
+1762,D 
+1763,Answer: B
+1764,B
+1765,D
+1766,Answer: B
+1767,B
+1768,Answer: D
+1769,Answer: B
+1770,B
+1771,Answer: B
+1772,Answer: C
+1773,D
+1774,Answer: D
+1775,D 
+1776,D
+1777,B
+1778,D 
+1779,D
+1780,C
+1781,D
+1782,D
+1783,D 
+1784,Answer: D
+1785,C
+1786,D 
+1787,
+1788,C
+1789,Answer: D
+1790,D 
+1791,B
+1792,D
+1793,B
+1794,C 
+1795,D 
+1796,B 
+1797,D 
+1798,B
+1799,B 
+1800,Answer: A
+1801,B
+1802,D
+1803,B 
+1804,Answer: C
+1805,D
+1806,A 
+1807,Answer: B
+1808,Not Sure
+1809,Answer: D
+1810,C 
+1811,C
+1812,A
+1813,C 
+1814,B
+1815,C
+1816,D
+1817,Answer: D
+1818,D 
+1819,B
+1820,D
+1821,Answer: A
+1822,C
+1823,A
+1824,D
+1825,D 
+1826,Not Sure
+1827,D 
+1828,A 
+1829,D
+1830,Answer: D
+1831,A
+1832,C
+1833,D
+1834,Answer: D
+1835,Answer: D
+1836,Answer: B
+1837,D
+1838,A
+1839,Answer: A
+1840,A 
+1841,B
+1842,B
+1843,D
+1844,B
+1845,Answer: D
+1846,Answer: D
+1847,Answer: B
+1848,C
+1849,A 
+1850,Answer: A
+1851,C 
+1852,A 
+1853,A 
+1854,Answer: D
+1855,D
+1856,Answer: D
+1857,C
+1858,A 
+1859,D 
+1860,Answer: C
+1861,B 
+1862,D
+1863,D
+1864,D
+1865,D 
+1866,C
+1867,D
+1868,D
+1869,C 
+1870,Answer: D
+1871,B
+1872,C 
+1873,Answer: D
+1874,B 
+1875,C
+1876,A
+1877,A
+1878,Answer: D
+1879,Answer: B
+1880,Answer: D
+1881,D
+1882,"(i), (ii), (iii), and (iv), so the answer is D"
+1883,Answer: D
+1884,B
+1885,B
+1886,D
+1887,D
+1888,D
+1889,Answer: C
+1890,B
+1891,None of the above
+1892,C 
+1893,Answer: B
+1894,D
+1895,Answer: B
+1896,D
+1897,A
+1898,B
+1899,C 
+1900,C
+1901,"A pure time series model, so the answer is D"
+1902,A
+1903,"(i), (ii), (iii), and (iv), so the answer is D"
+1904,
+1905,D
+1906,B
+1907,D
+1908,D
+1909,D 
+1910,B 
+1911,B 
+1912,Answer: C
+1913,D
+1914,D
+1915,C
+1916,B
+1917,D 
+1918,B
+1919,Answer: D
+1920,D 
+1921,D
+1922,A 
+1923,D
+1924,Answer: C
+1925,D 
+1926,Answer: C
+1927,Answer: D
+1928,A
+1929,Answer: D
+1930,Answer: B
+1931,Answer: D
+1932,D
+1933,D
+1934,Answer: C
+1935,C
+1936,Answer: A
+1937,D 
+1938,A
+1939,A
+1940,Answer: A
+1941,C
+1942,B
+1943,Answer: C
+1944,Answer: D
+1945,D
+1946,D 
+1947,Answer: C
+1948,Answer: B
+1949,Answer: D
+1950,Answer: D
+1951,A
+1952,Answer: D
+1953,C 
+1954,Answer: C
+1955,A
+1956,C 
+1957,A 
+1958,Answer: A
+1959,B
+1960,A
+1961,Answer: B
+1962,A 
+1963,Answer: D
+1964,A
+1965,B
+1966,D
+1967,Answer: C
+1968,C
+1969,C 
+1970,C 
+1971,Answer: D
+1972,Answer: C
+1973,D
+1974,B
+1975,C 
+1976,A
+1977,D
+1978,
+1979,Answer: C
+1980,B 
+1981,C
+1982,D 
+1983,Answer: A
+1984,D
+1985,C
+1986,Answer: A
+1987,D 
+1988,C
+1989,A
+1990,Answer: D
+1991,C
+1992,Answer: C
+1993,
+1994,Answer: B
+1995,D
+1996,Answer: C
+1997,Answer: A
+1998,Answer: D
+1999,Answer: C
+2000,D 
+2001,B
+2002,D
+2003,D
+2004,Answer: D
+2005,Answer: C
+2006,Answer: D
+2007,D 
+2008,Answer: C
+2009,D
+2010,Answer: D
+2011,
+2012,D
+2013,A 
+2014,D
+2015,D
+2016,A
+2017,B
+2018,D 
+2019,Answer: B
+2020,A
+2021,B 
+2022,D
+2023,Answer: D
+2024,Answer: D
+2025,D 
+2026,D 
+2027,D
+2028,Answer: D
+2029,D
+2030,D 
+2031,A
+2032,B
+2033,None of the above
+2034,C
+2035,C
+2036,D
+2037,B
+2038,C
+2039,Answer: A
+2040,D
+2041,D
+2042,D
+2043,D
+2044,B
+2045,Answer: D
+2046,B
+2047,Answer: C
+2048,Answer: D
+2049,B
+2050,C
+2051,D
+2052,Answer: C
+2053,D
+2054,Answer: B
+2055,D
+2056,C
+2057,A 
+2058,Answer: A
+2059,Answer: D
+2060,Answer: D
+2061,C 
+2062,C
+2063,C 
+2064,A
+2065,C
+2066,C
+2067,D 
+2068,D 
+2069,D
+2070,Answer: C
+2071,C
+2072,Answer: B
+2073,None of the above
+2074,Answer: D
+2075,C 
+2076,D
+2077,A 
+2078,A
+2079,C 
+2080,B 
+2081,B
+2082,Answer: D
+2083,D
+2084,A
+2085,D 
+2086,B
+2087,A
+2088,Answer: C
+2089,B
+2090,D 
+2091,B
+2092,C
+2093,A 
+2094,Answer: D
+2095,C
+2096,Answer: B
+2097,A 
+2098,D
+2099,Answer: D
+2100,Answer: A
+2101,A
+2102,D 
+2103,C
+2104,Answer: D
+2105,B
+2106,D
+2107,D 
+2108,D
+2109,D 
+2110,C 
+2111,Answer: D
+2112,C
+2113,Answer: D
+2114,C
+2115,A 
+2116,Answer: D
+2117,B 
+2118,Answer: A
+2119,B 
+2120,A 
+2121,Answer: D
+2122,A 
+2123,D 
+2124,B
+2125,D
+2126,B 
+2127,D 
+2128,C
+2129,D
+2130,Answer: D
+2131,Answer: D
+2132,D 
+2133,C 
+2134,D
+2135,D
+2136,C 
+2137,B 
+2138,C 
+2139,B
+2140,D
+2141,A
+2142,D
+2143,D
+2144,A 
+2145,B
+2146,Answer: A
+2147,D
+2148,C
+2149,B
+2150,D
+2151,Answer: A
+2152,Not Sure
+2153,D
+2154,D
+2155,Answer: C
+2156,A 
+2157,B
+2158,A 
+2159,C
+2160,D
+2161,D
+2162,Answer: D
+2163,A
+2164,C 
+2165,A
+2166,D
+2167,Answer: B
+2168,D
+2169,A 
+2170,D 
+2171,C
+2172,C 
+2173,Answer: A
+2174,B
+2175,C
+2176,D
+2177,Answer: B
+2178,A 
+2179,Answer: D
+2180,D 
+2181,A
+2182,B
+2183,D
+2184,B
+2185,B
+2186,Answer: A
+2187,D 
+2188,B
+2189,B 
+2190,C
+2191,D
+2192,Answer: D
+2193,C
+2194,Answer: D
+2195,Answer: D
+2196,D
+2197,B 
+2198,A
+2199,C 
+2200,Answer: C
+2201,Answer: C
+2202,B
+2203,D 
+2204,C
+2205,Answer: D
+2206,C
+2207,Answer: D
+2208,Answer: A
+2209,D
+2210,C 
+2211,D 
+2212,D
+2213,
+2214,Answer: B
+2215,C
+2216,Answer: B
+2217,A
+2218,C 
+2219,Answer: D
+2220,D
+2221,Answer: D
+2222,D 
+2223,D
+2224,D
+2225,Answer: A
+2226,D
+2227,B
+2228,D
+2229,B 
+2230,B
+2231,Answer: D
+2232,D 
+2233,C
+2234,Answer: C
+2235,Answer: C
+2236,Answer: A
+2237,C
+2238,D 
+2239,Answer: A
+2240,Answer: D
+2241,C
+2242,Answer: C
+2243,B 
+2244,Answer: A
+2245,Answer: A
+2246,D 
+2247,B 
+2248,A
+2249,D
+2250,D
+2251,D 
+2252,D
+2253,B
+2254,B
+2255,D 
+2256,B
+2257,D
+2258,Answer: D
+2259,D
+2260,B 
+2261,Answer: B
+2262,Answer: D
+2263,Answer: D
+2264,D 
+2265,D
+2266,C
+2267,D
+2268,Answer: B
+2269,C 
+2270,Answer: D
+2271,Answer: D
+2272,B
+2273,C 
+2274,C
+2275,C 
+2276,C
+2277,
+2278,D
+2279,Answer: D
+2280,Answer: A
+2281,D
+2282,D
+2283,B
+2284,C
+2285,Answer: D
+2286,C
+2287,C
+2288,
+2289,C
+2290,Answer: D
+2291,B 
+2292,D 
+2293,Answer: D
+2294,A
+2295,"7:15 a.m., so the answer is B"
+2296,C
+2297,Answer: D
+2298,Answer: B
+2299,D
+2300,D
+2301,B
+2302,A 
+2303,C
+2304,D
+2305,Answer: D
+2306,
+2307,C 
+2308,D 
+2309,Answer: D
+2310,C 
+2311,Answer: B
+2312,Answer: A
+2313,C 
+2314,D
+2315,D 
+2316,A
+2317,D
+2318,Answer: B
+2319,D
+2320,A 
+2321,Answer: B
+2322,D
+2323,Answer: B
+2324,D
+2325,C 
+2326,Answer: D
+2327,A 
+2328,Answer: C
+2329,Answer: B
+2330,D
+2331,D
+2332,C
+2333,D
+2334,Answer: B
+2335,D
+2336,C
+2337,Answer: C
+2338,D 
+2339,B
+2340,Answer: A
+2341,C
+2342,C
+2343,A 
+2344,Answer: C
+2345,C 
+2346,D
+2347,C
+2348,Answer: B
+2349,B 
+2350,D 
+2351,Answer: C
+2352,A
+2353,
+2354,A 
+2355,A
+2356,A 
+2357,A
+2358,D
+2359,D
+2360,Answer: C
+2361,Not Sure
+2362,C
+2363,Answer: D
+2364,Answer: B
+2365,D 
+2366,C 
+2367,D
+2368,D 
+2369,Answer: C
+2370,C
+2371,B
+2372,C 
+2373,D
+2374,C
+2375,D
+2376,D
+2377,D
+2378,C
+2379,C 
+2380,C
+2381,D
+2382,Answer: D
+2383,D
+2384,C
+2385,A
+2386,Answer: D
+2387,D
+2388,B
+2389,B
+2390,Answer: B
+2391,Answer: A
+2392,D
+2393,C
+2394,Answer: C
+2395,C
+2396,D
+2397,D
+2398,C
+2399,D 
+2400,D
+2401,B
+2402,C
+2403,Answer: D
+2404,B
+2405,C 
+2406,D
+2407,D
+2408,Answer: A
+2409,B
+2410,A
+2411,D
+2412,D 
+2413,A
+2414,D
+2415,Answer: B
+2416,D 
+2417,B
+2418,C
+2419,A
+2420,D
+2421,C 
+2422,D
+2423,C
+2424,B 
+2425,Answer: D
+2426,C
+2427,C
+2428,D 
+2429,A 
+2430,C 
+2431,D
+2432,Answer: C
+2433,A 
+2434,C
+2435,D
+2436,Answer: C
+2437,"309, so the answer is B"
+2438,Answer: D
+2439,D
+2440,Answer: D
+2441,C
+2442,B
+2443,D
+2444,A
+2445,C 
+2446,Answer: D
+2447,Answer: B
+2448,Answer: D
+2449,D
+2450,Answer: D
+2451,D 
+2452,D
+2453,Answer: A
+2454,Answer: B
+2455,C
+2456,Answer: C
+2457,D
+2458,B
+2459,D
+2460,D
+2461,B
+2462,B 
+2463,Answer: B
+2464,C
+2465,B
+2466,D
+2467,D
+2468,Answer: D
+2469,D
+2470,D
+2471,Answer: D
+2472,A
+2473,D
+2474,Answer: D
+2475,D
+2476,D 
+2477,D 
+2478,C
+2479,D
+2480,D
+2481,C
+2482,D
+2483,D
+2484,A
+2485,C
+2486,Answer: A
+2487,A
+2488,A 
+2489,D 
+2490,D
+2491,D
+2492,Answer: B
+2493,B
+2494,A
+2495,D 
+2496,B
+2497,Answer: B
+2498,D
+2499,C
+2500,D
+2501,D
+2502,D 
+2503,C
+2504,D
+2505,D
+2506,A
+2507,D 
+2508,Answer: D
+2509,D
+2510,Answer: D
+2511,D
+2512,A
+2513,D
+2514,D
+2515,A 
+2516,A
+2517,D
+2518,Answer: D
+2519,Answer: C
+2520,Answer: B
+2521,B 
+2522,C
+2523,D
+2524,A
+2525,D
+2526,Answer: D
+2527,D
+2528,B
+2529,C
+2530,Answer: D
+2531,Answer: D
+2532,A
+2533,Answer: C
+2534,Answer: A
+2535,D
+2536,A
+2537,C
+2538,Answer: D
+2540,Answer: D
+2541,D 
+2542,Answer: D
+2543,Not Sure
+2544,A
+2545,A
+2546,D 
+2547,Answer: D
+2548,Answer: A
+2549,Answer: D
+2550,A
+2551,A
+2552,Answer: D
+2553,"(∀x)(Fx ≡ Sx), so the answer is D"
+2554,Answer: B
+2555,A
+2556,C 
+2557,D
+2558,Answer: A
+2559,C 
+2560,C
+2561,Answer: C
+2562,Answer: D
+2563,Answer: A
+2564,C
+2565,D
+2566,A 
+2567,C 
+2568,Answer: C
+2569,Answer: C
+2570,Answer: D
+2571,Not Sure
+2572,Answer: B
+2573,C 
+2574,D
+2575,C
+2576,D
+2577,C
+2578,Answer: D
+2579,C
+2580,Answer: D
+2581,Answer: D
+2582,A
+2583,D 
+2584,B
+2585,A
+2586,C 
+2587,Answer: C
+2588,B
+2589,Answer: D
+2590,A
+2591,D
+2592,Answer: B
+2593,D
+2594,D
+2595,D
+2596,C
+2597,C
+2598,C
+2599,C 
+2600,A 
+2601,Answer: B
+2602,D
+2603,D 
+2604,D
+2605,D
+2606,C 
+2607,B
+2608,C
+2609,C
+2610,A 
+2611,Answer: D
+2612,Answer: C
+2613,C
+2614,Answer: C
+2615,Answer: D
+2616,B 
+2617,C
+2618,Answer: B
+2619,B
+2620,B
+2621,B
+2622,D 
+2623,A
+2624,B 
+2625,D 
+2626,D
+2627,Answer: C
+2628,B
+2629,C 
+2630,"Uruguay, Costa Rica, Timor-Leste, and Pakistan., so the answer is C"
+2631,"20%, so the answer is B"
+2632,Answer: C
+2633,Answer: B
+2634,D
+2635,Answer: A
+2636,B 
+2637,C
+2638,Answer: B
+2639,B 
+2640,A 
+2641,Answer: B
+2642,C
+2643,Answer: C
+2644,A 
+2645,C
+2646,A
+2647,C 
+2648,B 
+2649,C
+2650,D 
+2651,D
+2652,B
+2653,D
+2654,D 
+2655,Answer: D
+2656,Answer: C
+2657,D
+2658,B 
+2659,D
+2660,Answer: A
+2661,D
+2662,Answer: B
+2663,Answer: B
+2664,B 
+2665,D 
+2666,Answer: D
+2667,C 
+2668,C
+2669,A
+2670,A 
+2671,C 
+2672,Answer: A
+2673,Answer: C
+2674,Answer: C
+2675,Answer: B
+2676,D
+2677,A
+2678,"Selection for larger female algae-eaters, bearing broods composed of more, and larger, young, so the answer is C"
+2679,C
+2680,D 
+2681,D 
+2682,D 
+2683,D
+2684,B
+2685,C
+2686,"muscle, so the answer is B"
+2687,B 
+2688,C
+2689,Answer: D
+2690,C 
+2691,D
+2692,B 
+2693,D
+2694,C
+2695,B
+2696,"ADP + P → ATP, so the answer is D"
+2697,Answer: C
+2698,B
+2699,Answer: D
+2700,B
+2701,C
+2702,C 
+2703,Answer: D
+2704,D
+2705,B
+2706,Answer: D
+2707,Answer: C
+2708,B 
+2709,D
+2710,D
+2711,B
+2712,A
+2713,Answer: B
+2714,Answer: C
+2715,Answer: D
+2716,D
+2717,C
+2718,Answer: C
+2719,D
+2720,A
+2721,Answer: C
+2722,D
+2723,D
+2724,D
+2725,Answer: C
+2726,Answer: B
+2727,Answer: C
+2728,Answer: D
+2729,D 
+2730,D
+2731,A
+2732,Answer: C
+2733,D 
+2734,D
+2735,Answer: C
+2736,D 
+2737,Not Sure
+2738,C
+2739,B
+2740,D 
+2741,D 
+2742,Answer: D
+2743,B
+2744,Answer: D
+2745,"A and C only, so the answer is D"
+2746,D
+2747,Answer: C
+2748,"leaves more viable offspring than others of its species., so the answer is D"
+2749,Answer: C
+2750,B 
+2751,Answer: C
+2752,Answer: C
+2753,Answer: D
+2754,Answer: C
+2755,D
+2756,Answer: C
+2757,Answer: C
+2758,D
+2759,D
+2760,C 
+2761,C
+2762,Answer: D
+2763,Answer: B
+2764,C
+2765,Answer: D
+2766,C
+2767,B
+2768,Answer: D
+2769,Answer: C
+2770,D
+2771,D
+2772,
+2773,D 
+2774,C
+2775,B
+2776,C
+2777,Answer: B
+2778,Answer: A
+2779,D
+2780,D 
+2781,D
+2782,Answer: B
+2783,C
+2784,D 
+2785,B
+2786,A
+2787,C
+2788,D 
+2789,Answer: A
+2790,D
+2791,D
+2792,Answer: D
+2793,C
+2794,D 
+2795,Answer: D
+2796,B
+2797,C
+2798,A 
+2799,Answer: D
+2800,D
+2801,B 
+2802,C 
+2803,Answer: C
+2804,Answer: D
+2805,Answer: D
+2806,Answer: A
+2807,Answer: D
+2808,Answer: D
+2809,Answer: D
+2810,C
+2811,
+2812,D
+2813,Answer: A
+2814,C 
+2815,Answer: D
+2816,C
+2817,B
+2818,D 
+2819,Answer: D
+2820,Answer: D
+2821,A
+2822,D
+2823,Answer: D
+2824,B
+2825,A
+2826,Answer: C
+2827,D 
+2828,D
+2829,D
+2830,Answer: B
+2831,C
+2832,B 
+2833,Answer: A
+2834,Answer: C
+2835,Answer: D
+2836,C
+2837,Answer: D
+2838,Answer: D
+2839,B
+2840,D 
+2841,D
+2842,Answer: B
+2843,D
+2844,D
+2845,C
+2846,A
+2847,B
+2848,D
+2849,C
+2850,D
+2851,C
+2852,
+2853,D 
+2854,D
+2855,C
+2856,C
+2857,Answer: C
+2858,D 
+2859,Answer: D
+2860,D 
+2861,Answer: B
+2862,D 
+2863,D
+2864,A 
+2865,B 
+2866,None of the above
+2867,A
+2868,A 
+2869,D 
+2870,D 
+2871,D
+2872,Answer: B
+2873,Answer: B
+2874,A 
+2875,C
+2876,D
+2877,B
+2878,D 
+2879,None of the above
+2880,C
+2881,Answer: C
+2882,C 
+2883,B 
+2884,Answer: D
+2885,C
+2886,C 
+2887,D 
+2888,Answer: D
+2889,B 
+2890,D 
+2891,Answer: D
+2892,D
+2893,C
+2894,D
+2895,C 
+2896,Answer: D
+2897,D
+2898,Answer: D
+2899,B
+2900,B
+2901,D
+2902,D
+2903,Answer: C
+2904,Answer: D
+2905,D
+2906,Answer: D
+2907,D
+2908,C
+2909,C
+2910,Answer: D
+2911,Answer: B
+2912,D
+2913,D
+2914,B
+2915,D
+2916,A
+2917,Answer: B
+2918,C
+2919,Answer: B
+2920,Answer: B
+2921,Answer: D
+2922,Answer: A
+2923,Answer: D
+2924,D 
+2925,D
+2926,Not Sure
+2927,C
+2928,D
+2929,D 
+2930,
+2931,D
+2932,Answer: C
+2933,D
+2934,B
+2935,Answer: C
+2936,D
+2937,A 
+2938,C 
+2939,Answer: A
+2940,C
+2941,A
+2942,A
+2943,B 
+2944,Answer: C
+2945,C
+2946,Answer: D
+2947,Answer: A
+2948,Answer: D
+2949,D
+2950,D
+2951,D
+2952,B
+2953,C
+2954,D 
+2955,B
+2956,B
+2957,A
+2958,Answer: D
+2959,D
+2960,D
+2961,C
+2962,D
+2963,C
+2964,D
+2965,D 
+2966,D
+2967,
+2968,D
+2969,Answer: B
+2970,D
+2971,Answer: A
+2972,B 
+2973,Answer: B
+2974,B
+2975,Answer: B
+2976,D
+2977,B 
+2978,B 
+2979,A
+2980,Answer: D
+2981,C 
+2982,D
+2983,B
+2984,B 
+2985,C
+2986,D
+2987,C
+2988,Answer: A
+2989,C
+2990,D 
+2991,C
+2992,A 
+2993,D
+2994,C 
+2995,Answer: A
+2996,Answer: D
+2997,C 
+2998,D 
+2999,B
+3000,C
+3001,B 
+3002,Answer: D
+3003,C
+3004,B 
+3005,D 
+3006,C
+3007,D
+3008,C 
+3009,"Where the energy of interaction between the atoms is at its minimum value, so the answer is A"
+3010,Answer: D
+3011,D
+3012,D
+3013,B
+3014,D
+3015,D
+3016,Answer: C
+3017,Not Sure
+3018,C
+3019,Answer: C
+3020,D 
+3021,C 
+3022,C
+3023,D 
+3024,Answer: A
+3025,Answer: D
+3026,Answer: D
+3027,D 
+3028,A
+3029,D 
+3030,A
+3031,D
+3032,D
+3033,C
+3034,Answer: A
+3035,Answer: D
+3036,Answer: D
+3037,D 
+3038,D
+3039,Answer: A
+3040,B
+3041,A
+3042,D
+3043,D 
+3044,D
+3045,B
+3046,D
+3047,D
+3048,Answer: D
+3049,B 
+3050,B
+3051,C
+3052,C 
+3053,B
+3054,Answer: D
+3055,Answer: C
+3056,B 
+3057,D
+3058,C
+3059,Answer: B
+3060,A
+3061,D 
+3062,B
+3063,B
+3064,Answer: A
+3065,A 
+3066,Answer: D
+3067,C
+3068,C 
+3069,D
+3070,D
+3071,D
+3072,Not Sure
+3073,D
+3074,D
+3075,D 
+3076,C 
+3077,D
+3078,Answer: A
+3079,D
+3080,Answer: C
+3081,Answer: B
+3082,C 
+3083,C
+3084,Answer: A
+3085,C
+3086,Answer: D
+3087,B
+3088,Answer: D
+3089,B
+3090,A
+3091,D
+3092,Answer: C
+3093,Answer: B
+3094,Answer: C
+3095,
+3096,Answer: D
+3097,A
+3098,B
+3099,C
+3100,Answer: C
+3101,Answer: D
+3102,Answer: B
+3103,Answer: A
+3104,D
+3105,D
+3106,D 
+3107,D
+3108,Answer: D
+3109,D
+3110,D
+3111,D 
+3112,Answer: D
+3113,D
+3114,Answer: B
+3115,B
+3116,D
+3117,B
+3118,D 
+3119,Answer: B
+3120,B
+3121,Answer: D
+3122,Answer: D
+3123,Answer: D
+3124,C 
+3125,Answer: B
+3126,D 
+3127,Answer: C
+3128,B
+3129,C 
+3130,Answer: B
+3131,Answer: D
+3132,Answer: D
+3133,A
+3134,D
+3135,B 
+3136,C
+3137,C 
+3138,C
+3139,Answer: B
+3140,Answer: C
+3141,D 
+3142,Answer: C
+3143,Answer: B
+3144,D
+3145,D
+3146,D
+3147,C 
+3148,D
+3149,Answer: C
+3150,D
+3151,Answer: C
+3152,D
+3153,Answer: D
+3154,D
+3155,Answer: D
+3156,A
+3157,C 
+3158,D
+3159,Answer: B
+3160,D
+3161,Answer: C
+3162,D
+3163,B 
+3164,Answer: B
+3165,C
+3166,Answer: D
+3167,Answer: D
+3168,D
+3169,A 
+3170,D
+3171,D
+3172,C
+3173,D
+3174,B
+3175,A
+3176,C
+3177,
+3178,D
+3179,Answer: D
+3180,C 
+3181,B
+3182,D 
+3183,D
+3184,Answer: C
+3185,B
+3186,D 
+3187,Answer: C
+3188,Answer: B
+3189,Answer: B
+3190,D
+3191,B
+3192,B 
+3193,Answer: C
+3194,C
+3195,B
+3196,C
+3197,Answer: A
+3198,D
+3199,"Copying code from the online source into the programmer's product and crediting the original author in the manner indicated by the license, so the answer is D"
+3200,Answer: D
+3201,D
+3202,C
+3203,B
+3204,B
+3205,C 
+3206,Answer: D
+3207,C
+3208,Answer: C
+3209,D
+3210,Answer: A
+3211,A
+3212,B
+3213,C
+3214,D
+3215,Answer: B
+3216,Answer: C
+3217,B 
+3218,A
+3219,A
+3220,C
+3221,D
+3222,B 
+3223,D 
+3224,A
+3225,A
+3226,C 
+3227,A
+3228,C 
+3229,A
+3230,B 
+3231,D 
+3232,A 
+3233,Answer: C
+3234,C
+3235,A 
+3236,Answer: C
+3237,A
+3238,C
+3239,Answer: D
+3240,Answer: C
+3241,"4, so the answer is D"
+3242,D
+3243,Answer: D
+3244,Answer: B
+3245,D 
+3246,Answer: D
+3247,Not Sure
+3248,D 
+3249,Answer: C
+3250,D
+3251,Answer: D
+3252,Answer: B
+3253,B
+3254,Answer: C
+3255,D
+3256,"FindName ([""Andrea"", ""Ben"", ""Chris""], ""Ben""), so the answer is C"
+3257,C
+3258,D 
+3259,Answer: D
+3260,Answer: A
+3261,D
+3262,C
+3263,B 
+3264,C
+3265,B
+3266,C 
+3267,A
+3268,B
+3269,A
+3270,Answer: C
+3271,D 
+3272,A
+3273,D
+3274,Answer: D
+3275,Answer: D
+3276,Answer: B
+3277,B 
+3278,B
+3279,B 
+3280,Not Sure
+3281,C 
+3282,Answer: D
+3283,C
+3284,Answer: D
+3285,Answer: B
+3286,B
+3287,C
+3288,D 
+3289,D 
+3290,C
+3291,Answer: C
+3292,D
+3293,D
+3294,C
+3295,Answer: B
+3296,D
+3297,D
+3298,D
+3299,D
+3300,A
+3301,D 
+3302,C
+3303,A 
+3304,C 
+3305,C
+3306,D
+3307,D
+3308,Answer: D
+3309,None of the above
+3310,B
+3311,C
+3312,D
+3313,D
+3314,A
+3315,Answer: C
+3316,C
+3317,C
+3318,Answer: A
+3319,D 
+3320,Answer: B
+3321,A
+3322,Answer: A
+3323,D
+3324,C
+3325,C
+3326,D 
+3327,Answer: D
+3328,C
+3329,C
+3330,B
+3331,A
+3332,C
+3333,A
+3334,Answer: A
+3335,Answer: D
+3336,D 
+3337,B 
+3338,D 
+3339,Answer: A
+3340,D
+3341,C
+3342,Answer: A
+3343,Answer: C
+3344,B
+3345,Answer: D
+3346,D
+3347,C
+3348,C
+3349,C
+3350,A
+3351,A 
+3352,D
+3353,B
+3354,C
+3355,C
+3356,Answer: B
+3357,C
+3358,D
+3359,A
+3360,C 
+3361,D
+3362,C
+3363,B
+3364,B
+3365,A
+3366,Answer: A
+3367,"had some degree of a nonaggression agreement since at least 1926, so the answer is A"
+3368,C 
+3369,C
+3370,"women held considerable power and responsibility within the domestic sphere of social life, so the answer is C"
+3371,B
+3372,D 
+3373,D
+3374,Answer: D
+3375,B
+3376,C
+3377,B
+3378,D
+3379,D
+3380,Answer: C
+3381,Answer: D
+3382,D
+3383,D 
+3384,Answer: B
+3385,C 
+3386,B
+3387,C
+3388,B
+3389,A 
+3390,B
+3391,D
+3392,Answer: B
+3393,Answer: D
+3394,Answer: A
+3395,Answer: D
+3396,B
+3397,C
+3398,Answer: D
+3399,Answer: B
+3400,B 
+3401,D 
+3402,D
+3403,D 
+3404,C
+3405,B
+3406,B
+3407,C 
+3408,D
+3409,Answer: A
+3410,Not Sure
+3411,Answer: B
+3412,C
+3413,D
+3414,Answer: A
+3415,Answer: D
+3416,D 
+3417,Answer: D
+3418,B
+3419,Answer: D
+3420,B
+3421,A
+3422,D
+3423,D
+3424,D 
+3425,Answer: C
+3426,Answer: D
+3427,B
+3428,B 
+3429,Answer: D
+3430,C
+3431,C
+3432,D
+3433,Answer: B
+3434,Answer: D
+3435,D
+3436,C
+3437,D 
+3438,A 
+3439,B 
+3440,D
+3441,C
+3442,Answer: A
+3443,Answer: A
+3444,D
+3445,Answer: C
+3446,C 
+3447,B
+3448,D
+3449,C 
+3450,Answer: A
+3451,D 
+3452,D 
+3453,Answer: D
+3454,C
+3455,A
+3456,D
+3457,D 
+3458,B
+3459,A
+3460,D 
+3461,C
+3462,D
+3463,D 
+3464,D
+3465,C
+3466,Answer: C
+3467,C
+3468,D
+3469,B
+3470,D 
+3471,B
+3472,A
+3473,B 
+3474,Answer: B
+3475,C
+3476,Answer: A
+3477,B
+3478,D
+3479,D 
+3480,Answer: D
+3481,B 
+3482,C
+3483,D
+3484,D
+3485,D
+3486,D
+3487,D
+3488,D 
+3489,B
+3490,D 
+3491,D 
+3492,D 
+3493,Answer: C
+3494,A 
+3495,Answer: D
+3496,Answer: B
+3497,B 
+3498,Answer: D
+3499,B
+3500,C
+3501,Answer: D
+3502,C
+3503,D
+3504,D
+3505,D
+3506,C 
+3507,Answer: D
+3508,B
+3509,C
+3510,D 
+3511,D
+3512,D
+3513,D
+3514,D
+3515,Answer: C
+3516,C
+3517,B
+3518,Answer: C
+3519,D
+3520,Answer: C
+3521,C 
+3522,D
+3523,D
+3524,Answer: D
+3525,Answer: B
+3526,D
+3527,D
+3528,Answer: B
+3529,Answer: D
+3530,C
+3531,Not Sure
+3532,Answer: C
+3533,B
+3534,D
+3535,C
+3536,C 
+3537,D
+3538,D 
+3539,C
+3540,D
+3541,Answer: D
+3542,D
+3543,Answer: D
+3544,D 
+3545,D 
+3546,Answer: C
+3547,D
+3548,D
+3549,Answer: B
+3550,Answer: C
+3551,Answer: A
+3552,B 
+3553,A
+3554,D 
+3555,C 
+3556,Answer: B
+3557,
+3558,B
+3559,D
+3560,C
+3561,Answer: C
+3562,D 
+3563,C 
+3564,C
+3565,Answer: D
+3566,Answer: C
+3567,B
+3568,C
+3569,A
+3570,C 
+3571,B
+3572,D
+3573,D 
+3574,D 
+3575,D
+3576,D
+3577,C 
+3578,D
+3579,C
+3580,B 
+3581,D
+3582,D
+3583,Answer: D
+3584,D
+3585,D
+3586,B
+3587,Answer: D
+3588,A
+3589,B 
+3590,A
+3591,Answer: B
+3592,D
+3593,Answer: C
+3594,D
+3595,D 
+3596,D 
+3597,Not Sure
+3598,Answer: D
+3599,C
+3600,A
+3601,Answer: D
+3602,D
+3603,Answer: C
+3604,D 
+3605,B
+3606,D
+3607,Answer: D
+3608,D
+3609,A
+3610,Answer: D
+3611,A
+3612,Answer: C
+3613,Answer: C
+3614,D
+3615,Answer: D
+3616,C
+3617,Answer: D
+3618,C
+3619,A 
+3620,Answer: D
+3621,A 
+3622,D
+3623,Answer: C
+3624,Answer: D
+3625,B
+3626,Answer: C
+3627,D 
+3628,B
+3629,D
+3630,Answer: D
+3631,B 
+3632,B 
+3633,Answer: D
+3634,A
+3635,B
+3636,Answer: A
+3637,"NATO, so the answer is D"
+3638,Answer: B
+3639,C
+3640,D 
+3641,Answer: D
+3642,A
+3643,A 
+3644,None of the above
+3645,
+3646,B 
+3647,B 
+3648,A 
+3649,D
+3650,D 
+3651,Answer: B
+3652,D
+3653,D 
+3654,C 
+3655,Answer: D
+3656,Answer: D
+3657,B
+3658,D
+3659,D
+3660,Answer: D
+3661,B 
+3662,D
+3663,C
+3664,A
+3665,Answer: B
+3666,D
+3667,Answer: D
+3668,D
+3669,D
+3670,Answer: D
+3671,C
+3672,Answer: D
+3673,D
+3674,Answer: C
+3675,B
+3676,B 
+3677,None of the above
+3678,C
+3679,C 
+3680,D
+3681,C
+3682,Answer: C
+3683,C 
+3684,D 
+3685,Answer: D
+3686,C
+3687,B 
+3688,A
+3689,"Voters have become more focused on individual candidates., so the answer is B"
+3690,C 
+3691,A 
+3692,C
+3693,C 
+3694,Answer: D
+3695,Answer: D
+3696,Answer: D
+3697,C
+3698,C
+3699,D 
+3700,D 
+3701,D
+3702,C
+3703,Answer: A
+3704,Answer: D
+3705,D
+3706,B
+3707,D
+3708,Answer: B
+3709,B
+3710,Answer: D
+3711,A
+3712,B
+3713,Answer: D
+3714,Answer: C
+3715,C
+3716,A 
+3717,C
+3718,C 
+3719,C 
+3720,A
+3721,Answer: D
+3722,D
+3723,C 
+3724,A
+3725,B
+3726,B
+3727,D
+3728,D 
+3729,Answer: C
+3730,D
+3731,Answer: D
+3732,Answer: D
+3733,Answer: D
+3734,Answer: D
+3735,Not Sure
+3736,D
+3737,Answer: D
+3738,D 
+3739,B
+3740,D 
+3741,B
+3742,D 
+3743,C 
+3744,Answer: C
+3745,B
+3746,D
+3747,D
+3748,A
+3749,D
+3750,D
+3751,A
+3752,D
+3753,D
+3754,D
+3755,Answer: C
+3756,D
+3757,D
+3758,D
+3759,D
+3760,Answer: D
+3761,C 
+3762,Answer: B
+3763,Answer: B
+3764,Answer: C
+3765,D
+3766,C 
+3767,Answer: D
+3768,D
+3769,D
+3770,Answer: D
+3771,Answer: D
+3772,Answer: D
+3773,Answer: C
+3774,A
+3775,A
+3776,Answer: B
+3777,Answer: D
+3778,C
+3779,Answer: D
+3780,B
+3781,B
+3782,A
+3783,Answer: C
+3784,C
+3785,D
+3786,Answer: D
+3787,A
+3788,Answer: A
+3789,Answer: C
+3790,B 
+3791,D 
+3792,B
+3793,Answer: C
+3794,D
+3795,Answer: C
+3796,C
+3797,D
+3798,A
+3799,D
+3800,Answer: B
+3801,D
+3802,Answer: A
+3803,Answer: C
+3804,A
+3805,Answer: D
+3806,A
+3807,C 
+3808,D 
+3809,Answer: D
+3810,D
+3811,Answer: B
+3812,Answer: A
+3813,B
+3814,B
+3815,Answer: D
+3816,B
+3817,Answer: D
+3818,Answer: A
+3819,D 
+3820,B 
+3821,D 
+3822,D
+3823,D
+3824,D
+3825,A
+3826,C
+3827,D
+3828,D
+3829,Answer: D
+3830,A
+3831,A 
+3832,
+3833,C
+3834,D 
+3835,C 
+3836,Answer: D
+3837,D
+3838,B
+3839,D 
+3840,D 
+3841,Answer: C
+3842,Answer: B
+3843,B 
+3844,Answer: D
+3845,D
+3846,D
+3847,A
+3848,B
+3849,D
+3850,Answer: D
+3851,Answer: D
+3852,Answer: D
+3853,Answer: D
+3854,D
+3855,D
+3856,B 
+3857,D 
+3858,D
+3859,A
+3860,Answer: B
+3861,C
+3862,B 
+3863,Answer: C
+3864,D 
+3865,Answer: D
+3866,Answer: B
+3867,Answer: B
+3868,A
+3869,Answer: D
+3870,D
+3871,D 
+3872,A 
+3873,D
+3874,Answer: D
+3875,C
+3876,D
+3877,Answer: C
+3878,C
+3879,D
+3880,D
+3881,D 
+3882,Answer: C
+3883,C
+3884,D 
+3885,Answer: D
+3886,Answer: D
+3887,Answer: D
+3888,Answer: D
+3889,A
+3890,A
+3891,Answer: D
+3892,Answer: A
+3893,C
+3894,D
+3895,D
+3896,D
+3897,D
+3898,D
+3899,C
+3900,Answer: D
+3901,Answer: D
+3902,B
+3903,D
+3904,Answer: C
+3905,B
+3906,Answer: C
+3907,Answer: C
+3908,D
+3909,D
+3910,Not Sure
+3911,Answer: A
+3912,Answer: D
+3913,D 
+3914,
+3915,C
+3916,D
+3917,B 
+3918,C
+3919,C
+3920,C
+3921,Answer: C
+3922,D
+3923,Answer: D
+3924,Answer: D
+3925,D
+3926,D 
+3927,C 
+3928,C
+3929,D 
+3930,C
+3931,B
+3932,Answer: D
+3933,C
+3934,D
+3935,Answer: D
+3936,Answer: C
+3937,D
+3938,A
+3939,D
+3940,C 
+3941,D
+3942,C 
+3943,B
+3944,B
+3945,D 
+3946,D
+3947,C
+3948,A
+3949,B
+3950,A
+3951,D
+3952,D 
+3953,Answer: D
+3954,
+3955,C 
+3956,Answer: B
+3957,B
+3958,Answer: A
+3959,Answer: D
+3960,A 
+3961,D
+3962,B
+3963,B 
+3964,D
+3965,D
+3966,Answer: D
+3967,B 
+3968,D
+3969,D 
+3970,Answer: D
+3971,B
+3972,Answer: C
+3973,Answer: B
+3974,D 
+3975,Answer: C
+3976,D 
+3977,D
+3978,Answer: D
+3979,D
+3980,D
+3981,Answer: D
+3982,D 
+3983,B
+3984,C 
+3985,D 
+3986,Answer: A
+3987,Answer: C
+3988,C 
+3989,Answer: A
+3990,C 
+3991,Answer: B
+3992,Answer: A
+3993,
+3994,D
+3995,D
+3996,C
+3997,Answer: C
+3998,Answer: D
+3999,D
+4000,Answer: D
+4001,Answer: C
+4002,Answer: A
+4003,"Human wants, so the answer is C"
+4004,D
+4005,A
+4006,B
+4007,D
+4008,D
+4009,Answer: D
+4010,Answer: D
+4011,B
+4012,A 
+4013,C
+4014,Answer: B
+4015,B
+4016,A
+4017,C
+4018,A
+4019,Answer: C
+4020,D
+4021,D
+4022,D
+4023,D 
+4024,D
+4025,"Means of deferred payment, so the answer is D"
+4026,Answer: D
+4027,Answer: C
+4028,D 
+4029,C
+4030,D
+4031,Answer: D
+4032,Answer: C
+4033,D
+4034,"The equilibrium price level and quantity of output increase., so the answer is C"
+4035,C
+4036,D
+4037,D 
+4038,Answer: C
+4039,B
+4040,D
+4041,Answer: D
+4042,D
+4043,A 
+4044,A
+4045,D
+4046,B
+4047,Answer: B
+4048,Answer: C
+4049,Answer: C
+4050,C 
+4051,D
+4052,D 
+4053,D
+4054,C
+4055,C
+4056,D
+4057,Answer: C
+4058,D
+4059,D
+4060,Answer: D
+4061,C
+4062,D 
+4063,Answer: A
+4064,Answer: D
+4065,A
+4066,Answer: B
+4067,"Interest rates will remain relatively constant., so the answer is C"
+4068,D
+4069,D
+4070,Answer: D
+4071,Answer: C
+4072,A
+4073,D
+4074,D
+4075,Answer: D
+4076,D
+4077,D
+4078,D
+4079,B
+4080,D
+4081,D
+4082,D 
+4083,Answer: D
+4084,D
+4085,Answer: D
+4086,D
+4087,C
+4088,Answer: D
+4089,B
+4090,C
+4091,C
+4092,C
+4093,A
+4094,D
+4095,Answer: D
+4096,Answer: D
+4097,C
+4098,D
+4099,D 
+4100,D 
+4101,D
+4102,Answer: A
+4103,C
+4104,A
+4105,A 
+4106,D
+4107,D
+4108,B
+4109,C 
+4110,Answer: D
+4111,D
+4112,C 
+4113,C
+4114,D
+4115,A
+4116,Answer: D
+4117,
+4118,C 
+4119,C
+4120,B
+4121,Answer: C
+4122,C 
+4123,B 
+4124,Answer: A
+4125,B
+4126,B 
+4127,Answer: A
+4128,D
+4129,Answer: B
+4130,D
+4131,A 
+4132,
+4133,Answer: A
+4134,Answer: D
+4135,B 
+4136,D
+4137,Answer: D
+4138,D
+4139,D
+4140,Answer: D
+4141,Answer: D
+4142,Answer: A
+4143,B
+4144,C
+4145,Answer: D
+4146,D 
+4147,D 
+4148,Answer: B
+4149,B 
+4150,Answer: D
+4151,D 
+4152,D
+4153,Answer: D
+4154,C
+4155,D
+4156,D 
+4157,Answer: C
+4158,B 
+4159,D 
+4160,Answer: A
+4161,D
+4162,Answer: D
+4163,Answer: D
+4164,C
+4165,D
+4166,Answer: D
+4167,A
+4168,C 
+4169,
+4170,None of the above
+4171,A
+4172,B
+4173,A
+4174,C
+4175,D
+4176,Answer: A
+4177,Answer: A
+4178,D
+4179,D
+4180,D
+4181,D
+4182,Answer: D
+4183,D
+4184,A
+4185,C
+4186,C
+4187,A
+4188,C 
+4189,D 
+4190,D
+4191,Answer: C
+4192,D
+4193,B
+4194,A 
+4195,C 
+4196,Answer: C
+4197,A 
+4198,A
+4199,D
+4200,Answer: A
+4201,C
+4202,B
+4203,D 
+4204,B 
+4205,B
+4206,Answer: A
+4207,D 
+4208,B
+4209,Answer: A
+4210,D
+4211,Answer: D
+4212,C
+4213,B
+4214,D 
+4215,B
+4216,D
+4217,B
+4218,D
+4219,C 
+4220,
+4221,D
+4222,C
+4223,C
+4224,D
+4225,D 
+4226,D
+4227,Answer: A
+4228,D
+4229,Answer: C
+4230,Answer: A
+4231,Answer: D
+4232,C
+4233,B
+4234,C
+4235,D
+4236,Answer: C
+4237,Answer: B
+4238,D
+4239,D
+4240,D
+4241,Answer: B
+4242,D
+4243,D
+4244,Answer: A
+4245,B
+4246,D
+4247,B 
+4248,Answer: D
+4249,Answer: D
+4250,D
+4251,B 
+4252,Answer: C
+4253,C
+4254,D
+4255,Answer: C
+4256,C 
+4257,D 
+4258,Not Sure
+4259,A
+4260,D 
+4261,Answer: A
+4262,A
+4263,D 
+4264,Answer: C
+4265,C
+4266,A
+4267,D 
+4268,D
+4269,C 
+4270,B 
+4271,C
+4272,C 
+4273,D
+4274,D
+4275,A
+4276,Answer: D
+4277,B
+4278,D
+4279,C 
+4280,Answer: B
+4281,Answer: D
+4282,C 
+4283,A
+4284,B 
+4285,D
+4286,D
+4287,C
+4288,Answer: D
+4289,B
+4290,A
+4291,D
+4292,C
+4293,Answer: B
+4294,C
+4295,B 
+4296,D
+4297,"5, so the answer is A"
+4298,C
+4299,Answer: B
+4300,D
+4301,A
+4302,Answer: B
+4303,D
+4304,D 
+4305,A
+4306,D
+4307,"January 21st, so the answer is B"
+4308,B 
+4309,D
+4310,C 
+4311,D
+4312,Answer: D
+4313,B
+4314,Answer: A
+4315,Answer: D
+4316,D
+4317,D 
+4318,B
+4319,Answer: D
+4320,B
+4321,Answer: D
+4322,Answer: A
+4323,A
+4324,A
+4325,B 
+4326,Answer: D
+4327,Answer: D
+4328,Answer: B
+4329,D 
+4330,C
+4331,D
+4332,Answer: D
+4333,None of the above
+4334,B
+4335,Answer: B
+4336,D
+4337,D 
+4338,D
+4339,D
+4340,A
+4341,Answer: C
+4342,D 
+4343,Answer: D
+4344,Answer: C
+4345,C
+4346,Answer: A
+4347,D
+4348,A 
+4349,Answer: D
+4350,D
+4351,B
+4352,Answer: D
+4353,D
+4354,A 
+4355,Answer: C
+4356,C
+4357,C
+4358,Answer: A
+4359,B
+4360,Answer: D
+4361,B
+4362,Answer: B
+4363,B
+4364,B
+4365,D 
+4366,D
+4367,D 
+4368,Answer: D
+4369,B
+4370,D
+4371,D
+4372,D
+4373,D
+4374,Answer: D
+4375,B 
+4376,D
+4377,Answer: D
+4378,D
+4379,Answer: C
+4380,Answer: C
+4381,B
+4382,Answer: A
+4383,C 
+4384,D
+4385,D
+4386,Answer: B
+4387,A 
+4388,A
+4389,B
+4390,Answer: D
+4391,C
+4392,Answer: B
+4393,D
+4394,B 
+4395,B
+4396,A
+4397,B
+4398,D
+4399,Answer: D
+4400,Answer: D
+4401,Answer: C
+4402,D 
+4403,C
+4404,A 
+4405,Answer: D
+4406,A
+4407,Answer: D
+4408,A
+4409,D 
+4410,Answer: C
+4411,Answer: D
+4412,C 
+4413,C
+4414,D
+4415,D
+4416,B 
+4417,A
+4418,Not Sure
+4419,Answer: D
+4420,B 
+4421,C 
+4422,B
+4423,C
+4424,D
+4425,B 
+4426,D
+4427,C
+4428,C
+4429,Answer: D
+4430,D 
+4431,B 
+4432,Answer: A
+4433,Answer: D
+4434,Answer: D
+4435,D 
+4436,Answer: D
+4437,Answer: A
+4438,C
+4439,D
+4440,Answer: D
+4441,D
+4442,D
+4443,B 
+4444,D
+4445,A
+4446,Answer: D
+4447,D
+4448,D
+4449,B
+4450,B 
+4451,B
+4452,D
+4453,C
+4454,A
+4455,B
+4456,C
+4457,B 
+4458,A
+4459,C
+4460,D 
+4461,C
+4462,Answer: D
+4463,C 
+4464,C
+4465,Answer: A
+4466,B 
+4467,A
+4468,A 
+4469,Answer: D
+4470,Answer: C
+4471,Answer: D
+4472,C
+4473,C
+4474,D
+4475,D
+4476,D 
+4477,C
+4478,B
+4479,D
+4480,Answer: C
+4481,B
+4482,B 
+4483,Answer: D
+4484,D 
+4485,B
+4486,B
+4487,D
+4488,D
+4489,C 
+4490,A
+4491,B
+4492,Answer: D
+4493,C
+4494,D
+4495,Answer: B
+4496,Answer: D
+4497,D 
+4498,D 
+4499,C
+4500,D
+4501,D
+4502,D
+4503,C
+4504,D
+4505,C
+4506,D
+4507,Answer: B
+4508,Answer: C
+4509,B
+4510,C
+4511,D 
+4512,B
+4513,Answer: D
+4514,Answer: C
+4515,Answer: D
+4516,B
+4517,C
+4518,D
+4519,Answer: A
+4520,D
+4521,B 
+4522,B
+4523,D
+4524,B
+4525,D
+4526,B 
+4527,C
+4528,A
+4529,B 
+4530,Answer: D
+4531,Answer: A
+4532,D
+4533,D
+4534,Answer: D
+4535,Answer: D
+4536,Answer: A
+4537,Answer: A
+4538,C
+4539,D
+4540,Answer: D
+4541,D
+4542,B
+4543,C
+4544,C
+4545,C
+4546,Answer: C
+4547,B
+4548,D
+4549,D 
+4550,Answer: C
+4551,Answer: B
+4552,D
+4553,Answer: A
+4554,Answer: A
+4555,D
+4556,Answer: C
+4557,D 
+4558,D 
+4559,D
+4560,B
+4561,B
+4562,D
+4563,A 
+4564,Answer: A
+4565,C 
+4566,Answer: D
+4567,B
+4568,A
+4569,D
+4570,D
+4571,B
+4572,Answer: D
+4573,D
+4574,D
+4575,Answer: C
+4576,D
+4577,D
+4578,Answer: D
+4579,Answer: D
+4580,Answer: C
+4581,D
+4582,Answer: A
+4583,Answer: B
+4584,D
+4585,B 
+4586,C
+4587,C 
+4588,A
+4589,D 
+4590,Answer: A
+4591,D
+4592,Answer: C
+4593,B
+4594,B
+4595,D
+4596,B
+4597,D 
+4598,D
+4599,Answer: B
+4600,Answer: D
+4601,Answer: A
+4602,Answer: D
+4603,"the minimum of average variable cost, so the answer is D"
+4604,D
+4605,C 
+4606,D
+4607,D
+4608,D
+4609,C
+4610,Answer: A
+4611,B 
+4612,D
+4613,C
+4614,Answer: D
+4615,D
+4616,A
+4617,C
+4618,C 
+4619,D
+4620,B 
+4621,Answer: D
+4622,C 
+4623,A
+4624,D
+4625,Answer: D
+4626,Answer: C
+4627,A
+4628,D
+4629,A 
+4630,C
+4631,Answer: C
+4632,A 
+4633,D
+4634,D
+4635,D
+4636,Answer: B
+4637,B
+4638,C
+4639,D 
+4640,Answer: D
+4641,B
+4642,D
+4643,B
+4644,C
+4645,C
+4646,A 
+4647,Answer: D
+4648,D
+4649,Answer: A
+4650,C
+4651,Answer: D
+4652,D 
+4653,C
+4654,C
+4655,B
+4656,D
+4657,D
+4658,Answer: C
+4659,D 
+4660,D
+4661,"The demand for labor is derived from the demand for the products produced by labor., so the answer is D"
+4662,C
+4663,Answer: B
+4664,Answer: D
+4665,D
+4666,D
+4667,C
+4668,Answer: C
+4669,D 
+4670,D
+4671,A
+4672,D 
+4673,D
+4674,Answer: D
+4675,D 
+4676,D 
+4677,A
+4678,Answer: D
+4679,C
+4680,C
+4681,D
+4682,A
+4683,Not Sure
+4684,Answer: C
+4685,D
+4686,C 
+4687,B
+4688,D 
+4689,D
+4690,A
+4691,A
+4692,A 
+4693,A 
+4694,C
+4695,None of the above
+4696,B
+4697,Answer: D
+4698,Answer: B
+4699,A 
+4700,D
+4701,D
+4702,B
+4703,C
+4704,A 
+4705,"Price falls as firms enter the industry., so the answer is D"
+4706,C
+4707,D
+4708,Answer: D
+4709,C
+4710,Answer: D
+4711,D
+4712,Answer: D
+4713,C
+4714,D
+4715,Answer: B
+4716,B 
+4717,D
+4718,C
+4719,A
+4720,A 
+4721,B
+4722,B
+4723,D
+4724,B
+4725,D
+4726,Answer: D
+4727,Answer: D
+4728,C
+4729,D
+4730,C
+4731,D 
+4732,Answer: B
+4733,D
+4734,A
+4735,D
+4736,Answer: D
+4737,Answer: A
+4738,D
+4739,C
+4740,D
+4741,Answer: C
+4742,A 
+4743,C 
+4744,Answer: A
+4745,B
+4746,Answer: D
+4747,D 
+4748,D
+4749,B
+4750,Answer: B
+4751,A
+4752,Answer: D
+4753,Answer: C
+4754,A
+4755,D 
+4756,B
+4757,C 
+4758,A
+4759,D
+4760,None of the above
+4761,D
+4762,D
+4763,C
+4764,D
+4765,Answer: D
+4766,Answer: D
+4767,C
+4768,B
+4769,D
+4770,C
+4771,C
+4772,C 
+4773,Answer: D
+4774,A
+4775,Answer: A
+4776,D 
+4777,Answer: C
+4778,D
+4779,D 
+4780,D 
+4781,Answer: D
+4782,D
+4783,B 
+4784,C
+4785,
+4786,Answer: A
+4787,B
+4788,Answer: C
+4789,Answer: D
+4790,Answer: B
+4791,Answer: D
+4792,C 
+4793,Answer: B
+4794,Answer: D
+4795,C
+4796,Answer: C
+4797,Answer: B
+4798,Answer: D
+4799,"+3e and -4e, so the answer is A"
+4800,Answer: C
+4801,C
+4802,Answer: C
+4803,A 
+4804,D
+4805,Answer: A
+4806,D
+4807,D 
+4808,C
+4809,
+4810,Answer: D
+4811,C
+4812,C
+4813,B 
+4814,D
+4815,A 
+4816,Answer: D
+4817,Answer: D
+4818,D
+4819,Answer: D
+4820,C
+4821,D
+4822,Answer: C
+4823,C
+4824,Answer: D
+4825,Answer: A
+4826,C 
+4827,D
+4828,Answer: C
+4829,D
+4830,Answer: C
+4831,D
+4832,Answer: D
+4833,Answer: C
+4834,Answer: D
+4835,C 
+4836,Answer: D
+4837,Answer: C
+4838,D 
+4839,Answer: D
+4840,Answer: A
+4841,Not Sure
+4842,B
+4843,
+4844,Answer: C
+4845,Answer: C
+4846,B
+4847,D
+4848,A 
+4849,B
+4850,C
+4851,D
+4852,D
+4853,C 
+4854,Answer: D
+4855,C
+4856,D
+4857,C 
+4858,Answer: D
+4859,A 
+4860,D
+4861,A
+4862,B
+4863,D 
+4864,D
+4865,B
+4866,D 
+4867,C
+4868,D
+4869,B
+4870,D
+4871,C 
+4872,D
+4873,D
+4874,Answer: D
+4875,D
+4876,D
+4877,Answer: D
+4878,C 
+4879,A 
+4880,Answer: D
+4881,Answer: C
+4882,Answer: D
+4883,D
+4884,Answer: B
+4885,Answer: D
+4886,B
+4887,A
+4888,B 
+4889,"Hierarchy of needs, so the answer is D"
+4890,D
+4891,C
+4892,A
+4893,Answer: A
+4894,D
+4895,A 
+4896,D 
+4897,C 
+4898,C
+4899,C
+4900,B 
+4901,D
+4902,Answer: D
+4903,D
+4904,Answer: A
+4905,D
+4906,C 
+4907,C
+4908,Answer: D
+4909,C
+4910,D 
+4911,C 
+4912,B
+4913,C 
+4914,A
+4915,Answer: D
+4916,A 
+4917,Answer: B
+4918,D
+4919,A
+4920,D
+4921,C
+4922,A 
+4923,D
+4924,B 
+4925,C 
+4926,C
+4927,B
+4928,D
+4929,Answer: B
+4930,D
+4931,D
+4932,Answer: D
+4933,D
+4934,Answer: C
+4935,Not Sure
+4936,D 
+4937,D
+4938,Answer: B
+4939,B
+4940,D
+4941,C
+4942,B
+4943,C
+4944,C
+4945,B
+4946,Answer: B
+4947,C
+4948,Answer: D
+4949,D
+4950,D
+4951,B
+4952,Answer: B
+4953,C
+4954,A
+4955,D
+4956,A
+4957,Not Sure
+4958,D 
+4959,B
+4960,Answer: C
+4961,D
+4962,Answer: D
+4963,A
+4964,Answer: A
+4965,Answer: D
+4966,C 
+4967,D 
+4968,C
+4969,D
+4970,D
+4971,Answer: D
+4972,Answer: C
+4973,C
+4974,D
+4975,Answer: B
+4976,D
+4977,D
+4978,B
+4979,D
+4980,D
+4981,Answer: D
+4982,C
+4983,B 
+4984,D
+4985,D
+4986,D
+4987,D
+4988,D
+4989,D
+4990,A
+4991,D
+4992,B
+4993,D
+4994,
+4995,A 
+4996,D
+4997,D
+4998,Answer: B
+4999,Answer: C
+5000,C
+5001,Answer: A
+5002,D 
+5003,Answer: D
+5004,A 
+5005,Answer: B
+5006,D
+5007,C
+5008,"no longer evokes the conditioned response, so the answer is D"
+5009,Answer: A
+5010,Answer: D
+5011,D
+5012,Answer: C
+5013,Answer: D
+5014,Answer: B
+5015,D
+5016,A
+5017,C
+5018,Answer: D
+5019,D 
+5020,D
+5021,Answer: B
+5022,Answer: D
+5023,D
+5024,D
+5025,B
+5026,B
+5027,A
+5028,D
+5029,Answer: D
+5030,"PET, so the answer is C"
+5031,Answer: C
+5032,D
+5033,Answer: D
+5034,C 
+5035,C 
+5036,D
+5037,Answer: D
+5038,C
+5039,D 
+5040,Answer: D
+5041,C
+5042,C
+5043,Answer: D
+5044,D 
+5045,C
+5046,Answer: A
+5047,C
+5048,C 
+5049,B
+5050,Not Sure
+5051,"Group A would become more firmly entrenched, while Group B members would moderate their positions, so the answer is C"
+5052,A 
+5053,D 
+5054,B 
+5055,D
+5056,Answer: D
+5057,D 
+5058,Answer: A
+5059,C
+5060,Answer: D
+5061,A
+5062,C
+5063,Answer: D
+5064,D
+5065,D
+5066,Answer: D
+5067,B
+5068,B
+5069,D
+5070,Answer: D
+5071,Answer: A
+5072,A 
+5073,C
+5074,B
+5075,B
+5076,Answer: D
+5077,Answer: C
+5078,D
+5079,D 
+5080,D 
+5081,B
+5082,A
+5083,D
+5084,A 
+5085,Answer: C
+5086,C
+5087,D
+5088,D 
+5089,D 
+5090,Answer: B
+5091,Answer: B
+5092,Answer: C
+5093,B
+5094,A
+5095,C
+5096,D
+5097,D
+5098,Answer: D
+5099,Answer: D
+5100,D 
+5101,C
+5102,Answer: D
+5103,Answer: A
+5104,Answer: D
+5105,A 
+5106,B 
+5107,D
+5108,Answer: D
+5109,Answer: D
+5110,Answer: C
+5111,C
+5112,D
+5113,Answer: C
+5114,Answer: C
+5115,C
+5116,Answer: D
+5117,C 
+5118,A
+5119,D
+5120,D 
+5121,
+5122,Answer: A
+5123,C
+5124,A
+5125,B 
+5126,Answer: B
+5127,C 
+5128,D 
+5129,B 
+5130,C 
+5131,A
+5132,C 
+5133,B
+5134,D
+5135,B
+5136,D 
+5137,D
+5138,Answer: B
+5139,A
+5140,Answer: D
+5141,Answer: A
+5142,Answer: C
+5143,D 
+5144,C
+5145,D
+5146,D
+5147,Answer: B
+5148,B
+5149,D 
+5150,D 
+5151,D
+5152,Answer: B
+5153,B
+5154,C
+5155,D
+5156,B
+5157,C
+5158,Answer: C
+5159,Answer: D
+5160,Answer: D
+5161,D
+5162,Answer: D
+5163,C
+5164,D
+5165,Answer: B
+5166,C
+5167,Answer: D
+5168,Answer: D
+5169,Answer: A
+5170,C
+5171,B
+5172,D 
+5173,Answer: B
+5174,D
+5175,C
+5176,Answer: A
+5177,B
+5178,Answer: C
+5179,D
+5180,D 
+5181,D
+5182,D
+5183,Answer: C
+5184,"sympathetic nervous system, so the answer is C"
+5185,C
+5186,C
+5187,Answer: B
+5188,C 
+5189,Answer: D
+5190,Answer: C
+5191,D
+5192,A
+5193,D
+5194,B
+5195,D
+5196,Answer: D
+5197,D
+5198,Answer: D
+5199,B
+5200,D
+5201,B
+5202,D
+5203,Answer: D
+5204,A
+5205,C
+5206,D
+5207,B
+5208,D
+5209,A
+5210,Answer: B
+5211,D
+5212,C
+5213,Answer: D
+5214,D
+5215,B 
+5216,D
+5217,Answer: D
+5218,A
+5219,D 
+5220,Answer: C
+5221,D
+5222,D
+5223,D
+5224,Answer: D
+5225,D
+5226,A
+5227,Answer: B
+5228,Answer: D
+5229,D
+5230,D
+5231,Answer: D
+5232,D
+5233,A
+5234,D
+5235,Answer: D
+5236,B 
+5237,D
+5238,D
+5239,Answer: C
+5240,D
+5241,Answer: D
+5242,
+5243,D 
+5244,D
+5245,Answer: B
+5246,B
+5247,Answer: C
+5248,B
+5249,Answer: B
+5250,D 
+5251,D
+5252,None of the above
+5253,A
+5254,B
+5255,D
+5256,D
+5257,C 
+5258,D
+5259,Answer: B
+5260,C
+5261,D
+5262,Answer: D
+5263,A 
+5264,D 
+5265,B
+5266,D 
+5267,Answer: B
+5268,B 
+5269,D
+5270,A 
+5271,B
+5272,B
+5273,D 
+5274,C
+5275,None of the above
+5276,D 
+5277,Answer: D
+5278,Answer: D
+5279,Answer: B
+5280,D
+5281,A 
+5282,Answer: D
+5283,Answer: B
+5284,B
+5285,D
+5286,B
+5287,D
+5288,Answer: D
+5289,C
+5290,B 
+5291,D
+5292,Answer: C
+5293,D
+5294,A
+5295,Answer: C
+5296,Answer: D
+5297,Answer: D
+5298,D 
+5299,D
+5300,C
+5301,B
+5302,Answer: A
+5303,Answer: D
+5304,B
+5305,D
+5306,D
+5307,D
+5308,C 
+5309,D
+5310,C 
+5311,D 
+5312,B
+5313,B
+5314,C
+5315,D 
+5316,Answer: C
+5317,Answer: D
+5318,Answer: B
+5319,C 
+5320,Answer: D
+5321,Answer: C
+5322,B
+5323,C 
+5324,D
+5325,A
+5326,A 
+5327,B
+5328,D
+5329,C
+5330,Answer: A
+5331,Answer: D
+5332,D 
+5333,D
+5334,Answer: D
+5335,B
+5336,D
+5337,B
+5338,B
+5339,A
+5340,C
+5341,A
+5342,B
+5343,C
+5344,Answer: D
+5345,"sight, so the answer is D"
+5346,C
+5347,D
+5348,D
+5349,D 
+5350,Answer: B
+5351,Answer: C
+5352,D
+5353,Answer: C
+5354,C
+5355,D
+5356,Answer: B
+5357,D 
+5358,B
+5359,D
+5360,Answer: A
+5361,Answer: C
+5362,B 
+5363,Answer: D
+5364,C
+5365,C
+5366,D
+5367,Answer: B
+5368,B
+5369,A
+5370,C
+5371,C
+5372,C
+5373,D 
+5374,B
+5375,C
+5376,D
+5377,A
+5378,D
+5379,A
+5380,D
+5381,B
+5382,D
+5383,D
+5384,C 
+5385,Answer: C
+5386,"Crystallized intelligence, so the answer is B"
+5387,B
+5388,B
+5389,D
+5390,C
+5391,B
+5392,B 
+5393,Answer: D
+5394,Answer: D
+5395,D 
+5396,A 
+5397,Answer: D
+5398,Answer: D
+5399,Answer: D
+5400,Answer: D
+5401,B
+5402,Answer: C
+5403,D
+5404,Answer: C
+5405,"industrial/organizational, so the answer is C"
+5406,Answer: C
+5407,Answer: D
+5408,D 
+5409,C
+5410,B
+5411,Answer: C
+5412,D 
+5413,C
+5414,C
+5415,C
+5416,D 
+5417,Answer: D
+5418,Answer: C
+5419,D
+5420,D 
+5421,D
+5422,D
+5423,Answer: C
+5424,Answer: B
+5425,B 
+5426,C 
+5427,D
+5428,D 
+5429,D 
+5430,Answer: D
+5431,Answer: D
+5432,B
+5433,Answer: C
+5434,D
+5435,None of the above
+5436,D 
+5437,Answer: D
+5438,D 
+5439,Answer: D
+5440,Answer: D
+5441,C
+5442,Answer: A
+5443,C 
+5444,D
+5445,B 
+5446,D
+5447,D
+5448,B
+5449,Answer: D
+5450,D 
+5451,D 
+5452,D
+5453,Answer: D
+5454,C 
+5455,D
+5456,C 
+5457,Answer: D
+5458,Answer: A
+5459,D 
+5460,D 
+5461,
+5462,Answer: D
+5463,Answer: D
+5464,D
+5465,D
+5466,D
+5467,Answer: D
+5468,Answer: C
+5469,A 
+5470,C
+5471,C 
+5472,D
+5473,Answer: D
+5474,Answer: A
+5475,D
+5476,Answer: B
+5477,D 
+5478,B 
+5479,C 
+5480,Answer: C
+5481,D
+5482,D
+5483,D
+5484,D
+5485,A
+5486,D
+5487,Answer: D
+5488,
+5489,D 
+5490,Answer: C
+5491,Answer: D
+5492,D 
+5493,C 
+5494,Answer: D
+5495,Answer: A
+5496,Answer: D
+5497,D 
+5498,B 
+5499,B
+5500,C
+5501,B 
+5502,C
+5503,D
+5504,Answer: B
+5505,C
+5506,D
+5507,B
+5508,D
+5509,C
+5510,A
+5511,C
+5512,Answer: D
+5513,Answer: C
+5514,Answer: C
+5515,Answer: D
+5516,D
+5517,Answer: A
+5518,D 
+5519,B
+5520,Answer: C
+5521,C 
+5522,Answer: D
+5523,Answer: D
+5524,D
+5525,Answer: B
+5526,Not Sure
+5527,None of the above
+5528,D
+5529,B
+5530,Answer: C
+5531,D
+5532,D 
+5533,B
+5534,C 
+5535,D 
+5536,Answer: D
+5537,C 
+5538,D
+5539,D
+5540,B
+5541,D 
+5542,B
+5543,D
+5544,A
+5545,D 
+5546,D
+5547,
+5548,D
+5549,D
+5550,B
+5551,D
+5552,C 
+5553,Answer: D
+5554,C
+5555,D 
+5556,B
+5557,D
+5558,Answer: D
+5559,D
+5560,D
+5561,Answer: D
+5562,Answer: D
+5563,B
+5564,D 
+5565,D
+5566,D
+5567,D
+5568,B
+5569,D
+5570,D
+5571,C
+5572,C 
+5573,D 
+5574,Answer: C
+5575,D 
+5576,D 
+5577,Answer: D
+5578,Answer: D
+5579,Answer: C
+5580,D
+5581,C 
+5582,C
+5583,Answer: D
+5584,A
+5585,Answer: C
+5586,A
+5587,D 
+5588,C
+5589,Answer: B
+5590,D 
+5591,Answer: C
+5592,Answer: D
+5593,C
+5594,B
+5595,Answer: A
+5596,D 
+5597,D 
+5598,C
+5599,Answer: C
+5600,Answer: B
+5601,D
+5602,A
+5603,Answer: C
+5604,Answer: D
+5605,"40, so the answer is D"
+5606,B
+5607,C 
+5608,Answer: D
+5609,A 
+5610,D
+5611,C 
+5612,Not Sure
+5613,D
+5614,B
+5615,D
+5616,Answer: D
+5617,D 
+5618,D
+5619,D 
+5620,Answer: C
+5621,A 
+5622,C
+5623,A
+5624,Answer: C
+5625,D
+5626,C 
+5627,D
+5628,B 
+5629,D
+5630,D 
+5631,A
+5632,A
+5633,Answer: D
+5634,D
+5635,D
+5636,Answer: D
+5637,D 
+5638,
+5639,Answer: A
+5640,D
+5641,C
+5642,D 
+5643,D
+5644,D
+5645,D
+5646,D
+5647,Answer: D
+5648,D 
+5649,D
+5650,D 
+5651,B
+5652,B
+5653,Answer: A
+5654,B 
+5655,A
+5656,Answer: D
+5657,B 
+5658,D
+5659,D
+5660,A
+5661,Answer: A
+5662,B 
+5663,Answer: C
+5664,B
+5665,D 
+5666,C
+5667,D
+5668,D 
+5669,C
+5670,
+5671,"Containment, so the answer is B"
+5672,D
+5673,C
+5674,D
+5675,Answer: A
+5676,"Debates about the legal status of women., so the answer is D"
+5677,Answer: D
+5678,C 
+5679,Answer: C
+5680,C
+5681,C 
+5682,C
+5683,Answer: B
+5684,Answer: C
+5685,A
+5686,C
+5687,B
+5688,D
+5689,D
+5690,Answer: D
+5691,Answer: D
+5692,C
+5693,Answer: D
+5694,D
+5695,C
+5696,D
+5697,D
+5698,C 
+5699,D 
+5700,A
+5701,D
+5702,D
+5703,C
+5704,A
+5705,D
+5706,Answer: C
+5707,Answer: C
+5708,C 
+5709,D 
+5710,B 
+5711,Answer: D
+5712,Answer: B
+5713,Answer: B
+5714,C
+5715,Answer: C
+5716,D
+5717,D
+5718,D
+5719,Answer: A
+5720,C
+5721,Answer: A
+5722,Answer: D
+5723,Answer: D
+5724,Answer: B
+5725,Answer: D
+5726,D
+5727,B
+5728,D
+5729,Answer: B
+5730,Answer: D
+5731,D
+5732,C 
+5733,C
+5734,B
+5735,C 
+5736,A
+5737,C
+5738,B
+5739,C 
+5740,Answer: B
+5741,D
+5742,D
+5743,Answer: A
+5744,D
+5745,C
+5746,Answer: A
+5747,B
+5748,Answer: C
+5749,D
+5750,C
+5751,Answer: A
+5752,Answer: D
+5753,D 
+5754,D
+5755,Answer: B
+5756,D 
+5757,Answer: D
+5758,C
+5759,D
+5760,C 
+5761,A
+5762,D
+5763,Answer: B
+5764,Answer: B
+5765,D
+5766,B
+5767,Answer: A
+5768,D
+5769,D 
+5770,A
+5771,Answer: D
+5772,C
+5773,D 
+5774,B 
+5775,D
+5776,Answer: B
+5777,Answer: A
+5778,C 
+5779,D
+5780,B
+5781,Answer: D
+5782,Answer: A
+5783,C 
+5784,
+5785,C
+5786,Answer: A
+5787,B
+5788,Answer: B
+5789,A 
+5790,D
+5791,A
+5792,D
+5793,A
+5794,B 
+5795,C
+5796,B
+5797,D 
+5798,"Mixed agriculture among the Iroquois, so the answer is C"
+5799,D
+5800,B
+5801,C 
+5802,C
+5803,A
+5804,Answer: A
+5805,D 
+5806,Answer: A
+5807,Answer: B
+5808,B
+5809,D
+5810,A
+5811,C
+5812,C
+5813,C
+5814,D
+5815,B 
+5816,D
+5817,Answer: D
+5818,B
+5819,Answer: B
+5820,Answer: D
+5821,D
+5822,Answer: D
+5823,Answer: B
+5824,Answer: C
+5825,A
+5826,C
+5827,D
+5828,D
+5829,Answer: D
+5830,Answer: A
+5831,D
+5832,B
+5833,
+5834,Answer: D
+5835,C
+5836,Answer: C
+5837,Answer: D
+5838,C
+5839,D
+5840,D
+5841,A
+5842,D
+5843,C
+5844,Answer: D
+5845,D
+5846,Answer: B
+5847,Answer: C
+5848,D
+5849,Answer: B
+5850,Answer: B
+5851,C 
+5852,
+5853,Answer: B
+5854,D
+5855,Answer: C
+5856,D
+5857,Answer: C
+5858,A
+5859,B 
+5860,C 
+5861,Answer: D
+5862,B
+5863,A
+5864,Answer: D
+5865,A
+5866,D
+5867,Answer: D
+5868,Answer: A
+5869,D
+5870,B
+5871,A
+5872,D
+5873,C
+5874,B
+5875,C
+5876,Answer: B
+5877,A
+5878,A
+5879,D
+5880,Answer: A
+5881,D
+5882,B
+5883,Answer: D
+5884,B
+5885,B
+5886,B 
+5887,Answer: B
+5888,D
+5889,D 
+5890,A 
+5891,D
+5892,D 
+5893,Answer: D
+5894,C 
+5895,D
+5896,D
+5897,D
+5898,Answer: C
+5899,Answer: A
+5900,D 
+5901,Answer: C
+5902,A
+5903,D
+5904,D
+5905,B
+5906,D
+5907,Answer: B
+5908,B 
+5909,C
+5910,
+5911,D 
+5912,A
+5913,Answer: A
+5914,Answer: C
+5915,C
+5916,Answer: A
+5917,D
+5918,A 
+5919,Answer: A
+5920,A
+5921,Answer: A
+5922,D
+5923,D 
+5924,D
+5925,A
+5926,C
+5927,D
+5928,B
+5929,B
+5930,Answer: A
+5931,B
+5932,B
+5933,C
+5934,Answer: A
+5935,D
+5936,D 
+5937,D
+5938,Answer: A
+5939,A
+5940,B
+5941,Answer: B
+5942,Answer: D
+5943,C
+5944,B 
+5945,A
+5946,B
+5947,D
+5948,D
+5949,D 
+5950,D 
+5951,C
+5952,C
+5953,Answer: C
+5954,Answer: A
+5955,C 
+5956,C
+5957,C
+5958,Answer: A
+5959,D 
+5960,Answer: D
+5961,D
+5962,D
+5963,D
+5964,Answer: D
+5965,Answer: C
+5966,Answer: B
+5967,Answer: D
+5968,Answer: B
+5969,C 
+5970,C
+5971,D
+5972,Answer: B
+5973,D
+5974,Answer: C
+5975,C
+5976,A
+5977,A
+5978,B 
+5979,D
+5980,C
+5981,B
+5982,C
+5983,D
+5984,D
+5985,D
+5986,D
+5987,A
+5988,D
+5989,A
+5990,C
+5991,D
+5992,Answer: C
+5993,B
+5994,Answer: B
+5995,C
+5996,B
+5997,C
+5998,C
+5999,C
+6000,D 
+6001,Answer: A
+6002,B
+6003,D
+6004,D
+6005,Answer: A
+6006,C
+6007,Answer: B
+6008,Answer: C
+6009,Answer: C
+6010,C
+6011,Answer: C
+6012,A 
+6013,B
+6014,B
+6015,C
+6016,Answer: A
+6017,D
+6018,Answer: A
+6019,D
+6020,Answer: A
+6021,D 
+6022,Not Sure
+6023,Answer: D
+6024,C 
+6025,B
+6026,Answer: C
+6027,Answer: C
+6028,D
+6029,A
+6030,D 
+6031,D
+6032,D
+6033,Answer: D
+6034,Answer: C
+6035,B 
+6036,A
+6037,D
+6038,B
+6039,Answer: D
+6040,C
+6041,B
+6042,Answer: A
+6043,D
+6044,Answer: D
+6045,D
+6046,C
+6047,B
+6048,D
+6049,B 
+6050,D
+6051,D 
+6052,D
+6053,D
+6054,C 
+6055,Answer: B
+6056,A 
+6057,Answer: C
+6058,Answer: C
+6059,Answer: A
+6060,B
+6061,Answer: B
+6062,C
+6063,D
+6064,A
+6065,D 
+6066,B
+6067,Answer: C
+6068,Answer: B
+6069,D
+6070,C 
+6071,"A time of intense political conflict among warring Italian city-states and other factions, so the answer is C"
+6072,D
+6073,C 
+6074,C
+6075,A
+6076,D
+6077,D 
+6078,B
+6079,D 
+6080,Answer: D
+6081,D
+6082,Answer: B
+6083,A
+6084,Answer: D
+6085,C 
+6086,Answer: C
+6087,Answer: A
+6088,Answer: C
+6089,B
+6090,B
+6091,C 
+6092,Answer: A
+6093,B
+6094,D
+6095,D
+6096,D
+6097,A
+6098,Answer: C
+6099,D
+6100,A
+6101,D
+6102,Answer: A
+6103,B 
+6104,B
+6105,C
+6106,B
+6107,A
+6108,B
+6109,C
+6110,Answer: D
+6111,B
+6112,B
+6113,D
+6114,A 
+6115,A
+6116,A
+6117,B
+6118,D
+6119,D 
+6120,
+6121,A
+6122,Answer: D
+6123,D
+6124,D
+6125,A
+6126,D
+6127,Answer: B
+6128,D
+6129,Answer: D
+6130,A
+6131,B
+6132,B
+6133,C 
+6134,Answer: D
+6135,B
+6136,Answer: B
+6137,D
+6138,A
+6139,C 
+6140,D 
+6141,C
+6142,Answer: C
+6143,D 
+6144,B
+6145,Answer: C
+6146,B
+6147,D 
+6148,Answer: D
+6149,B
+6150,C
+6151,D
+6152,B 
+6153,Answer: D
+6154,B 
+6155,
+6156,B
+6157,Answer: C
+6158,D
+6159,B 
+6160,D 
+6161,Answer: B
+6162,C
+6163,A
+6164,Answer: C
+6165,Answer: A
+6166,Answer: B
+6167,B 
+6168,D
+6169,B
+6170,B
+6171,A 
+6172,C 
+6173,Answer: B
+6174,B
+6175,Answer: A
+6176,A
+6177,B
+6178,Answer: D
+6179,D 
+6180,Answer: A
+6181,A
+6182,D
+6183,B
+6184,A 
+6185,Answer: A
+6186,Answer: D
+6187,B 
+6188,B
+6189,Answer: C
+6190,C 
+6191,C 
+6192,A
+6193,D
+6194,A
+6195,A 
+6196,C
+6197,C
+6198,Answer: B
+6199,D
+6200,D
+6201,None of the above
+6202,Answer: D
+6203,B
+6204,C
+6205,A
+6206,C 
+6207,D
+6208,B 
+6209,
+6210,A
+6211,C
+6212,D
+6213,A 
+6214,C
+6215,D
+6216,Answer: C
+6217,B
+6218,A 
+6219,A 
+6220,B
+6221,Answer: B
+6222,B 
+6223,D
+6224,B 
+6225,B 
+6226,D
+6227,D
+6228,Answer: D
+6229,B 
+6230,Not Sure
+6231,C
+6232,Answer: B
+6233,D
+6234,Answer: B
+6235,A
+6236,Answer: A
+6237,B
+6238,C
+6239,D 
+6240,B 
+6241,Answer: B
+6242,Answer: A
+6243,C 
+6244,Answer: A
+6245,C
+6246,A 
+6247,Answer: A
+6248,None of the above
+6249,A 
+6250,Answer: A
+6251,D
+6252,D
+6253,C
+6254,B 
+6255,
+6256,A
+6257,Answer: B
+6258,D
+6259,C 
+6260,Answer: B
+6261,C
+6262,Answer: C
+6263,Answer: B
+6264,A
+6265,C 
+6266,Answer: B
+6267,A
+6268,B
+6269,A
+6270,"Insomnia, so the answer is D"
+6271,Answer: A
+6272,C 
+6273,D 
+6274,A
+6275,C
+6276,Answer: C
+6277,D 
+6278,B
+6279,C 
+6280,C
+6281,A
+6282,B
+6283,A
+6284,B
+6285,D
+6286,Answer: A
+6287,C
+6288,A
+6289,Answer: C
+6290,C
+6291,Answer: C
+6292,Answer: A
+6293,D
+6294,B
+6295,A
+6296,Answer: B
+6297,D
+6298,Answer: A
+6299,Answer: D
+6300,Answer: A
+6301,C
+6302,C
+6303,C
+6304,Answer: C
+6305,D
+6306,A 
+6307,D
+6308,Answer: C
+6309,
+6310,Answer: D
+6311,B
+6312,B 
+6313,C
+6314,Answer: D
+6315,Answer: A
+6316,D
+6317,D 
+6318,Answer: D
+6319,C
+6320,A
+6321,Answer: C
+6322,C
+6323,Answer: D
+6324,D
+6325,B 
+6326,D
+6327,C
+6328,Answer: D
+6329,Answer: A
+6330,A
+6331,C 
+6332,A 
+6333,C
+6334,D 
+6335,C 
+6336,Answer: C
+6337,Answer: C
+6338,B
+6339,C
+6340,C 
+6341,Answer: D
+6342,C
+6343,Answer: D
+6344,Answer: D
+6345,D 
+6346,A
+6347,Answer: D
+6348,D
+6349,None of the above
+6350,D
+6351,Answer: D
+6352,D
+6353,Answer: C
+6354,A
+6355,C 
+6356,Answer: D
+6357,Answer: B
+6358,C
+6359,D 
+6360,D
+6361,C
+6362,C
+6363,C
+6364,D
+6365,B
+6366,D
+6367,C
+6368,Answer: B
+6369,A 
+6370,D
+6371,Answer: D
+6372,D
+6373,Answer: C
+6374,Answer: D
+6375,B
+6376,D
+6377,D
+6378,B 
+6379,Answer: B
+6380,Answer: A
+6381,A
+6382,D
+6383,C
+6384,D
+6385,D 
+6386,D 
+6387,D
+6388,D
+6389,B
+6390,A 
+6391,C
+6392,D
+6393,Answer: B
+6394,D 
+6395,D
+6396,Answer: C
+6397,A
+6398,Answer: D
+6399,D
+6400,B 
+6401,B
+6402,D 
+6403,B
+6404,Answer: A
+6405,D 
+6406,B 
+6407,A
+6408,D
+6409,Answer: D
+6410,A
+6411,B
+6412,B 
+6413,Answer: C
+6414,B
+6415,D
+6416,C
+6417,B 
+6418,D
+6419,Answer: D
+6420,C
+6421,Answer: B
+6422,B 
+6423,A
+6424,Answer: C
+6425,Answer: B
+6426,A 
+6427,D 
+6428,Answer: D
+6429,D 
+6430,C
+6431,A
+6432,D 
+6433,Not Sure
+6434,A 
+6435,C
+6436,C
+6437,Answer: A
+6438,C 
+6439,Answer: D
+6440,Answer: D
+6441,Answer: D
+6442,D
+6443,B
+6444,A
+6445,C
+6446,Answer: A
+6447,C
+6448,B
+6449,C
+6450,C 
+6451,D
+6452,D
+6453,Answer: C
+6454,B
+6455,Answer: D
+6456,Answer: D
+6457,C
+6458,Answer: D
+6459,Answer: D
+6460,A
+6461,Answer: C
+6462,Answer: D
+6463,C 
+6464,C
+6465,C 
+6466,D
+6467,C
+6468,Answer: A
+6469,Answer: C
+6470,C
+6471,Answer: A
+6472,Answer: B
+6473,Answer: C
+6474,D
+6475,Answer: C
+6476,A 
+6477,Not Sure
+6478,D
+6479,C
+6480,A
+6481,B 
+6482,Answer: B
+6483,Answer: A
+6484,D
+6485,C 
+6486,C
+6487,Answer: C
+6488,B
+6489,Answer: B
+6490,D
+6491,C 
+6492,D 
+6493,D
+6494,D
+6495,D 
+6496,A
+6497,D
+6498,B
+6499,B
+6500,D
+6501,Answer: C
+6502,D 
+6503,C
+6504,D
+6505,Answer: B
+6506,Answer: D
+6507,B
+6508,A
+6509,D 
+6510,A 
+6511,C
+6512,C
+6513,C 
+6514,D
+6515,B
+6516,D
+6517,D 
+6518,C
+6519,D
+6520,D
+6521,A 
+6522,C
+6523,A 
+6524,B
+6525,C
+6526,C
+6527,D
+6528,D
+6529,B 
+6530,B 
+6531,B
+6532,C 
+6533,C
+6534,Answer: A
+6535,C
+6536,D 
+6537,D
+6538,A 
+6539,Answer: C
+6540,D
+6541,D
+6542,A 
+6543,A 
+6544,C
+6545,C
+6546,C
+6547,D
+6548,D
+6549,C 
+6550,Answer: C
+6551,B
+6552,B
+6553,Answer: D
+6554,Answer: B
+6555,"A State is 'injured' should it acknowledge the existence of the internationally wrongful conduct, so the answer is C"
+6556,C
+6557,D
+6558,D
+6559,Answer: A
+6560,D
+6561,C
+6562,A 
+6563,C
+6564,C 
+6565,A
+6566,Answer: D
+6567,C
+6568,D 
+6569,A
+6570,D
+6571,D
+6572,D
+6573,B
+6574,D
+6575,D
+6576,Answer: C
+6577,Answer: D
+6578,D 
+6579,Answer: A
+6580,D
+6581,C
+6582,Answer: C
+6583,C
+6584,A
+6585,A 
+6586,Answer: B
+6587,A
+6588,D
+6589,D
+6590,Answer: C
+6591,D
+6592,C
+6593,
+6594,D 
+6595,D
+6596,A
+6597,None of the above
+6598,Answer: B
+6599,D
+6600,D 
+6601,B 
+6602,C
+6603,B
+6604,Not Sure
+6605,D
+6606,Answer: B
+6607,A
+6608,Not Sure
+6609,Answer: C
+6610,Answer: D
+6611,Answer: A
+6612,C
+6613,Answer: D
+6614,Answer: D
+6615,A 
+6616,D
+6617,Answer: C
+6618,C
+6619,A
+6620,D
+6621,Answer: B
+6622,A
+6623,A 
+6624,A
+6625,C
+6626,D
+6627,B
+6628,Answer: D
+6629,D
+6630,B
+6631,Answer: D
+6632,Answer: C
+6633,Answer: D
+6634,Answer: C
+6635,C
+6636,Answer: D
+6637,Answer: D
+6638,D
+6639,D 
+6640,Answer: A
+6641,D
+6642,A 
+6643,D
+6644,B
+6645,A 
+6646,C
+6647,Answer: D
+6648,D
+6649,None of the above
+6650,B 
+6651,D
+6652,D
+6653,C 
+6654,Answer: B
+6655,C
+6656,Answer: D
+6657,C
+6658,B
+6659,D
+6660,C
+6661,D
+6662,D
+6663,D
+6664,B
+6665,D
+6666,C
+6667,Answer: D
+6668,D 
+6669,C
+6670,C
+6671,C
+6673,C
+6674,C 
+6675,Answer: D
+6676,C
+6677,Answer: D
+6678,Answer: A
+6680,D
+6682,D 
+6683,D 
+6684,D
+6685,Answer: C
+6686,D 
+6687,C
+6688,Answer: D
+6689,C
+6690,D 
+6691,Answer: D
+6692,D
+6693,Answer: C
+6694,B 
+6695,Answer: C
+6696,Answer: C
+6697,D
+6698,A
+6699,B
+6700,Answer: B
+6701,Answer: B
+6703,Answer: D
+6704,C
+6705,D
+6706,D
+6708,Answer: C
+6709,Answer: D
+6710,A 
+6714,D
+6715,B
+6717,D
+6718,D
+6720,C 
+6721,C
+6722,A
+6723,C
+6724,D
+6725,A
+6726,A
+6727,D
+6728,Answer: B
+6729,D 
+6730,B 
+6731,Answer: D
+6732,D 
+6733,B
+6734,Answer: C
+6736,
+6737,Answer: A
+6738,A
+6739,D
+6740,C 
+6741,Answer: C
+6742,B 
+6743,D 
+6744,C
+6745,Answer: D
+6746,D 
+6747,D 
+6748,Answer: D
+6749,Answer: B
+6750,D 
+6751,C
+6753,D 
+6754,C
+6755,D 
+6756,C 
+6757,B
+6760,C 
+6761,Answer: C
+6762,C 
+6763,B
+6764,B
+6765,D 
+6766,C
+6767,B
+6768,Answer: D
+6769,D 
+6770,B 
+6771,C
+6772,B
+6773,C 
+6775,D
+6776,C
+6777,B 
+6778,B
+6779,A
+6780,Answer: D
+6781,C 
+6782,D 
+6783,B
+6784,B
+6785,A 
+6786,A 
+6787,Answer: C
+6788,Answer: D
+6789,C
+6790,D
+6791,Answer: B
+6792,C
+6793,D
+6795,A
+6796,Answer: C
+6797,Answer: D
+6798,D
+6799,Answer: B
+6800,D
+6802,C
+6803,Answer: B
+6805,D 
+6806,None of the above
+6807,Answer: C
+6809,Answer: D
+6810,D
+6811,Not Sure
+6812,Answer: D
+6813,C
+6814,Answer: D
+6815,Answer: B
+6816,A
+6818,Answer: D
+6819,D 
+6820,Answer: B
+6821,Answer: A
+6822,Answer: C
+6823,A
+6824,A 
+6825,D 
+6827,C
+6828,D
+6830,Answer: D
+6831,D
+6832,Answer: C
+6835,D 
+6836,C
+6837,D 
+6838,D
+6839,A
+6840,B
+6841,A
+6842,D
+6843,C
+6844,D 
+6845,D
+6846,C
+6847,Answer: C
+6848,Answer: B
+6849,B 
+6850,B
+6851,Answer: C
+6852,A
+6853,Answer: D
+6854,D 
+6855,B
+6856,D
+6857,Answer: B
+6858,C
+6859,D 
+6860,A 
+6861,B
+6862,C 
+6863,Answer: D
+6864,D
+6865,C
+6866,Answer: C
+6867,D
+6868,D
+6869,Answer: A
+6870,B
+6871,Answer: D
+6872,D 
+6873,B
+6874,A 
+6875,A
+6876,B 
+6877,Answer: C
+6878,Answer: B
+6879,Answer: D
+6880,D 
+6881,D 
+6882,D
+6883,D
+6884,Answer: D
+6885,B
+6886,Answer: D
+6887,D
+6888,D 
+6889,Answer: D
+6890,"All of the above, so the answer is D"
+6891,None of the above
+6892,Answer: D
+6893,B
+6894,B
+6895,B
+6896,D
+6897,C
+6898,Answer: B
+6899,Answer: A
+6900,Answer: C
+6901,C 
+6902,A
+6903,"True, True, so the answer is A"
+6904,C
+6905,Answer: A
+6906,D 
+6907,B 
+6908,D
+6909,Answer: C
+6910,Answer: D
+6911,C 
+6912,A
+6913,D
+6914,C
+6915,Answer: A
+6916,D
+6917,D
+6918,A 
+6919,B 
+6920,Answer: C
+6921,Answer: D
+6922,Answer: C
+6923,D
+6924,A
+6925,D
+6926,Answer: B
+6927,D
+6928,B
+6929,B
+6930,C
+6931,A
+6932,C
+6933,Answer: B
+6934,D
+6935,D
+6936,Answer: D
+6937,B 
+6938,Answer: D
+6939,A
+6940,Answer: D
+6941,Answer: C
+6942,"Convolving an image with $\begin{bmatrix}0 & 0 & 0\\ 0 & 1 & 0 \\ 0 & 0 & 0 \end{bmatrix}$ would not change the image, so the answer is B"
+6943,D
+6944,C
+6945,D
+6946,D
+6947,B 
+6948,D
+6949,Answer: C
+6950,D
+6951,D 
+6952,D
+6953,D 
+6954,D
+6955,Answer: B
+6956,Answer: C
+6957,C
+6958,B
+6959,A
+6960,A
+6961,A
+6962,C
+6963,D 
+6964,Answer: C
+6965,Answer: D
+6966,D
+6967,D
+6968,Answer: A
+6969,D 
+6970,Answer: C
+6971,D
+6972,D 
+6973,A
+6974,Answer: A
+6975,B 
+6976,D
+6977,A
+6978,D
+6979,Answer: D
+6980,D 
+6981,C
+6982,B
+6983,A
+6984,Answer: B
+6985,D 
+6986,B
+6987,B
+6988,A
+6989,C 
+6990,D
+6991,C
+6992,C
+6993,B
+6994,C
+6995,
+6996,"Small span of control, so the answer is D"
+6997,B
+6998,A
+6999,C 
+7000,D
+7001,D
+7002,A
+7003,D 
+7004,Answer: D
+7005,D
+7006,Answer: D
+7007,D
+7008,C
+7009,D
+7010,D 
+7011,Answer: D
+7012,D 
+7013,C
+7014,B
+7015,"Time and motion studies, so the answer is B"
+7016,B
+7017,Answer: D
+7018,Answer: C
+7019,D 
+7020,A
+7021,"Top to bottom, so the answer is B"
+7022,C
+7023,D
+7024,Answer: D
+7025,Answer: A
+7026,C
+7027,Answer: C
+7028,D 
+7029,A
+7030,A
+7031,B 
+7032,B
+7033,C
+7034,Answer: D
+7035,A
+7036,D
+7037,C
+7038,D 
+7039,Answer: B
+7040,Answer: D
+7041,D 
+7042,B
+7043,D
+7044,A
+7045,A
+7046,D
+7047,D
+7048,B
+7049,
+7050,D 
+7051,Answer: A
+7052,C
+7053,B
+7054,D
+7055,C
+7056,Answer: D
+7057,Answer: A
+7058,C
+7059,Answer: A
+7060,Answer: C
+7061,Answer: C
+7062,"Loss-leader pricing., so the answer is D"
+7063,B 
+7064,Answer: C
+7065,C 
+7066,Answer: D
+7067,C 
+7068,C
+7069,Answer: B
+7070,C
+7071,Answer: A
+7072,Answer: D
+7073,D 
+7074,Answer: D
+7075,D
+7076,Answer: D
+7077,C
+7078,B
+7079,A 
+7080,D
+7081,A 
+7082,Answer: A
+7083,D 
+7084,D 
+7085,Answer: A
+7086,Answer: B
+7087,B
+7088,D
+7089,D
+7090,B 
+7091,C
+7092,C 
+7093,C 
+7094,A
+7095,None of the above
+7096,C
+7097,C 
+7098,A
+7099,B
+7100,A
+7101,Answer: D
+7102,B
+7103,D
+7104,A
+7105,B
+7106,Answer: B
+7107,C 
+7108,A
+7109,A
+7110,Answer: C
+7111,Answer: A
+7112,A
+7113,Not Sure
+7114,"Environmental scanning, so the answer is A"
+7115,C
+7116,D
+7117,A
+7118,D 
+7119,Answer: B
+7120,A 
+7121,D 
+7122,D
+7123,B
+7124,C
+7125,Answer: D
+7126,C 
+7127,Answer: C
+7128,D 
+7129,D 
+7130,D 
+7131,D 
+7132,Answer: C
+7133,Answer: D
+7134,D
+7135,Answer: B
+7136,C
+7137,B
+7138,Answer: D
+7139,D
+7140,A
+7141,C 
+7142,D
+7143,Answer: D
+7144,C 
+7145,D
+7146,"Competitor orientation., so the answer is D"
+7147,D
+7148,D 
+7149,A
+7150,D
+7151,C 
+7152,C 
+7153,C
+7154,D
+7155,D 
+7156,B 
+7157,D
+7158,Not Sure
+7159,B 
+7160,Answer: C
+7161,B
+7162,C 
+7163,Answer: A
+7164,C
+7165,
+7166,B
+7167,Answer: D
+7168,Answer: D
+7169,D
+7170,D 
+7171,Answer: D
+7172,D
+7173,A 
+7174,Answer: C
+7175,D 
+7176,Answer: D
+7177,C
+7178,Answer: D
+7179,A
+7180,B
+7181,B
+7182,D 
+7183,D
+7184,D
+7185,D 
+7186,D
+7187,A
+7188,C
+7189,Answer: D
+7190,A 
+7191,D 
+7192,Answer: A
+7193,D 
+7194,D
+7195,Answer: C
+7196,D
+7197,B
+7198,C 
+7199,D
+7200,C
+7201,C 
+7202,C 
+7203,Answer: D
+7204,D
+7205,D
+7206,B 
+7207,D
+7208,B 
+7209,Answer: C
+7210,D
+7211,Answer: C
+7212,Answer: B
+7213,D
+7214,C
+7215,B
+7216,A
+7217,Answer: A
+7218,C
+7219,C 
+7220,A
+7221,B
+7222,Answer: A
+7223,A
+7224,Answer: A
+7225,D
+7226,D 
+7227,A 
+7228,C
+7229,B
+7230,C
+7231,B 
+7232,D
+7233,A 
+7234,B
+7235,"Broadcast media., so the answer is A"
+7236,Answer: A
+7237,D 
+7238,B
+7239,Answer: B
+7240,C 
+7241,D
+7242,Answer: C
+7243,Answer: D
+7244,Answer: D
+7245,C 
+7246,D 
+7247,B
+7248,Answer: D
+7249,A 
+7250,Answer: B
+7251,C
+7252,Answer: D
+7253,C 
+7254,Answer: B
+7255,None of the above
+7256,A
+7257,B
+7258,Answer: B
+7259,C
+7260,B
+7261,B
+7262,D
+7263,Answer: D
+7264,A 
+7265,D 
+7266,B
+7267,D
+7268,Answer: A
+7269,A
+7270,Answer: D
+7271,C
+7272,Answer: D
+7273,Answer: A
+7274,A
+7275,B 
+7276,Answer: A
+7277,C
+7278,D
+7279,D
+7280,D
+7281,A
+7282,Answer: C
+7283,Answer: B
+7284,Answer: B
+7285,Answer: A
+7286,A 
+7287,C
+7288,A
+7289,Answer: D
+7290,Answer: D
+7291,C
+7292,Answer: D
+7293,
+7294,A
+7295,D 
+7296,A
+7297,D
+7298,Answer: D
+7299,A
+7300,D
+7301,B
+7302,Answer: C
+7303,D 
+7304,D 
+7305,D 
+7306,D
+7307,D
+7308,A
+7309,D
+7310,B
+7311,D
+7312,Answer: B
+7313,D
+7314,Answer: A
+7315,Answer: D
+7316,Answer: D
+7317,B
+7318,D 
+7319,A 
+7320,D
+7321,Answer: B
+7322,D
+7323,B
+7324,A
+7325,C 
+7326,C
+7327,D 
+7328,D
+7329,Answer: A
+7330,Answer: D
+7331,Answer: D
+7332,C
+7333,D
+7334,Answer: D
+7335,C 
+7336,D
+7337,B
+7338,D
+7339,B
+7340,D
+7341,D
+7342,Answer: A
+7343,B 
+7344,A
+7345,D
+7346,Answer: C
+7347,B
+7348,A 
+7349,A
+7350,B 
+7351,Answer: B
+7352,D 
+7353,D
+7354,D
+7355,Answer: D
+7356,A
+7357,Answer: D
+7358,D 
+7359,B
+7360,C
+7361,Answer: D
+7362,A
+7363,A
+7364,Answer: D
+7365,D
+7366,D
+7367,C
+7368,C
+7369,D
+7370,A
+7371,D
+7372,Answer: D
+7373,Not Sure
+7374,Answer: B
+7375,B
+7376,B 
+7377,Answer: D
+7378,Answer: B
+7379,Answer: C
+7380,C 
+7381,B
+7382,Answer: A
+7383,D 
+7384,C
+7385,B
+7386,D
+7387,Answer: C
+7388,D 
+7389,C
+7390,C
+7391,D
+7392,A
+7393,B 
+7394,A 
+7395,D
+7396,Answer: B
+7397,B 
+7398,A
+7399,Answer: D
+7400,Answer: D
+7401,C
+7402,Answer: D
+7403,C
+7404,D
+7405,A
+7406,C
+7407,D
+7408,Answer: D
+7409,C 
+7410,C
+7411,C 
+7412,D
+7413,D
+7414,D 
+7415,C
+7416,C 
+7417,D 
+7418,Answer: D
+7419,D 
+7420,C 
+7421,Answer: D
+7422,Answer: B
+7423,B
+7424,C 
+7425,Answer: D
+7426,
+7427,C 
+7428,D
+7429,D 
+7430,C
+7431,A
+7432,C
+7433,C
+7434,Answer: B
+7435,Answer: D
+7436,C
+7437,C
+7438,B
+7439,A
+7440,D 
+7441,D 
+7442,Answer: D
+7443,Answer: B
+7444,B
+7445,Answer: C
+7446,D 
+7447,D
+7448,Answer: C
+7449,Answer: A
+7450,A
+7451,B 
+7452,A 
+7453,B
+7454,Answer: D
+7455,C
+7456,Answer: B
+7457,Answer: B
+7458,C
+7459,C
+7460,Answer: B
+7461,D 
+7462,C
+7463,Answer: D
+7464,D
+7465,Answer: B
+7466,C
+7467,D
+7468,D
+7469,D 
+7470,C
+7471,D
+7472,Answer: B
+7473,C
+7474,B 
+7475,D
+7476,B
+7477,D
+7478,A
+7479,D
+7480,Answer: B
+7481,Answer: C
+7482,B 
+7483,D
+7484,D
+7485,Answer: C
+7486,B 
+7487,D 
+7488,"fencing, so the answer is B"
+7489,D
+7490,A 
+7491,Answer: C
+7492,Answer: B
+7493,D 
+7494,Answer: C
+7495,Answer: A
+7496,Answer: D
+7497,A 
+7498,D
+7499,Answer: A
+7500,C
+7501,Answer: B
+7502,Answer: D
+7503,B
+7504,A
+7505,Answer: D
+7506,Answer: D
+7507,B
+7508,C
+7509,C 
+7510,B 
+7511,B 
+7512,D
+7513,Answer: D
+7514,A 
+7515,C 
+7516,B
+7517,C 
+7518,Answer: C
+7519,C
+7520,Answer: C
+7521,C
+7522,A
+7523,C
+7524,C
+7525,Answer: C
+7526,B
+7527,Answer: B
+7528,Answer: D
+7529,D
+7530,"Denver boot, so the answer is B"
+7531,C
+7532,D
+7533,D
+7534,Answer: D
+7535,Answer: D
+7536,Answer: D
+7537,Answer: C
+7538,Answer: B
+7539,B 
+7540,D 
+7541,D 
+7542,Answer: B
+7543,B 
+7544,A
+7545,C 
+7546,A
+7547,Answer: B
+7548,Answer: D
+7549,A
+7550,C 
+7551,D 
+7552,B 
+7553,D 
+7554,D 
+7555,C
+7556,Answer: D
+7557,D
+7558,A
+7559,Not Sure
+7560,B
+7561,C
+7562,A
+7563,D
+7564,Answer: D
+7565,B
+7566,Answer: A
+7567,B 
+7568,D
+7569,C 
+7570,Answer: B
+7571,C
+7572,C
+7573,
+7574,C 
+7575,C
+7576,D
+7577,C
+7578,D
+7579,Answer: D
+7580,D 
+7581,B 
+7582,C
+7583,Answer: D
+7584,D
+7585,C 
+7586,Answer: C
+7587,A
+7588,C
+7589,C
+7590,Answer: B
+7591,Answer: C
+7592,A
+7593,C 
+7594,Answer: D
+7595,D 
+7596,B 
+7597,Answer: B
+7598,Answer: D
+7599,D
+7600,"legs, so the answer is D"
+7601,D
+7602,A
+7603,C
+7604,D
+7605,D 
+7606,D
+7607,B
+7608,C
+7609,D
+7610,B
+7611,Answer: C
+7612,Answer: D
+7613,B
+7614,D 
+7615,Answer: D
+7616,B 
+7617,A
+7618,Answer: B
+7619,Answer: B
+7620,C 
+7621,A
+7622,B
+7623,Answer: A
+7624,C
+7625,Answer: C
+7626,Answer: C
+7627,C
+7628,Answer: B
+7629,Answer: A
+7630,B 
+7631,C
+7632,Answer: D
+7633,C
+7634,D
+7635,D
+7636,Answer: D
+7637,A
+7638,C
+7639,B
+7640,Answer: B
+7641,D 
+7642,D
+7643,C 
+7644,C
+7645,Answer: D
+7646,B
+7647,B
+7648,Answer: D
+7649,Answer: D
+7650,B 
+7651,D
+7652,"5 cents, so the answer is A"
+7653,B 
+7654,Answer: D
+7655,Answer: D
+7656,D
+7657,A
+7658,C
+7659,D
+7660,D
+7661,Answer: C
+7662,A
+7663,D
+7664,C
+7665,B 
+7666,C
+7667,Answer: A
+7668,B
+7669,Answer: B
+7670,D
+7671,D
+7672,Answer: D
+7673,D
+7674,D 
+7675,Answer: D
+7676,B
+7677,Answer: A
+7678,D 
+7679,C
+7680,A
+7681,Answer: C
+7682,Answer: B
+7683,B
+7684,D
+7685,Answer: C
+7686,Answer: A
+7687,D
+7688,B
+7689,Not Sure
+7690,Answer: C
+7691,A
+7692,B
+7693,Answer: C
+7694,A
+7695,None of the above
+7696,B
+7697,Answer: B
+7698,B
+7699,D 
+7700,D 
+7701,D
+7702,B 
+7703,Answer: C
+7704,C
+7705,Answer: D
+7706,A
+7707,C
+7708,C
+7709,C
+7710,C
+7711,C
+7712,Answer: A
+7713,D 
+7714,Answer: A
+7715,Answer: D
+7716,D
+7717,C
+7718,D 
+7719,Answer: A
+7720,D
+7721,C
+7722,C
+7723,B
+7724,Answer: C
+7725,Not Sure
+7726,D
+7727,Answer: D
+7728,C
+7729,C
+7730,B
+7731,A
+7732,Answer: D
+7733,B 
+7734,Answer: D
+7735,"gaggle, so the answer is A"
+7736,D
+7737,
+7738,D 
+7739,Answer: C
+7740,D
+7741,B
+7742,C 
+7743,D
+7744,Answer: B
+7745,B
+7746,B
+7747,D
+7748,D 
+7749,A 
+7750,C
+7751,B
+7752,Answer: D
+7753,C
+7754,B
+7755,C 
+7756,D
+7757,Answer: D
+7758,B
+7759,D
+7760,C 
+7761,
+7762,A
+7763,D
+7764,C
+7765,B
+7766,C
+7767,B
+7768,D
+7769,D 
+7770,A
+7771,Answer: C
+7772,D 
+7773,D 
+7774,Answer: D
+7775,C
+7776,Answer: D
+7777,D 
+7778,B
+7779,D 
+7780,D
+7781,Answer: D
+7782,Answer: A
+7783,D 
+7784,D
+7785,A 
+7786,Answer: B
+7787,D
+7788,A
+7789,"bank robbers, so the answer is C"
+7790,C
+7791,A
+7792,D
+7793,B
+7794,D
+7795,Answer: A
+7796,C
+7797,B 
+7798,Answer: D
+7799,Answer: C
+7800,C
+7801,A
+7802,D
+7803,Answer: D
+7804,C
+7805,Answer: D
+7806,Answer: A
+7807,C
+7808,C 
+7809,D
+7810,D
+7811,Answer: C
+7812,Answer: D
+7813,B 
+7814,D
+7815,B
+7816,B 
+7817,B 
+7818,C
+7819,D
+7820,Answer: D
+7821,B
+7822,A 
+7823,B 
+7824,B 
+7825,Answer: D
+7826,B 
+7827,D
+7828,Answer: C
+7829,C
+7830,B
+7831,A
+7832,
+7833,D 
+7834,A 
+7835,Answer: A
+7836,A
+7837,D
+7838,D
+7839,D 
+7840,C
+7841,A
+7842,D
+7843,B
+7844,B 
+7845,Answer: D
+7846,
+7847,D
+7848,A
+7849,B
+7850,C 
+7851,Answer: A
+7852,B
+7853,C
+7854,D
+7855,C
+7856,C 
+7857,D
+7858,B
+7859,Answer: D
+7860,D
+7861,
+7862,Answer: A
+7863,A
+7864,A 
+7865,C
+7866,None of the above
+7867,C 
+7868,C 
+7869,B
+7870,Answer: C
+7871,B 
+7872,D
+7873,Answer: C
+7874,D
+7875,D
+7876,D 
+7877,C
+7878,Answer: B
+7879,B 
+7880,Answer: D
+7881,D
+7882,D 
+7883,Answer: D
+7884,B
+7885,D
+7886,C
+7887,Answer: D
+7888,B
+7889,D 
+7890,None of the above
+7891,D 
+7892,None of the above
+7893,D 
+7894,Answer: D
+7895,Answer: D
+7896,A
+7897,A 
+7898,Answer: C
+7899,A
+7900,D 
+7901,B
+7902,Not Sure
+7903,Answer: D
+7904,Answer: C
+7905,D 
+7906,Answer: D
+7907,Answer: C
+7908,Answer: A
+7909,Answer: D
+7910,C
+7911,D 
+7912,Answer: C
+7913,B
+7914,Answer: A
+7915,B 
+7916,D
+7917,Answer: C
+7918,Answer: D
+7919,A 
+7920,A 
+7921,C
+7922,Answer: A
+7923,Answer: C
+7924,B
+7925,Answer: A
+7926,C 
+7927,Answer: D
+7928,C 
+7929,A 
+7930,A
+7931,D 
+7932,C
+7933,Answer: C
+7934,A
+7935,Answer: C
+7936,C
+7937,D
+7938,Answer: A
+7939,B
+7940,Answer: D
+7941,D 
+7942,C 
+7943,Answer: D
+7944,B 
+7945,D 
+7946,D
+7947,Answer: C
+7948,Not Sure
+7949,B
+7950,D
+7951,D
+7952,Answer: D
+7953,Answer: B
+7954,C 
+7955,D 
+7956,B
+7957,Answer: D
+7958,
+7959,B
+7960,C 
+7961,B
+7962,D 
+7963,Answer: D
+7964,Answer: C
+7965,Answer: C
+7966,A
+7967,C
+7968,D
+7969,Not Sure
+7970,D
+7971,C
+7972,D
+7973,C
+7974,B
+7975,C
+7976,D 
+7977,Answer: A
+7978,C
+7979,C
+7980,Answer: B
+7981,B 
+7982,C
+7983,D 
+7984,None of the above
+7985,B
+7986,
+7987,A
+7988,D
+7989,C
+7990,C
+7991,D
+7992,B
+7993,C 
+7994,Answer: D
+7995,Answer: B
+7996,Answer: D
+7997,B 
+7998,D
+7999,Answer: B
+8000,C
+8001,D 
+8002,C
+8003,B
+8004,D
+8005,D
+8006,B
+8007,C
+8008,A 
+8009,A
+8010,D 
+8011,D
+8012,Answer: C
+8013,D
+8014,D
+8015,D
+8016,Answer: D
+8017,Answer: A
+8018,B
+8019,Answer: B
+8020,B
+8021,D
+8022,D 
+8023,C
+8024,A
+8025,B
+8026,B
+8027,Answer: B
+8028,D
+8029,B
+8030,C 
+8031,D 
+8032,D
+8033,Answer: D
+8034,A
+8035,B
+8036,D
+8037,D
+8038,A
+8039,Answer: B
+8040,B 
+8041,B 
+8042,B
+8043,C
+8044,B
+8045,D 
+8046,C 
+8047,C
+8048,A
+8049,D 
+8050,C
+8051,B 
+8052,D 
+8053,Answer: D
+8054,D
+8055,A 
+8056,C
+8057,B 
+8058,Answer: C
+8059,C
+8060,D
+8061,Answer: D
+8062,Answer: D
+8063,Answer: D
+8064,B
+8065,C 
+8066,A 
+8067,B 
+8068,D
+8069,C
+8070,B
+8071,C 
+8072,Answer: A
+8073,Answer: B
+8074,B
+8075,D
+8076,D
+8077,D
+8078,Answer: A
+8079,
+8080,D
+8081,
+8082,Answer: D
+8083,C
+8084,C 
+8085,A
+8086,Answer: D
+8087,D 
+8088,B
+8089,D 
+8090,D 
+8091,C
+8092,C
+8093,C
+8094,A
+8095,D
+8096,B 
+8097,D
+8098,Answer: C
+8099,D
+8100,C
+8101,Answer: D
+8102,Answer: C
+8103,B
+8104,A
+8105,Answer: D
+8106,D
+8107,Answer: C
+8108,B
+8109,A
+8110,Answer: C
+8111,A
+8112,D 
+8113,C
+8114,A 
+8115,Answer: B
+8116,C
+8117,Answer: A
+8118,C
+8119,B
+8120,D
+8121,B 
+8122,D
+8123,C
+8124,D 
+8125,C
+8126,C
+8127,Answer: D
+8128,C
+8129,Answer: D
+8130,A 
+8131,Answer: D
+8132,A
+8133,B 
+8134,Answer: D
+8135,A
+8136,D
+8137,D
+8138,Answer: D
+8139,B
+8140,Answer: C
+8141,D
+8142,C
+8143,C
+8144,A
+8145,D
+8146,Answer: C
+8147,B 
+8148,Answer: C
+8149,Answer: C
+8150,C
+8151,Answer: A
+8152,D 
+8153,A
+8154,D 
+8155,A
+8156,Answer: C
+8157,Answer: D
+8158,A
+8159,A 
+8160,D 
+8161,Answer: A
+8162,C 
+8163,D
+8164,D
+8165,Answer: A
+8166,Answer: D
+8168,Answer: D
+8169,C 
+8170,C
+8172,C
+8173,C 
+8174,B
+8175,D
+8176,D
+8177,D
+8179,Answer: B
+8180,D 
+8181,Answer: C
+8182,C
+8183,C 
+8184,Answer: A
+8185,A
+8186,B
+8187,Answer: C
+8188,B 
+8189,D
+8190,C
+8191,Answer: B
+8192,B 
+8193,D
+8195,Answer: B
+8196,
+8197,D
+8198,C
+8199,D
+8200,D
+8201,Answer: B
+8202,D 
+8203,C 
+8204,Answer: C
+8205,Answer: D
+8206,C 
+8207,C
+8208,D
+8210,D
+8211,D
+8212,D
+8213,D
+8214,A
+8215,B 
+8216,Answer: D
+8217,Answer: A
+8218,B 
+8219,A
+8220,D
+8221,B
+8222,C
+8223,D
+8224,B 
+8225,C
+8226,A
+8227,D
+8228,A
+8230,B
+8231,D
+8232,D
+8233,C 
+8234,D
+8235,D
+8236,D 
+8237,Answer: C
+8238,Answer: B
+8240,B
+8241,B
+8242,D
+8243,B
+8244,C
+8246,Answer: D
+8247,
+8248,D
+8249,A
+8250,A 
+8251,Answer: A
+8252,D
+8253,B
+8254,None of the above
+8255,Answer: B
+8256,D 
+8258,C
+8259,Answer: B
+8260,Answer: B
+8261,Answer: A
+8262,D
+8263,Answer: B
+8264,C 
+8265,B 
+8266,C
+8268,Answer: D
+8269,Answer: D
+8270,D 
+8271,D
+8272,D
+8273,Answer: C
+8274,C 
+8275,A 
+8276,B
+8277,Answer: D
+8278,Answer: B
+8279,Answer: D
+8280,Answer: C
+8281,C 
+8282,C
+8283,B
+8284,Answer: D
+8285,Answer: A
+8286,B
+8287,C
+8288,B
+8289,A 
+8290,C
+8291,C
+8292,C
+8293,A
+8294,Answer: A
+8295,B 
+8296,D 
+8297,Answer: D
+8298,B
+8299,Answer: D
+8300,B
+8301,Answer: D
+8302,A 
+8303,D
+8304,D
+8305,Answer: C
+8306,C
+8307,D
+8308,C
+8310,Answer: D
+8312,C 
+8313,C
+8314,Answer: D
+8315,D
+8316,C
+8317,Answer: D
+8318,Answer: D
+8319,C
+8320,C
+8322,C
+8324,A
+8326,Answer: D
+8327,D
+8328,Answer: D
+8329,A
+8330,D 
+8331,A
+8332,C
+8333,
+8335,A
+8336,B
+8337,A
+8338,Answer: A
+8339,A
+8341,C
+8342,Answer: C
+8343,D
+8344,Answer: D
+8345,D 
+8346,A 
+8348,Answer: D
+8349,D 
+8350,A 
+8351,Answer: C
+8352,Answer: D
+8353,D
+8354,Answer: D
+8355,D
+8356,A 
+8357,B
+8358,C 
+8359,
+8361,D
+8362,Answer: D
+8363,A 
+8364,C
+8365,
+8366,Answer: D
+8367,Answer: C
+8368,D
+8369,B 
+8370,A
+8371,Answer: D
+8373,C
+8374,Answer: A
+8375,C
+8376,D
+8377,D
+8378,D
+8379,C
+8380,D
+8381,A 
+8383,C
+8384,A
+8385,
+8386,"is a sign that something is wrong with reproductive cloning., so the answer is D"
+8387,D
+8388,D
+8389,C
+8390,D 
+8392,C
+8393,Answer: D
+8394,A
+8395,
+8396,B
+8398,C
+8399,Answer: B
+8400,Answer: B
+8401,C
+8402,D 
+8403,A
+8405,D
+8406,A 
+8407,C
+8409,B
+8410,C
+8411,D 
+8412,D
+8413,D
+8414,"make amends to others for any past wrongs one has done to them., so the answer is A"
+8415,C 
+8416,D
+8417,A 
+8418,D
+8419,D
+8420,Answer: D
+8421,C
+8422,Answer: A
+8423,D
+8424,Answer: D
+8425,D
+8426,B
+8427,C 
+8428,Answer: C
+8429,A 
+8430,Answer: B
+8431,D 
+8432,D
+8433,Answer: D
+8434,B 
+8435,Answer: C
+8436,C
+8437,Answer: B
+8438,C 
+8439,A 
+8440,
+8441,C
+8442,C
+8443,Answer: C
+8444,C 
+8445,D 
+8446,D 
+8447,Answer: C
+8448,Answer: D
+8449,D
+8450,C
+8451,D
+8452,D
+8453,C 
+8454,A
+8455,D 
+8456,C
+8457,Answer: B
+8458,C
+8459,C
+8461,B
+8462,A
+8463,Answer: D
+8464,Answer: D
+8465,D
+8466,Answer: A
+8467,A
+8469,D
+8470,C
+8471,A
+8472,Answer: B
+8474,C
+8475,D
+8476,C
+8477,Answer: D
+8478,D 
+8479,C
+8480,C
+8481,A
+8482,D 
+8483,Answer: C
+8484,Answer: D
+8485,D
+8486,D
+8487,C
+8488,A
+8489,B 
+8491,A 
+8492,Answer: A
+8493,Answer: C
+8494,D 
+8495,C
+8496,C
+8497,Answer: B
+8498,D
+8499,Answer: B
+8500,Answer: C
+8501,B
+8502,B 
+8503,Answer: D
+8504,D
+8505,B
+8506,A
+8507,Answer: D
+8508,C
+8509,D 
+8512,C
+8513,D
+8514,Not Sure
+8515,D
+8516,Answer: B
+8517,D
+8518,Answer: C
+8519,Answer: D
+8520,D
+8521,A
+8522,C
+8523,D 
+8524,B
+8525,C
+8526,A
+8527,D
+8528,Answer: D
+8529,Answer: D
+8530,C
+8531,C 
+8532,A
+8533,C
+8534,A
+8535,A
+8536,D
+8538,A
+8539,A
+8540,Answer: D
+8541,B
+8542,B
+8543,D
+8544,D
+8545,B
+8546,D
+8547,A
+8548,Answer: B
+8549,Answer: D
+8550,D
+8551,A 
+8552,
+8553,C
+8554,B
+8555,D
+8556,D
+8557,Answer: D
+8558,A
+8559,Answer: B
+8560,C 
+8561,B
+8562,A 
+8563,Answer: B
+8564,B
+8565,D 
+8566,Answer: D
+8567,D
+8568,Answer: D
+8569,A
+8570,D 
+8571,Answer: D
+8572,D 
+8573,Answer: D
+8574,A
+8575,D
+8576,Answer: C
+8577,D 
+8578,Answer: B
+8579,D
+8580,Answer: D
+8581,D 
+8582,B
+8583,C
+8584,Answer: A
+8585,C
+8586,B
+8587,D
+8588,Answer: D
+8589,D
+8590,Answer: D
+8591,Answer: C
+8592,Answer: B
+8593,Answer: D
+8594,Answer: C
+8595,Answer: A
+8596,D
+8597,Answer: D
+8598,Answer: D
+8599,Answer: C
+8600,D
+8601,Answer: D
+8602,D
+8603,Answer: C
+8604,B
+8605,D 
+8606,D 
+8607,B
+8608,C
+8609,D
+8610,
+8611,D
+8612,C
+8613,C
+8614,A
+8615,Answer: B
+8616,B
+8617,C
+8618,D
+8619,D
+8620,Answer: B
+8621,Answer: A
+8622,D 
+8623,Answer: D
+8624,C
+8625,D
+8626,A
+8627,Answer: D
+8628,C 
+8629,D 
+8630,A
+8631,A 
+8632,D
+8633,A
+8634,Answer: C
+8635,A
+8636,Answer: D
+8637,B 
+8638,B 
+8639,Answer: D
+8640,C 
+8641,A
+8642,Answer: C
+8643,D 
+8644,D
+8645,Answer: A
+8646,B 
+8647,C
+8648,Answer: B
+8649,Answer: D
+8650,A
+8651,C
+8652,C 
+8653,D 
+8654,Answer: A
+8655,Answer: A
+8656,B
+8657,C
+8658,D
+8659,B
+8660,B 
+8661,D 
+8662,A
+8663,"Not wrong, Not wrong, so the answer is D"
+8664,D
+8665,D
+8666,C
+8667,Answer: C
+8668,D
+8669,Answer: C
+8670,D
+8671,D
+8672,D
+8673,D
+8674,D
+8675,A 
+8676,D 
+8677,D 
+8678,Answer: D
+8679,D
+8680,D
+8681,B
+8682,D
+8683,C
+8684,Answer: C
+8685,Answer: D
+8686,B 
+8687,C
+8688,Answer: D
+8689,D 
+8690,D 
+8691,Answer: C
+8692,C 
+8693,D
+8694,C 
+8695,D
+8696,Answer: A
+8697,Answer: D
+8698,
+8699,D
+8700,Answer: B
+8701,Answer: C
+8702,Answer: D
+8703,D
+8704,C 
+8705,C
+8706,D
+8707,A
+8708,Answer: B
+8709,D
+8710,D
+8711,C
+8712,B 
+8713,D 
+8714,B 
+8715,Answer: B
+8716,C 
+8717,D
+8718,B 
+8719,Answer: D
+8720,Answer: C
+8721,Answer: C
+8722,Answer: C
+8723,A 
+8724,None of the above
+8725,Answer: B
+8726,A
+8727,A
+8728,D
+8729,Answer: D
+8730,B
+8731,A
+8732,A
+8733,Answer: D
+8734,C 
+8735,A
+8736,Answer: D
+8737,D
+8738,D
+8739,A 
+8740,Answer: A
+8741,D 
+8742,B 
+8743,B
+8744,B
+8745,A
+8746,Answer: D
+8747,D 
+8748,A 
+8749,C
+8750,Answer: D
+8751,A 
+8752,B
+8753,D
+8754,Answer: C
+8755,Answer: D
+8756,Answer: C
+8757,D
+8758,D 
+8759,Answer: D
+8760,Answer: D
+8761,D
+8762,B 
+8763,Answer: D
+8764,D
+8765,B
+8766,Answer: A
+8767,C 
+8768,C
+8769,D
+8770,B
+8771,Answer: D
+8772,D 
+8773,D
+8774,Answer: C
+8775,B
+8776,B 
+8777,D
+8778,Answer: D
+8779,C
+8780,C
+8781,A
+8782,Answer: C
+8783,C
+8784,Answer: B
+8785,C
+8786,D
+8787,Answer: C
+8788,D 
+8789,D 
+8790,D
+8791,D
+8792,D 
+8793,A
+8794,Answer: A
+8795,C
+8796,D
+8797,B
+8798,D
+8799,
+8801,Answer: D
+8802,D 
+8803,A
+8804,A
+8805,Answer: A
+8806,Answer: B
+8807,D
+8808,Answer: D
+8809,Answer: D
+8810,D
+8811,A
+8812,D
+8813,C 
+8814,C
+8815,Answer: D
+8816,C 
+8817,A 
+8818,C 
+8819,Answer: A
+8820,D
+8822,Answer: C
+8823,Answer: C
+8824,C
+8826,Answer: C
+8827,C 
+8828,D 
+8829,C
+8830,D 
+8831,D
+8832,Answer: C
+8833,A 
+8834,D
+8835,D
+8836,Answer: D
+8837,B
+8838,A
+8839,C 
+8840,Answer: B
+8841,D
+8842,D
+8843,B 
+8844,B 
+8845,"Not wrong, Not wrong, so the answer is D"
+8846,C
+8847,D
+8848,Answer: C
+8849,D
+8850,C
+8851,C
+8852,D 
+8853,D 
+8854,C
+8855,A 
+8856,D
+8857,D
+8858,Answer: D
+8859,Answer: D
+8860,D 
+8861,B 
+8862,C
+8863,Answer: A
+8864,Answer: C
+8865,A 
+8866,Answer: D
+8867,D
+8868,C
+8869,C
+8870,D
+8871,Answer: D
+8872,D
+8873,D 
+8874,A 
+8875,A
+8876,D
+8877,D
+8878,Answer: D
+8879,A 
+8880,A
+8881,A
+8882,D
+8883,B 
+8884,Answer: D
+8885,D
+8886,B
+8887,Answer: D
+8888,Answer: A
+8889,Answer: A
+8890,D
+8891,None of the above
+8892,C 
+8893,D 
+8894,D
+8895,Answer: D
+8896,D
+8897,D
+8898,Answer: D
+8899,C 
+8900,Answer: C
+8901,D 
+8902,C
+8903,Answer: C
+8904,C
+8905,C 
+8906,C
+8907,D 
+8908,A
+8909,A
+8910,C
+8911,D
+8912,B 
+8913,C
+8914,A 
+8915,B
+8916,D
+8917,None of the above
+8918,D
+8919,C
+8920,A
+8921,Answer: C
+8922,B
+8923,D
+8924,B
+8925,C 
+8926,D 
+8927,Answer: A
+8928,B
+8929,D
+8930,B
+8931,Answer: B
+8932,Answer: A
+8933,Answer: C
+8934,Answer: D
+8935,Answer: A
+8936,Answer: B
+8937,"Wrong, Wrong, so the answer is A"
+8938,Answer: D
+8939,D
+8940,Answer: D
+8941,Answer: D
+8942,Answer: A
+8943,C 
+8944,D 
+8945,B
+8946,A 
+8947,D
+8948,Answer: C
+8949,Answer: D
+8950,C
+8951,D
+8952,Answer: D
+8953,A
+8954,C
+8955,A
+8956,C
+8957,D 
+8958,Answer: C
+8959,C 
+8960,D
+8961,C
+8962,Answer: C
+8963,Answer: C
+8964,Answer: A
+8965,A
+8966,D
+8967,D
+8968,D
+8969,B
+8970,C
+8971,D
+8972,Answer: C
+8973,D
+8974,C
+8975,B
+8976,Answer: D
+8977,D
+8978,A 
+8979,A
+8980,C
+8981,Answer: C
+8982,D
+8983,C
+8984,Answer: D
+8985,D
+8986,D
+8987,B
+8988,B
+8989,A
+8990,B
+8991,D
+8992,C 
+8993,D
+8994,Answer: C
+8995,D
+8996,B 
+8997,Answer: D
+8998,C
+8999,
+9000,C
+9001,Answer: C
+9002,D
+9003,B 
+9004,B
+9005,B
+9006,
+9007,Answer: B
+9008,Answer: A
+9009,D 
+9010,Answer: D
+9011,A 
+9012,D
+9013,C
+9014,D
+9015,D
+9016,Answer: B
+9017,B 
+9018,D
+9019,D 
+9020,B
+9021,D
+9022,Answer: B
+9023,D
+9024,Answer: D
+9025,D
+9026,D
+9027,Answer: D
+9028,D
+9030,D
+9031,B
+9032,Answer: A
+9033,C
+9034,C
+9035,C
+9036,D 
+9037,B
+9038,Answer: D
+9039,B 
+9040,Answer: C
+9041,D
+9042,Answer: D
+9043,Answer: B
+9044,D
+9045,Answer: A
+9046,D
+9047,Answer: D
+9048,Answer: C
+9049,Answer: A
+9050,A
+9051,B 
+9052,D
+9053,D
+9054,B
+9055,C
+9056,D
+9057,D
+9058,D
+9059,Answer: C
+9060,B
+9061,Answer: D
+9062,D
+9063,B 
+9064,D
+9065,B
+9066,Answer: D
+9067,Answer: C
+9068,Answer: C
+9069,Answer: B
+9070,D 
+9071,B
+9072,Answer: D
+9073,D
+9074,Answer: C
+9075,Answer: A
+9076,Answer: C
+9077,C 
+9078,Answer: D
+9079,Answer: A
+9080,D
+9081,D
+9082,C
+9083,Answer: B
+9084,D
+9085,Answer: D
+9086,
+9087,C
+9088,"Not wrong, Wrong, so the answer is C"
+9089,D 
+9090,B
+9091,B 
+9092,D
+9093,Answer: D
+9094,D
+9095,A 
+9096,A
+9097,A
+9098,B 
+9099,Answer: C
+9100,D 
+9101,D
+9102,Answer: B
+9103,C
+9104,B
+9105,D
+9106,Answer: B
+9107,A
+9108,Answer: C
+9109,Answer: C
+9110,Answer: C
+9111,Answer: D
+9112,Answer: C
+9113,B
+9114,D 
+9115,Answer: B
+9116,Answer: D
+9117,A 
+9118,B
+9119,D
+9120,A
+9121,Answer: A
+9122,D 
+9123,B 
+9124,Answer: C
+9125,Answer: D
+9126,D 
+9127,Answer: D
+9128,B
+9129,D
+9130,Answer: C
+9131,Answer: D
+9132,D
+9133,D 
+9134,Answer: D
+9135,Answer: C
+9137,B 
+9138,D
+9139,D
+9140,C
+9141,B 
+9142,D
+9143,Answer: B
+9144,Answer: D
+9145,A
+9146,C
+9147,C
+9148,Answer: C
+9149,C 
+9150,Answer: B
+9151,B
+9152,D
+9153,B
+9154,D
+9155,B 
+9156,D
+9157,B
+9158,D 
+9159,Answer: D
+9160,D 
+9161,B
+9162,C
+9163,Answer: D
+9164,Answer: A
+9165,A
+9166,C
+9167,Answer: D
+9168,A
+9169,D
+9170,D
+9171,C 
+9172,D
+9173,C
+9174,Answer: B
+9175,D
+9176,C 
+9177,Answer: B
+9178,B
+9179,B
+9180,C 
+9181,C
+9182,Answer: C
+9183,Answer: A
+9184,D
+9185,D
+9186,C
+9187,A 
+9188,D 
+9189,A 
+9190,D 
+9191,D 
+9192,D 
+9193,D 
+9194,A 
+9195,Answer: B
+9196,Answer: D
+9197,B
+9198,A
+9199,A 
+9200,D
+9201,D
+9202,Answer: B
+9203,B 
+9204,A
+9205,"Not wrong, Wrong, so the answer is C"
+9206,A
+9207,Answer: A
+9208,B 
+9209,Answer: C
+9210,Answer: C
+9211,D 
+9212,D 
+9213,A
+9214,Answer: D
+9215,D
+9216,Answer: D
+9217,D
+9218,D 
+9219,D 
+9220,Answer: B
+9221,Answer: D
+9222,C 
+9223,A
+9224,C
+9225,C
+9226,A 
+9227,
+9228,B
+9229,C 
+9230,Answer: D
+9231,D
+9232,Answer: D
+9233,C
+9234,D 
+9235,B
+9236,B
+9237,A
+9238,D
+9239,C
+9240,D
+9241,D
+9242,B
+9243,D
+9244,D 
+9245,D
+9246,C
+9247,Answer: D
+9248,C
+9249,Answer: D
+9250,A
+9251,Answer: A
+9252,Answer: B
+9253,D 
+9254,D
+9255,D
+9256,Answer: D
+9257,B
+9258,C 
+9259,D 
+9260,Answer: D
+9261,C 
+9262,Answer: D
+9263,"Wrong, Not wrong, so the answer is B"
+9264,A
+9265,Answer: D
+9266,C
+9267,D
+9268,Answer: D
+9269,Answer: B
+9270,D
+9271,D
+9272,C
+9273,Answer: C
+9274,D
+9275,D
+9276,B
+9277,B
+9278,Answer: B
+9279,C 
+9280,Answer: C
+9281,Answer: D
+9282,B
+9283,D
+9284,B 
+9285,C
+9286,D
+9287,B
+9288,D
+9289,Answer: D
+9290,D
+9291,B 
+9292,A
+9294,A
+9295,D
+9296,C
+9297,B
+9298,B 
+9299,B 
+9300,D
+9301,D
+9302,B
+9303,Answer: B
+9304,D
+9305,B 
+9306,B
+9307,Answer: C
+9308,Answer: D
+9309,D
+9310,D
+9311,D
+9312,Answer: C
+9313,D
+9314,C
+9315,C 
+9317,C
+9318,C
+9319,B
+9320,A 
+9321,C
+9322,B
+9323,
+9324,B 
+9325,D
+9326,D
+9327,Answer: D
+9328,D
+9329,Answer: C
+9330,D
+9331,D
+9332,D
+9333,D
+9334,D 
+9335,Answer: D
+9336,B 
+9337,C
+9338,D
+9339,D
+9340,None of the above
+9341,D 
+9342,A
+9343,C 
+9344,D
+9345,B 
+9346,Answer: B
+9347,D
+9348,D
+9349,A
+9350,Answer: A
+9351,D
+9352,D 
+9353,D
+9354,D
+9355,C 
+9356,Answer: B
+9357,B
+9358,D
+9359,C
+9360,D
+9361,D 
+9362,
+9363,D 
+9364,A
+9365,Answer: C
+9366,B
+9367,C
+9368,B 
+9369,A
+9370,A 
+9371,D
+9372,A
+9373,A
+9374,C
+9375,C
+9376,D 
+9377,D
+9378,A
+9379,D
+9380,Answer: D
+9381,B 
+9382,D
+9383,C
+9384,Answer: C
+9385,D
+9386,B
+9387,Answer: D
+9388,A 
+9389,Answer: B
+9390,C
+9391,Answer: B
+9392,C 
+9393,A
+9394,A
+9395,Not Sure
+9396,Answer: B
+9397,A
+9398,Answer: A
+9399,D 
+9400,A
+9401,D
+9402,D
+9403,D
+9404,B
+9405,Answer: D
+9406,D
+9407,Answer: D
+9408,D
+9409,Answer: B
+9410,D
+9411,A 
+9412,C
+9413,Answer: D
+9414,B 
+9415,D 
+9416,C
+9417,B 
+9418,B
+9419,D 
+9420,D 
+9421,A
+9422,Answer: D
+9423,B 
+9424,B 
+9425,A
+9426,A 
+9427,D
+9428,B
+9429,A 
+9430,C
+9431,D 
+9432,C
+9433,Answer: D
+9434,D
+9435,D
+9436,C
+9437,D 
+9438,D
+9439,Answer: D
+9440,C
+9441,Answer: B
+9442,C
+9443,Answer: B
+9444,Answer: C
+9445,Answer: B
+9446,D
+9447,C 
+9448,D 
+9449,
+9450,Not Sure
+9451,D
+9452,D
+9453,C
+9454,B
+9455,D
+9456,C
+9457,Answer: C
+9458,D
+9459,A 
+9460,B
+9461,Answer: B
+9462,D
+9463,D
+9464,D 
+9465,Answer: D
+9466,Answer: C
+9467,B
+9468,C
+9469,Answer: D
+9470,C 
+9471,B 
+9472,D
+9473,D 
+9474,Answer: C
+9475,A
+9476,Answer: D
+9477,C 
+9478,Answer: C
+9479,Answer: D
+9480,Answer: A
+9481,Answer: A
+9482,Answer: B
+9483,Answer: D
+9484,Answer: D
+9485,D
+9486,Answer: D
+9487,C
+9488,C 
+9489,D
+9490,C 
+9491,Answer: A
+9492,D
+9493,Answer: D
+9494,D
+9495,D
+9496,A
+9497,B 
+9498,C
+9499,Answer: A
+9500,Answer: C
+9501,B
+9502,Answer: A
+9503,D 
+9504,D
+9505,Answer: D
+9506,D
+9507,Answer: B
+9508,C
+9509,Answer: B
+9510,Answer: D
+9511,D 
+9512,Answer: D
+9513,C 
+9514,D 
+9515,D
+9516,D
+9517,Answer: A
+9518,C
+9519,Answer: D
+9520,Answer: D
+9521,D
+9522,B
+9523,Answer: B
+9524,B 
+9525,D
+9526,D
+9527,D
+9528,Answer: A
+9529,Answer: B
+9530,C
+9531,A
+9532,Answer: D
+9533,C
+9534,C
+9535,A
+9536,D
+9537,Answer: B
+9538,Answer: B
+9539,D
+9540,A 
+9541,D
+9542,Answer: C
+9543,Answer: C
+9544,D
+9545,Answer: B
+9546,D 
+9547,Answer: A
+9548,A 
+9549,A
+9550,Answer: D
+9551,B 
+9552,A 
+9553,D 
+9554,Answer: D
+9555,C
+9556,Answer: B
+9557,A
+9558,A
+9559,D
+9560,Answer: C
+9561,D 
+9562,D
+9563,D
+9564,C
+9565,Answer: C
+9566,Answer: C
+9567,C
+9568,A
+9569,A
+9570,A
+9571,Answer: C
+9572,Answer: D
+9573,D 
+9574,D
+9575,B
+9576,C
+9577,B
+9578,D 
+9579,A 
+9580,B 
+9581,Answer: D
+9582,B 
+9583,A
+9584,D
+9585,B
+9586,Answer: D
+9587,C
+9588,C
+9589,B
+9590,D 
+9591,Answer: D
+9592,Answer: B
+9593,Answer: D
+9594,D
+9595,D
+9596,Answer: D
+9597,A
+9598,D 
+9599,D
+9600,C 
+9601,Answer: D
+9602,Answer: D
+9603,Answer: B
+9604,D
+9605,D
+9606,D
+9607,C
+9608,D
+9609,Answer: D
+9610,Answer: A
+9611,A
+9612,C
+9613,D 
+9614,C
+9615,A
+9616,D
+9617,A
+9618,C
+9619,Answer: D
+9620,B 
+9621,C 
+9622,Answer: B
+9623,Answer: A
+9624,Answer: D
+9625,D
+9626,A 
+9627,C
+9628,C
+9629,D
+9630,D
+9631,B
+9632,Answer: B
+9633,Answer: D
+9634,C
+9635,D
+9636,Answer: D
+9637,Answer: D
+9638,D
+9639,D
+9640,C
+9641,Answer: A
+9642,B
+9643,D 
+9644,A
+9645,C 
+9646,C 
+9647,D 
+9648,D
+9649,Answer: C
+9650,B 
+9651,D 
+9652,D
+9653,C
+9654,C
+9655,Answer: D
+9656,B 
+9657,D 
+9658,B 
+9659,C
+9660,Answer: D
+9661,C
+9662,A
+9663,A
+9664,C
+9665,A 
+9666,B
+9667,D 
+9668,Answer: D
+9669,Answer: B
+9670,D
+9671,D 
+9672,Answer: C
+9673,D
+9674,D
+9675,D
+9676,C
+9677,C
+9678,D
+9679,Not Sure
+9680,D
+9681,B
+9682,Answer: A
+9683,C 
+9684,D 
+9685,Answer: A
+9686,Answer: C
+9687,D 
+9688,A
+9689,Answer: D
+9690,B 
+9691,B
+9692,D 
+9693,Answer: D
+9694,D 
+9695,D
+9696,D
+9697,A
+9698,Answer: D
+9699,D
+9700,Answer: C
+9701,A
+9702,Answer: C
+9703,D 
+9704,C
+9705,C
+9706,Answer: C
+9707,A 
+9708,A 
+9709,Answer: D
+9710,Answer: D
+9711,D
+9712,D 
+9713,D
+9714,C
+9715,D
+9716,D
+9717,D
+9718,Answer: B
+9719,D
+9720,C
+9721,D
+9722,Answer: C
+9723,B
+9724,C
+9725,Answer: D
+9726,B 
+9727,Answer: D
+9728,D
+9729,A
+9730,Answer: D
+9731,Answer: D
+9732,D
+9733,D
+9734,Answer: C
+9735,A
+9736,C 
+9737,B
+9738,B
+9739,B
+9740,Answer: A
+9741,C
+9742,C
+9743,D 
+9744,A
+9745,B
+9746,Answer: D
+9747,A
+9748,D
+9749,Answer: B
+9750,C 
+9751,C
+9752,D 
+9753,D
+9754,C
+9755,C 
+9756,C
+9757,B
+9758,C
+9759,Answer: D
+9760,Answer: A
+9761,Answer: C
+9762,B 
+9763,Answer: D
+9764,D
+9765,Answer: C
+9766,D
+9767,Answer: C
+9768,B
+9769,Answer: C
+9770,Answer: B
+9771,Answer: C
+9772,C
+9773,None of the above
+9774,A
+9775,Answer: D
+9776,A 
+9777,Answer: D
+9778,D
+9779,D
+9780,C 
+9781,C
+9782,D
+9783,C 
+9784,D
+9785,C
+9786,Answer: D
+9787,B 
+9788,B
+9789,C
+9790,D
+9791,Answer: B
+9792,C
+9793,Answer: B
+9794,D
+9795,Answer: C
+9796,B
+9797,Answer: C
+9798,D 
+9799,C 
+9800,D
+9801,D
+9802,B
+9803,Answer: D
+9804,Answer: D
+9805,B
+9806,B
+9807,D
+9808,Answer: D
+9809,C
+9810,Answer: C
+9811,A 
+9812,D
+9813,D
+9814,Answer: D
+9815,C
+9816,Answer: C
+9817,C 
+9818,B
+9819,C
+9820,A 
+9821,B
+9822,C
+9823,Answer: C
+9824,Answer: B
+9825,C 
+9826,A
+9827,B
+9828,Answer: A
+9829,Answer: A
+9830,Answer: D
+9831,C 
+9832,C 
+9833,B
+9834,D
+9835,C
+9836,Answer: C
+9837,Not Sure
+9838,B
+9839,Answer: C
+9840,B
+9841,Answer: C
+9842,Answer: B
+9843,C
+9844,C 
+9845,A 
+9846,D
+9847,D
+9848,A
+9849,B 
+9850,C
+9851,None of the above
+9852,D
+9853,D
+9854,D
+9855,Answer: D
+9856,B
+9857,B
+9858,C
+9859,D
+9860,Answer: D
+9861,Answer: D
+9862,"are sometimes useful in resolving ethical disagreement, but are not always sufficient., so the answer is B"
+9863,A
+9864,A 
+9865,Answer: D
+9866,C 
+9867,A
+9868,Answer: B
+9869,Answer: D
+9870,C 
+9871,C 
+9872,Answer: D
+9873,A 
+9874,D
+9875,A
+9876,A
+9877,D 
+9878,Answer: B
+9879,D 
+9880,Answer: D
+9881,B
+9882,Answer: D
+9883,A
+9884,Answer: D
+9885,C
+9886,A
+9887,C 
+9888,Answer: A
+9889,Answer: B
+9890,B 
+9891,D 
+9892,D
+9893,Answer: A
+9894,A
+9895,C
+9896,D
+9897,D 
+9898,D
+9899,C
+9900,Answer: D
+9901,None of the above
+9902,Answer: B
+9903,B
+9904,C
+9905,C
+9906,Answer: A
+9907,Answer: D
+9908,C 
+9909,B
+9910,B
+9911,C
+9912,B
+9913,Answer: B
+9914,C
+9915,A 
+9916,Answer: B
+9917,D
+9918,B
+9919,D 
+9920,A 
+9921,B
+9922,Answer: B
+9923,D
+9924,Answer: C
+9925,A 
+9926,D
+9927,D
+9928,C
+9929,B
+9930,D
+9931,Answer: B
+9932,B
+9933,D
+9934,B
+9935,C
+9936,Answer: C
+9937,A
+9938,D
+9939,Answer: C
+9940,D 
+9941,C
+9942,D 
+9943,C
+9944,D
+9945,B
+9946,B
+9947,A
+9948,Answer: D
+9949,C
+9950,C 
+9951,Answer: D
+9952,Answer: A
+9953,D
+9954,C
+9955,Answer: C
+9956,D
+9957,Not Sure
+9958,B
+9959,
+9960,Answer: B
+9961,C
+9962,B
+9963,B
+9964,Answer: C
+9965,C
+9966,D
+9967,C
+9968,D
+9969,C
+9970,Answer: C
+9971,B
+9972,Answer: A
+9973,C
+9974,B
+9975,Answer: D
+9976,C 
+9977,Answer: A
+9978,Answer: A
+9979,Answer: D
+9980,Answer: C
+9981,Answer: B
+9982,Answer: A
+9983,A 
+9984,Answer: D
+9985,D 
+9986,D 
+9987,Answer: D
+9988,A
+9989,D
+9990,Answer: A
+9991,C
+9992,C 
+9993,C 
+9994,D
+9995,D
+9996,C 
+9997,Answer: D
+9998,C
+9999,D 
+10000,C 
+10001,Answer: C
+10002,C
+10003,Answer: A
+10004,C
+10005,B
+10006,D
+10007,C
+10008,"categorical logic, so the answer is D"
+10009,A
+10010,B
+10011,A
+10012,C
+10013,Answer: D
+10014,C
+10015,D
+10016,B
+10017,D 
+10018,Answer: C
+10019,B 
+10020,Answer: D
+10021,Answer: D
+10022,D
+10023,C
+10024,D
+10025,D 
+10026,A
+10027,Answer: A
+10028,A
+10029,Not Sure
+10030,D
+10031,D
+10032,C
+10033,Answer: C
+10034,C 
+10035,C
+10036,D
+10037,C
+10038,C
+10039,C 
+10040,B
+10041,A 
+10042,A
+10043,C
+10044,"slave labor, so the answer is D"
+10045,D
+10046,B
+10047,D 
+10048,B 
+10049,A
+10050,D
+10051,Answer: D
+10052,D 
+10053,"all of the above., so the answer is D"
+10054,D
+10055,A
+10056,D
+10057,C
+10058,C 
+10059,Answer: A
+10060,D
+10061,B
+10062,Answer: D
+10063,Answer: D
+10064,Answer: D
+10065,D
+10066,B 
+10067,B
+10068,D 
+10069,Answer: A
+10070,D
+10071,Answer: B
+10072,D
+10073,A
+10074,B
+10075,A
+10076,Answer: B
+10077,C
+10078,Answer: A
+10079,D
+10080,C 
+10081,Answer: D
+10082,Answer: D
+10083,C
+10084,B
+10085,C 
+10086,Answer: B
+10087,A
+10088,D
+10089,D 
+10090,Answer: C
+10091,B
+10092,C
+10093,B
+10094,D 
+10095,Answer: A
+10096,B 
+10097,Answer: C
+10098,D 
+10099,B
+10100,Answer: D
+10101,B 
+10102,C
+10103,Answer: B
+10104,C 
+10105,C
+10106,D
+10107,D 
+10108,C
+10109,Answer: C
+10110,C
+10111,C
+10112,Answer: C
+10113,Answer: C
+10114,D
+10115,D
+10116,D
+10117,C
+10118,Answer: C
+10119,D 
+10120,Answer: D
+10121,B
+10122,A 
+10123,Answer: A
+10124,C
+10125,B 
+10126,C 
+10127,B 
+10128,A
+10129,D
+10130,A
+10131,C
+10132,Answer: A
+10133,D 
+10134,Answer: C
+10135,D
+10136,D
+10137,B
+10138,Answer: B
+10139,Answer: A
+10140,Answer: C
+10141,"political and military history., so the answer is A"
+10142,Answer: C
+10143,Answer: D
+10144,B
+10145,D
+10146,Answer: B
+10147,Answer: D
+10148,Answer: B
+10149,C
+10150,A
+10151,Answer: D
+10152,D 
+10153,B 
+10154,Answer: D
+10155,C
+10156,C 
+10157,Answer: B
+10158,Answer: D
+10159,Answer: B
+10160,D
+10161,D 
+10162,D
+10163,Answer: B
+10164,C
+10165,A 
+10166,C
+10167,B 
+10168,Answer: C
+10169,C
+10170,C 
+10171,D 
+10172,Answer: D
+10173,Answer: B
+10174,D
+10175,D
+10176,B
+10177,C
+10178,D
+10179,D 
+10180,D
+10181,D
+10182,B
+10183,C 
+10184,D 
+10185,C
+10186,B 
+10187,D
+10188,Answer: D
+10189,B
+10190,A
+10191,D
+10192,Answer: D
+10193,D 
+10194,C
+10195,C
+10196,D
+10197,C 
+10198,Answer: D
+10199,Answer: D
+10200,A
+10201,A
+10202,D 
+10203,D
+10204,B 
+10205,Answer: B
+10206,Answer: D
+10207,C
+10208,C
+10209,A 
+10210,D
+10211,Answer: D
+10212,Answer: D
+10213,B
+10214,B 
+10215,B
+10216,D 
+10217,Answer: C
+10218,Answer: C
+10219,C
+10220,Answer: D
+10221,C
+10222,B 
+10223,C
+10224,D 
+10225,C
+10226,Answer: B
+10227,Answer: C
+10228,Answer: D
+10229,B
+10230,Answer: D
+10231,A 
+10232,Answer: B
+10233,C
+10234,D
+10235,D
+10236,Answer: C
+10237,B 
+10238,D
+10239,
+10240,C 
+10241,C 
+10242,Answer: C
+10243,B 
+10244,A
+10245,B
+10246,D 
+10247,Answer: D
+10248,Answer: D
+10249,B
+10250,C 
+10251,C 
+10252,D
+10253,Answer: C
+10254,C
+10255,Answer: D
+10256,Answer: B
+10257,B
+10258,C
+10259,A
+10260,C
+10261,D
+10262,Answer: D
+10263,D
+10264,D 
+10265,C 
+10266,A
+10267,C 
+10268,D
+10269,D
+10270,C
+10271,C
+10272,Answer: C
+10273,Answer: B
+10274,Answer: D
+10275,D
+10276,Answer: D
+10277,D
+10278,C 
+10279,C 
+10280,D
+10281,Answer: D
+10282,D 
+10283,C
+10284,C 
+10285,A
+10286,D 
+10287,Answer: D
+10288,B 
+10289,B
+10290,A
+10291,D 
+10292,Answer: A
+10293,A
+10294,Answer: D
+10295,Answer: D
+10296,D
+10297,C 
+10298,A
+10299,B 
+10300,A
+10301,B
+10302,C
+10303,Answer: B
+10304,D
+10305,A 
+10306,D
+10307,D
+10308,
+10309,D
+10310,D
+10311,C
+10312,Answer: C
+10313,D
+10314,B
+10315,
+10316,Answer: A
+10317,B 
+10318,Answer: D
+10319,B 
+10320,Answer: A
+10321,D
+10322,D
+10323,Answer: C
+10324,D 
+10325,D
+10326,Answer: C
+10327,D
+10328,Answer: C
+10329,Answer: B
+10330,Answer: C
+10331,Answer: A
+10332,Answer: D
+10333,C 
+10334,C
+10335,Answer: D
+10336,Answer: D
+10337,B 
+10338,D 
+10339,C
+10340,C
+10341,A
+10342,Answer: C
+10343,D 
+10344,B
+10345,B
+10346,Answer: D
+10347,B
+10348,Answer: C
+10349,D 
+10350,B
+10351,B
+10352,Answer: D
+10353,A
+10354,Answer: D
+10355,D
+10356,D
+10357,D
+10358,C 
+10359,D
+10360,B
+10361,A
+10362,B 
+10363,Answer: C
+10364,B 
+10365,Not Sure
+10366,C
+10367,D
+10368,D
+10369,D
+10370,Answer: C
+10371,D
+10372,C
+10373,D
+10374,Answer: D
+10375,Answer: D
+10376,"The first $40,000 of gain is allocated to Acre, and the remaining gain of $60,000 is shared equally by all the partners in the partnership., so the answer is D"
+10377,B
+10378,C 
+10379,B
+10380,B 
+10381,Answer: A
+10382,A
+10383,Answer: D
+10384,Answer: B
+10385,B
+10386,C
+10387,D 
+10388,D
+10389,Answer: D
+10390,Answer: D
+10391,A
+10392,A
+10393,B
+10394,A
+10395,Answer: C
+10396,Answer: B
+10397,D 
+10398,C 
+10399,Answer: A
+10400,A
+10401,B
+10402,Answer: D
+10403,Answer: D
+10404,Answer: D
+10405,D 
+10406,D
+10407,D 
+10408,Answer: D
+10409,Answer: D
+10410,D
+10411,D
+10412,D
+10413,B
+10414,C
+10415,C
+10416,C
+10417,D 
+10418,D
+10419,B 
+10420,D
+10421,A
+10422,D
+10423,B
+10424,A
+10425,A
+10426,B 
+10427,D
+10428,D
+10429,Answer: B
+10430,None of the above
+10431,D
+10432,Answer: B
+10433,D
+10434,D 
+10435,A
+10436,Answer: C
+10437,A
+10438,B 
+10439,Answer: D
+10440,B 
+10441,B
+10442,Answer: A
+10443,A 
+10444,Answer: C
+10445,Answer: A
+10446,D
+10447,D
+10448,D 
+10449,Answer: A
+10450,C
+10451,D
+10452,D
+10453,A 
+10454,C
+10455,"Supplementary financial information that has been subjected to inquiry and analytical procedures., so the answer is D"
+10456,Answer: D
+10457,B 
+10458,A
+10459,B
+10460,D
+10461,D
+10462,Answer: B
+10463,Answer: D
+10464,Answer: D
+10465,A
+10466,D 
+10467,D
+10468,D 
+10469,D
+10470,A 
+10471,C
+10472,D
+10473,D
+10474,D
+10475,D
+10476,D
+10477,D
+10478,B 
+10479,A
+10480,Answer: D
+10481,Answer: C
+10482,D 
+10483,Answer: C
+10484,B
+10485,C 
+10486,Not Sure
+10487,B 
+10488,D
+10489,Answer: C
+10490,A 
+10491,Answer: C
+10492,B 
+10493,B
+10494,A 
+10495,D 
+10496,Answer: D
+10497,C
+10498,Answer: D
+10499,A 
+10500,A
+10501,Answer: B
+10502,C
+10503,D
+10504,Answer: D
+10505,D 
+10506,D
+10507,C
+10508,D
+10509,A
+10510,A
+10511,A
+10512,B
+10513,D
+10514,Answer: B
+10515,B
+10516,D
+10517,Answer: D
+10518,D
+10519,Answer: D
+10520,A
+10521,Answer: D
+10522,B
+10523,Answer: D
+10524,Answer: D
+10525,D
+10526,D
+10527,Not Sure
+10528,Answer: C
+10529,
+10530,Not Sure
+10531,A
+10532,C 
+10533,A 
+10534,D 
+10535,C
+10536,Answer: D
+10537,B
+10538,D 
+10539,Answer: B
+10540,B
+10541,C
+10542,C
+10543,D
+10544,Answer: C
+10545,C
+10546,Answer: B
+10547,D
+10548,C
+10549,Answer: D
+10550,C
+10551,C
+10552,D
+10553,D 
+10554,A
+10555,Answer: A
+10556,B
+10557,C
+10558,Answer: B
+10559,C 
+10560,
+10561,Answer: C
+10562,C
+10563,D 
+10564,B 
+10565,B
+10566,B
+10567,Answer: D
+10568,None of the above
+10569,None of the above
+10570,Answer: C
+10571,D 
+10572,D
+10573,A 
+10574,D
+10575,B
+10576,D 
+10577,C 
+10578,Answer: B
+10579,Answer: D
+10580,Answer: D
+10581,Answer: B
+10582,D 
+10583,D
+10584,D
+10585,Answer: A
+10586,D 
+10587,Answer: B
+10588,C
+10589,B
+10590,C
+10591,B
+10592,Answer: D
+10593,Answer: A
+10594,C
+10595,D
+10596,D 
+10597,C
+10598,D
+10599,A 
+10600,Answer: A
+10601,B 
+10602,Answer: B
+10603,B 
+10604,A
+10605,D
+10606,B
+10607,B
+10608,D
+10609,D
+10610,D 
+10611,D
+10612,Answer: C
+10613,D
+10614,D
+10615,D
+10616,Answer: B
+10617,C
+10618,Answer: C
+10619,D
+10620,C
+10621,D 
+10622,B 
+10623,B
+10624,A 
+10625,D 
+10626,D
+10627,C
+10628,Answer: D
+10629,Answer: D
+10630,B
+10631,C
+10632,A
+10633,D
+10634,C 
+10635,Answer: B
+10636,A
+10637,Answer: B
+10638,A
+10639,B
+10640,C 
+10641,A
+10642,D
+10643,A
+10644,C
+10645,C 
+10646,Answer: C
+10647,C
+10648,A
+10649,C 
+10650,A
+10651,C
+10652,C 
+10653,D 
+10654,A
+10655,B 
+10656,Answer: D
+10657,C
+10658,C
+10659,Answer: D
+10660,Answer: C
+10661,Answer: D
+10662,Answer: A
+10663,D
+10664,C
+10665,Answer: A
+10666,A
+10667,A 
+10668,D
+10669,Answer: A
+10670,Answer: C
+10671,D
+10672,D
+10673,D
+10674,Answer: C
+10675,Answer: D
+10676,D
+10677,Answer: C
+10678,B
+10679,C 
+10680,D
+10681,Answer: C
+10682,Answer: C
+10683,Answer: C
+10684,B
+10685,B 
+10686,D
+10687,D
+10688,B
+10689,A
+10690,C 
+10691,Answer: A
+10692,Answer: A
+10693,D 
+10694,C 
+10695,Answer: D
+10696,B 
+10697,D
+10698,B 
+10699,D 
+10700,D
+10701,D
+10702,Answer: B
+10703,D 
+10704,D
+10705,D
+10706,B 
+10707,D
+10708,C
+10709,D
+10710,Answer: D
+10711,D
+10712,D
+10713,Answer: C
+10714,D 
+10715,D
+10716,B
+10717,B
+10718,D 
+10719,A 
+10720,Answer: A
+10721,D
+10722,C
+10723,B 
+10724,C 
+10725,Answer: D
+10726,B
+10727,D 
+10728,Answer: D
+10729,Answer: A
+10730,D
+10731,D
+10732,C
+10733,A 
+10734,B 
+10735,Answer: C
+10736,D
+10737,C
+10738,D
+10739,D
+10740,Answer: C
+10741,D
+10742,C
+10743,Answer: C
+10744,A 
+10745,A 
+10746,Answer: A
+10747,D
+10748,C 
+10749,Answer: A
+10750,Answer: C
+10751,Answer: B
+10752,Answer: D
+10753,C
+10754,D 
+10755,C
+10756,A
+10757,Answer: D
+10758,A 
+10759,C
+10760,D
+10761,A 
+10762,A 
+10763,Answer: D
+10764,A 
+10765,C 
+10766,Answer: C
+10767,Answer: C
+10768,D
+10769,D
+10770,
+10771,D
+10772,A
+10773,D 
+10774,B 
+10775,D
+10776,Not Sure
+10777,D
+10778,A 
+10779,C
+10780,Answer: D
+10781,A
+10782,B
+10783,D
+10784,B
+10785,C
+10786,D
+10787,D
+10788,Answer: D
+10789,D 
+10790,D
+10791,Answer: A
+10792,Answer: D
+10793,C
+10794,B
+10795,C
+10796,A
+10797,C
+10798,D
+10799,Answer: A
+10800,D
+10801,A
+10802,D
+10803,C
+10804,D
+10805,B 
+10806,D
+10807,Answer: D
+10808,C 
+10809,Answer: B
+10810,Answer: D
+10811,D
+10812,D
+10813,Answer: D
+10814,C
+10815,D
+10816,Answer: B
+10817,Answer: A
+10818,B
+10819,A
+10820,D 
+10821,D
+10822,D 
+10823,Answer: D
+10824,Answer: C
+10825,Answer: D
+10826,Answer: D
+10827,
+10828,A
+10829,D
+10830,C
+10831,A
+10832,Answer: B
+10833,C
+10834,B
+10835,D
+10836,B
+10837,A
+10838,C
+10839,Answer: D
+10840,Answer: D
+10841,Answer: C
+10842,A
+10843,D
+10844,D
+10845,Answer: D
+10846,Answer: B
+10847,B
+10848,D
+10849,C
+10850,D
+10851,Answer: D
+10852,Answer: D
+10853,C
+10854,B
+10855,Answer: D
+10856,Answer: B
+10857,Answer: B
+10858,D
+10859,C
+10860,B 
+10861,B 
+10862,B
+10863,C
+10864,Answer: A
+10865,
+10866,B
+10867,Answer: D
+10868,A
+10869,C
+10870,D
+10871,Answer: D
+10872,B
+10873,A
+10874,C 
+10875,B
+10876,D
+10877,B
+10878,D
+10879,Answer: D
+10880,A 
+10881,C
+10882,C
+10883,B 
+10884,C
+10885,C
+10886,C
+10887,A
+10888,Answer: D
+10889,D
+10890,Answer: C
+10891,C
+10892,D
+10893,D
+10894,Answer: C
+10895,B
+10896,B 
+10897,B
+10898,D
+10899,Answer: D
+10900,Answer: A
+10901,C 
+10902,D 
+10903,Answer: D
+10904,Answer: A
+10905,C 
+10906,D
+10907,Answer: B
+10908,Answer: D
+10909,A
+10910,C 
+10911,A
+10912,C 
+10913,B
+10914,D
+10915,C
+10916,A
+10917,Not Sure
+10918,D
+10919,D
+10920,Answer: C
+10921,Answer: D
+10922,D
+10923,C
+10924,D 
+10925,D
+10926,D
+10927,Answer: C
+10928,Answer: D
+10929,Answer: A
+10930,A
+10931,Answer: C
+10932,D
+10933,Answer: B
+10934,D
+10935,C
+10936,D
+10937,D
+10938,C 
+10939,Answer: D
+10940,D
+10941,Answer: D
+10942,A
+10943,Answer: C
+10944,
+10945,Answer: B
+10946,A
+10947,C
+10948,Answer: A
+10949,C 
+10950,Answer: B
+10951,D
+10952,D
+10953,D
+10954,B
+10955,A
+10956,Answer: D
+10957,D
+10958,D 
+10959,C
+10960,D
+10961,D 
+10962,B 
+10963,D
+10964,Answer: D
+10965,C
+10966,C
+10967,C
+10968,C
+10969,D
+10970,Answer: A
+10971,Answer: B
+10972,D
+10973,C 
+10974,A
+10975,D 
+10976,B
+10977,A
+10978,Answer: C
+10979,Answer: B
+10980,A
+10981,Answer: D
+10982,Answer: B
+10983,Answer: D
+10984,C 
+10985,D
+10986,Answer: D
+10987,Answer: D
+10988,C
+10989,C
+10990,D
+10991,Answer: B
+10992,D 
+10993,A 
+10994,B 
+10995,A
+10996,Answer: D
+10997,A
+10998,D
+10999,Answer: C
+11000,D 
+11001,B 
+11002,C 
+11003,Answer: A
+11004,Answer: C
+11005,D
+11006,C
+11007,B
+11008,D
+11009,B 
+11010,B
+11011,A
+11012,Answer: B
+11013,Answer: D
+11014,
+11015,D
+11016,Answer: D
+11017,"Privily of estate, but not privily of contract, exists between property owner and the corporation., so the answer is C"
+11018,Answer: A
+11019,B 
+11020,Answer: D
+11021,B
+11022,C
+11023,Answer: C
+11024,B
+11025,B
+11026,B
+11027,Answer: D
+11028,Answer: A
+11029,D
+11030,C
+11031,A 
+11032,Answer: D
+11033,C
+11034,Answer: D
+11035,A 
+11036,A
+11037,D
+11038,C
+11039,A 
+11040,C
+11041,Answer: D
+11042,Answer: B
+11043,C
+11044,A
+11045,A 
+11046,Answer: D
+11047,B
+11048,C 
+11049,B
+11050,C
+11051,D
+11052,B
+11053,Answer: B
+11054,B 
+11055,Answer: D
+11056,Answer: A
+11057,C
+11058,C
+11059,Answer: C
+11060,C 
+11061,A
+11062,C 
+11063,D
+11064,Answer: D
+11065,Answer: C
+11066,C 
+11067,D 
+11068,C
+11069,B
+11070,D
+11071,A
+11072,C
+11073,A 
+11074,Answer: B
+11075,C
+11076,C 
+11077,C 
+11078,D
+11079,D 
+11080,Answer: D
+11081,A 
+11082,D 
+11083,Answer: D
+11084,C
+11085,A
+11086,C
+11087,Answer: D
+11088,B
+11089,
+11090,D
+11091,Answer: D
+11092,Answer: B
+11093,Answer: D
+11094,C 
+11095,B
+11096,B 
+11097,
+11098,D 
+11099,Answer: A
+11100,B 
+11101,D 
+11102,Answer: D
+11103,Answer: C
+11104,Answer: D
+11105,D
+11106,Answer: B
+11107,D
+11108,D
+11109,D
+11110,D 
+11111,Answer: D
+11112,B
+11113,Answer: D
+11114,B 
+11115,B
+11116,D
+11117,Answer: B
+11118,D 
+11119,C
+11120,D 
+11121,D 
+11122,B 
+11123,Answer: A
+11124,B
+11125,C 
+11126,C 
+11127,B
+11128,D
+11129,Not Sure
+11130,Answer: A
+11131,D
+11132,Answer: D
+11133,D
+11134,C
+11135,C
+11136,Answer: C
+11137,Answer: C
+11138,A
+11139,D 
+11140,A
+11141,B 
+11142,C
+11143,Answer: D
+11144,Answer: A
+11145,D 
+11146,C
+11147,D
+11148,B
+11149,Answer: D
+11150,C
+11151,C
+11152,B 
+11153,Answer: D
+11154,B
+11155,Answer: C
+11156,C
+11157,C
+11158,Answer: B
+11159,Answer: C
+11160,D
+11161,D 
+11162,C
+11163,Answer: D
+11164,None of the above
+11165,D
+11166,D 
+11167,"recover against the carpeting company only., so the answer is B"
+11168,A
+11169,D
+11170,B 
+11171,D
+11172,Answer: C
+11173,D
+11174,
+11175,Answer: C
+11176,Answer: C
+11177,D 
+11178,D
+11179,Answer: A
+11180,D
+11181,Answer: D
+11182,D
+11183,Answer: D
+11184,Answer: A
+11185,C 
+11186,Answer: C
+11187,D
+11188,C 
+11189,B
+11190,Answer: B
+11191,D
+11192,A
+11193,A
+11194,A
+11195,C
+11196,C
+11197,D
+11198,D 
+11199,D
+11200,D
+11201,D
+11202,Answer: B
+11203,C
+11204,Answer: D
+11205,Answer: D
+11206,Answer: D
+11207,Answer: C
+11208,D
+11209,Answer: C
+11210,A
+11211,B
+11212,B
+11213,C 
+11214,A
+11215,D 
+11216,B 
+11217,A 
+11218,A
+11219,C 
+11220,D 
+11221,D
+11222,D
+11223,D 
+11224,Answer: D
+11225,C
+11226,Answer: C
+11227,Answer: C
+11228,D
+11229,C
+11230,D
+11231,Answer: B
+11232,Answer: D
+11233,Answer: C
+11234,B 
+11235,Answer: C
+11236,D
+11237,Answer: D
+11238,Answer: B
+11239,Answer: B
+11240,Answer: A
+11241,D 
+11242,A 
+11243,D
+11244,D
+11245,C
+11246,D
+11247,D 
+11248,A
+11249,C 
+11250,D 
+11251,C
+11252,D
+11253,C 
+11254,D
+11255,Answer: A
+11256,D
+11257,D
+11258,Answer: D
+11259,D 
+11260,C 
+11261,B
+11262,Answer: A
+11263,Answer: B
+11264,C
+11265,D 
+11266,Answer: D
+11267,Answer: D
+11268,A
+11269,D 
+11270,D
+11271,D
+11272,B
+11273,B 
+11274,C
+11275,C
+11276,D 
+11277,Answer: D
+11278,D
+11279,D
+11280,None of the above
+11281,D
+11282,Answer: D
+11283,B 
+11284,Answer: D
+11285,Answer: C
+11286,"Yes, because the evidence was sufficient to support the jury's verdict., so the answer is D"
+11287,Answer: A
+11288,B 
+11289,D
+11290,D
+11291,C
+11292,D
+11293,D 
+11294,D
+11295,D 
+11296,None of the above
+11297,Answer: C
+11298,A
+11299,A 
+11300,D 
+11301,Answer: C
+11302,D
+11303,Answer: C
+11304,Answer: A
+11305,C 
+11306,Answer: D
+11307,Answer: D
+11308,Answer: D
+11309,Answer: D
+11310,A 
+11311,Answer: B
+11312,Answer: D
+11313,Answer: C
+11314,D 
+11315,C
+11316,D
+11317,C
+11318,D
+11319,Answer: D
+11320,D 
+11321,B 
+11322,C
+11323,D
+11324,Answer: B
+11325,D
+11326,A 
+11327,B
+11328,C
+11329,Answer: B
+11330,D
+11331,D
+11332,C
+11333,C
+11334,C 
+11335,B
+11336,C
+11337,B 
+11338,A
+11339,C
+11340,D
+11341,Answer: B
+11342,D
+11343,D
+11344,B
+11345,B
+11346,Answer: B
+11347,C
+11348,
+11349,A
+11350,Answer: C
+11351,D 
+11352,A
+11353,B
+11354,D
+11355,A
+11356,A
+11357,D
+11358,Answer: D
+11359,D 
+11360,D
+11361,Answer: D
+11362,D
+11363,A
+11364,C 
+11365,A
+11366,B 
+11367,Answer: D
+11368,D 
+11369,Answer: A
+11370,
+11371,Answer: C
+11372,C
+11373,B
+11374,D
+11375,Answer: D
+11376,Answer: B
+11377,B
+11378,D 
+11379,Answer: B
+11380,D
+11381,D
+11382,Answer: D
+11383,D
+11384,D
+11385,Answer: A
+11386,D
+11387,D
+11388,D
+11389,C
+11390,Answer: D
+11391,D 
+11392,B
+11393,A
+11394,C
+11395,B
+11396,Answer: C
+11397,D
+11398,C
+11399,C
+11400,A 
+11401,B 
+11402,B 
+11403,Answer: B
+11404,D
+11405,D
+11406,C
+11407,A 
+11408,C
+11409,Answer: C
+11410,A
+11411,A
+11412,B 
+11413,D
+11414,D
+11415,C 
+11416,A 
+11417,C
+11418,Answer: D
+11419,D
+11420,C
+11421,C 
+11422,C
+11423,A
+11424,None of the above
+11425,Answer: D
+11426,C 
+11427,
+11428,Answer: D
+11429,Answer: C
+11430,D
+11431,D
+11432,D
+11433,Answer: D
+11434,D 
+11435,A
+11436,C
+11437,D
+11438,Answer: C
+11439,D
+11440,D 
+11441,A
+11442,B 
+11443,Answer: A
+11444,A
+11445,C
+11446,Answer: A
+11447,B
+11448,A
+11449,A
+11450,D
+11451,Answer: A
+11452,C
+11453,B
+11454,A 
+11455,Answer: B
+11456,D
+11457,C 
+11458,D
+11459,A
+11460,C 
+11461,Answer: A
+11462,B 
+11463,D
+11464,C 
+11465,B
+11466,D
+11467,B
+11468,D
+11469,Answer: D
+11470,B 
+11471,Answer: B
+11472,Answer: A
+11473,C 
+11474,B 
+11475,B 
+11476,B
+11477,B
+11478,C
+11479,D 
+11480,C
+11481,Not Sure
+11482,D
+11483,Answer: B
+11484,C
+11485,Answer: D
+11486,D 
+11487,Answer: D
+11488,C
+11489,D
+11490,A
+11491,A
+11492,D 
+11493,Answer: B
+11494,D
+11495,
+11496,C 
+11497,C
+11498,D
+11499,Answer: D
+11500,D
+11501,Not Sure
+11502,Answer: C
+11503,Answer: A
+11504,B
+11505,Answer: D
+11506,B
+11507,D
+11508,A 
+11509,C
+11510,Answer: D
+11511,D
+11512,D
+11513,D
+11514,D 
+11515,A
+11516,A
+11517,Answer: B
+11518,A 
+11519,D
+11520,Answer: D
+11521,Answer: A
+11522,A
+11523,Answer: D
+11524,Answer: C
+11525,Answer: B
+11526,Answer: D
+11527,C
+11528,D
+11529,D 
+11530,Answer: D
+11531,B 
+11532,Answer: D
+11533,A
+11534,D
+11535,C
+11536,None of the above
+11537,C
+11538,Answer: B
+11539,D
+11540,D
+11541,C
+11542,Not Sure
+11543,B
+11544,B
+11545,Answer: B
+11546,D
+11547,B
+11548,B
+11549,A
+11550,C
+11551,Answer: C
+11552,Answer: C
+11553,A 
+11554,Answer: B
+11555,Answer: C
+11556,Answer: A
+11557,D
+11558,Answer: D
+11559,Answer: B
+11560,B
+11561,D
+11562,C 
+11563,Answer: D
+11564,B 
+11565,A
+11566,D
+11567,D 
+11568,C
+11569,Answer: D
+11570,B
+11571,A 
+11572,D 
+11573,Answer: D
+11574,D 
+11575,D 
+11576,C
+11577,C 
+11578,Answer: C
+11579,Answer: D
+11580,D
+11581,C 
+11582,Answer: C
+11583,C 
+11584,Answer: B
+11585,C
+11586,Answer: B
+11587,A
+11588,Answer: C
+11589,C
+11590,Answer: B
+11591,Answer: A
+11592,C
+11593,Answer: D
+11594,D
+11595,B
+11596,D
+11597,A 
+11598,A
+11599,Answer: D
+11600,B 
+11601,B
+11602,C
+11603,C
+11604,D
+11605,C
+11606,D 
+11607,Not Sure
+11608,B
+11609,A 
+11610,Answer: D
+11611,Answer: C
+11612,C
+11613,B
+11614,D
+11615,D
+11616,C 
+11617,C 
+11618,Answer: A
+11619,B
+11620,Not Sure
+11621,D
+11622,D
+11623,B
+11624,C
+11625,D
+11626,D 
+11627,Answer: B
+11628,C
+11629,Answer: C
+11630,B 
+11631,D
+11632,D
+11633,D 
+11634,Answer: D
+11635,D
+11636,B
+11637,C 
+11638,C
+11639,"No, because the company's duty to use reasonable care in hiring a competent driver extended only to actions taken by the worker in the scope of his employment., so the answer is A"
+11640,B 
+11641,Answer: D
+11642,D
+11643,A
+11644,D
+11645,Answer: C
+11646,D
+11647,Answer: C
+11648,A 
+11649,D
+11650,C
+11651,C
+11652,C
+11653,Answer: B
+11654,D
+11655,B
+11656,Answer: C
+11657,B
+11658,Answer: D
+11659,D 
+11660,Answer: D
+11661,D 
+11662,C 
+11663,D
+11664,Answer: D
+11665,D
+11666,D
+11667,D
+11668,D
+11669,Answer: A
+11670,Answer: D
+11671,Answer: C
+11672,A 
+11673,Answer: D
+11674,B
+11675,Not Sure
+11676,D 
+11677,B
+11678,Answer: D
+11679,Answer: D
+11680,B 
+11681,C
+11682,Answer: C
+11683,C 
+11684,Answer: B
+11685,Answer: D
+11686,C 
+11687,C
+11688,Answer: C
+11689,Answer: A
+11690,Answer: C
+11691,A
+11692,B
+11693,D 
+11694,D
+11695,D 
+11696,A
+11697,A
+11698,C
+11699,D 
+11700,Answer: A
+11701,B 
+11702,C
+11703,D
+11704,Answer: D
+11705,Answer: B
+11706,B
+11707,D
+11708,Answer: D
+11709,C 
+11710,D 
+11711,Answer: D
+11712,D
+11713,Answer: D
+11714,A
+11715,B 
+11716,Answer: C
+11717,D
+11718,B
+11719,D
+11720,A
+11721,Answer: A
+11722,D
+11723,D
+11724,B
+11725,D
+11726,D
+11727,B
+11728,Answer: D
+11729,B
+11730,C
+11731,B
+11732,D
+11733,B 
+11734,Answer: C
+11735,D 
+11736,Answer: C
+11737,B 
+11738,B 
+11739,A
+11740,Answer: D
+11741,A
+11742,Answer: A
+11743,Answer: B
+11744,Answer: B
+11745,Answer: B
+11746,D
+11747,B
+11748,C
+11749,D
+11750,Answer: B
+11751,Answer: D
+11752,Answer: D
+11753,Answer: D
+11754,D
+11755,D 
+11756,Answer: B
+11757,C 
+11758,Answer: A
+11759,Answer: B
+11760,B
+11761,Answer: B
+11762,D
+11763,D
+11764,C
+11765,Answer: C
+11766,D
+11767,A
+11768,D 
+11769,C 
+11770,D
+11771,D 
+11772,"It is impossible to prove that the defendant was the perpetrator because the parking lot was dimly lit., so the answer is D"
+11773,A 
+11774,B
+11775,A
+11776,D
+11777,Answer: C
+11778,D
+11779,Answer: D
+11780,B 
+11781,Answer: D
+11782,Answer: D
+11783,B
+11784,C 
+11785,"on October 1, 1985., so the answer is C"
+11786,D
+11787,Answer: B
+11788,Answer: C
+11789,D
+11790,Answer: A
+11791,Answer: D
+11792,B
+11793,Answer: B
+11794,D
+11795,C
+11796,C
+11797,D
+11798,Answer: D
+11799,D
+11800,Answer: D
+11801,C
+11802,Answer: D
+11803,None of the above
+11804,A
+11805,A 
+11806,B
+11807,D 
+11808,C 
+11809,Answer: C
+11810,D 
+11811,D 
+11812,Answer: D
+11813,D
+11814,A
+11815,B
+11816,Answer: B
+11817,A
+11818,A
+11819,C
+11820,Answer: C
+11821,C
+11822,Answer: C
+11823,A 
+11824,D
+11825,C
+11826,Answer: C
+11827,A
+11828,Answer: D
+11829,Answer: A
+11830,B
+11831,B
+11832,C
+11833,D
+11834,Answer: A
+11835,D
+11836,B
+11837,D
+11838,C
+11839,C
+11840,C
+11841,D
+11842,C 
+11843,C
+11844,D 
+11845,B
+11846,Answer: D
+11847,Answer: D
+11848,Answer: D
+11849,Answer: D
+11850,B
+11851,D
+11852,Answer: B
+11853,C
+11854,
+11855,C
+11856,B 
+11857,D 
+11858,B
+11859,D
+11860,B
+11861,D
+11862,A
+11863,D
+11864,Answer: B
+11865,Answer: C
+11866,Answer: B
+11867,Answer: B
+11868,B
+11869,D
+11870,Answer: D
+11871,D 
+11872,Answer: D
+11873,Answer: B
+11874,B
+11875,A
+11876,D 
+11877,Answer: D
+11878,
+11879,
+11880,D
+11881,D
+11882,C
+11883,A 
+11884,A
+11885,C
+11886,Answer: D
+11887,D
+11888,B
+11889,A
+11890,A
+11891,C 
+11892,D
+11893,C
+11894,C
+11895,Answer: B
+11896,Answer: D
+11897,B
+11898,D 
+11899,C
+11900,C 
+11901,D
+11902,Answer: D
+11903,C
+11904,C 
+11905,C
+11906,C
+11907,Answer: D
+11908,D
+11909,A
+11910,Answer: A
+11911,None of the above
+11912,D
+11913,
+11914,Answer: B
+11915,D
+11916,C
+11917,Answer: C
+11918,C
+11919,Answer: D
+11920,Answer: C
+11921,D 
+11922,Answer: B
+11923,C 
+11924,Answer: D
+11925,Answer: D
+11926,Answer: A
+11927,Answer: B
+11928,D 
+11929,B
+11930,A 
+11931,D 
+11932,B
+11933,D
+11934,Answer: A
+11935,None of the above
+11936,C
+11937,D 
+11938,Answer: C
+11939,A
+11940,B
+11941,A
+11942,C
+11943,B
+11944,A 
+11945,Answer: D
+11946,B
+11947,B
+11948,D 
+11949,Answer: D
+11950,B
+11951,Answer: B
+11952,D
+11953,D 
+11954,Answer: D
+11955,
+11956,D
+11957,D
+11958,C
+11959,D
+11960,A
+11961,B 
+11962,Answer: B
+11963,A
+11964,B
+11965,D 
+11966,D 
+11967,C
+11968,D
+11969,D
+11970,D
+11971,D
+11972,C 
+11973,Answer: D
+11974,D
+11975,Answer: D
+11976,Answer: D
+11977,D
+11978,D
+11979,Answer: B
+11980,C
+11981,Answer: B
+11982,C
+11983,D
+11984,D 
+11985,C 
+11986,C
+11987,D 
+11988,A
+11989,D
+11990,Answer: A
+11991,Answer: B
+11992,C
+11993,Answer: B
+11994,B
+11995,D
+11996,"The market price on September 20., so the answer is C"
+11997,A
+11998,D
+11999,C
+12000,D
+12001,C 
+12002,C
+12003,Answer: D
+12004,D
+12005,
+12006,B
+12007,C 
+12008,D 
+12009,Answer: B
+12010,C
+12011,D 
+12012,Answer: C
+12013,Answer: A
+12014,Answer: B
+12015,D 
+12016,Answer: A
+12017,A
+12018,Answer: C
+12019,B 
+12020,A
+12021,C
+12022,Answer: A
+12023,C
+12024,C
+12025,D
+12026,Answer: A
+12027,A
+12028,Answer: D
+12029,A
+12030,B
+12031,C
+12032,C
+12033,Answer: A
+12034,D
+12035,B
+12036,C
+12037,C
+12038,B
+12039,Answer: D
+12040,D 
+12041,C 
+12042,A 
+12043,B
+12044,A
+12045,D
+12046,A 
+12047,Answer: C
+12048,Answer: D
+12049,Not Sure
+12050,D 
+12051,Answer: D
+12052,A 
+12053,D
+12054,Answer: C
+12055,A
+12056,B 
+12057,C
+12058,A 
+12059,Answer: D
+12060,C
+12061,A
+12062,D 
+12063,Answer: A
+12064,C 
+12065,C
+12066,D
+12067,C 
+12068,Answer: D
+12069,Answer: C
+12070,D
+12071,D
+12072,Answer: D
+12073,D
+12074,D
+12075,C
+12076,Answer: A
+12077,B
+12078,C
+12079,D 
+12080,Answer: D
+12081,Answer: D
+12082,A 
+12083,C
+12084,D
+12085,B
+12086,C
+12087,Answer: D
+12088,D
+12089,C
+12090,Answer: A
+12091,A
+12092,Answer: A
+12093,C
+12094,C
+12095,D 
+12096,Not Sure
+12097,D
+12098,B 
+12099,B
+12100,D
+12101,D
+12102,D
+12103,C
+12104,C
+12105,Answer: B
+12106,B
+12107,C
+12108,D
+12109,Answer: B
+12110,A
+12111,D
+12112,
+12113,A 
+12114,B 
+12115,Answer: D
+12116,C
+12117,C
+12118,D
+12119,D
+12120,Answer: D
+12121,D
+12122,D 
+12123,Answer: B
+12124,B 
+12125,D 
+12126,Answer: D
+12127,Answer: D
+12128,D
+12129,Answer: A
+12130,B 
+12131,D
+12132,D
+12133,
+12134,A 
+12135,B
+12136,D 
+12137,D
+12138,Answer: C
+12139,D
+12140,C
+12141,C
+12142,A 
+12143,B 
+12144,A 
+12145,A 
+12146,Answer: A
+12147,Answer: B
+12148,C
+12149,B
+12150,D
+12151,C
+12152,Answer: A
+12153,Answer: D
+12154,D
+12155,D
+12156,D
+12157,B
+12158,Answer: C
+12159,B
+12160,B 
+12161,A
+12162,Answer: D
+12163,D 
+12164,D
+12165,C
+12166,C
+12167,D
+12168,C
+12169,Answer: D
+12170,A
+12171,B
+12172,B 
+12173,D 
+12174,B 
+12175,Answer: C
+12176,D 
+12177,D
+12178,D
+12179,C 
+12180,B
+12181,Answer: D
+12182,Answer: D
+12183,D
+12184,C 
+12185,Answer: D
+12186,D
+12187,
+12188,B 
+12189,Answer: D
+12190,Answer: D
+12191,Answer: D
+12192,Answer: D
+12193,Answer: D
+12194,Answer: D
+12195,D
+12196,Answer: B
+12197,C
+12198,D
+12199,D
+12200,Answer: D
+12201,A
+12202,D
+12203,C
+12204,B
+12205,D 
+12206,B
+12207,A 
+12208,Answer: D
+12209,D
+12210,D
+12211,D
+12212,D
+12213,C
+12214,Answer: D
+12215,D
+12216,D 
+12217,D
+12218,Answer: D
+12219,Answer: D
+12220,C
+12221,D
+12222,D 
+12223,B
+12224,C
+12225,B
+12226,D
+12227,Answer: D
+12228,D
+12229,B
+12230,Answer: D
+12231,Answer: D
+12232,D
+12233,A 
+12234,B 
+12235,D
+12236,D 
+12237,Answer: D
+12238,Answer: D
+12239,D
+12240,D
+12241,B 
+12242,A 
+12243,Answer: D
+12244,C
+12245,D 
+12246,B
+12247,Answer: A
+12248,B 
+12249,D
+12250,D
+12251,B 
+12252,D
+12253,B
+12254,D
+12255,D
+12256,D 
+12257,B
+12258,D
+12259,None of the above
+12260,D
+12261,Answer: A
+12262,Answer: B
+12263,D
+12264,Answer: C
+12265,D 
+12266,Answer: D
+12267,C
+12268,D
+12269,Answer: C
+12270,C
+12271,D 
+12272,Answer: B
+12273,D
+12274,D 
+12275,Answer: D
+12276,B
+12277,Answer: D
+12278,Answer: D
+12279,"The infant has a 50% risk for hemophilia, so the answer is B"
+12280,D
+12281,B
+12282,D 
+12283,Answer: C
+12284,D
+12285,C
+12286,D
+12287,C 
+12288,D
+12289,D
+12290,D
+12291,D
+12292,D
+12293,A 
+12294,D
+12295,C
+12296,Answer: C
+12297,D 
+12298,D
+12299,A 
+12300,B
+12301,Answer: C
+12302,Not Sure
+12303,
+12304,C
+12305,B
+12306,C
+12307,Answer: B
+12308,D
+12309,Answer: A
+12310,D
+12311,B
+12312,C
+12313,D
+12314,Answer: D
+12315,D
+12316,B 
+12317,Answer: A
+12318,D
+12319,Answer: B
+12320,D 
+12321,D
+12322,B 
+12323,B
+12324,C
+12325,D
+12326,B
+12327,Answer: D
+12328,Answer: B
+12329,D
+12330,Answer: D
+12331,C
+12332,D
+12333,D
+12334,B
+12335,Answer: B
+12336,C
+12337,C
+12338,B
+12339,B
+12340,D
+12341,D 
+12342,D
+12343,B
+12344,Answer: D
+12345,D
+12346,Answer: D
+12347,
+12348,Answer: B
+12349,D
+12350,C 
+12351,Answer: D
+12352,B
+12353,D
+12354,Answer: A
+12355,Answer: D
+12356,Answer: D
+12357,Answer: C
+12358,Answer: D
+12359,C
+12360,D
+12361,A 
+12362,Answer: D
+12363,D 
+12364,A 
+12365,B 
+12366,Answer: A
+12367,A
+12368,D
+12369,C
+12370,C 
+12371,D 
+12372,B
+12373,D
+12374,Answer: D
+12375,Answer: D
+12376,Answer: B
+12377,Answer: D
+12378,D
+12379,D
+12380,Answer: D
+12381,D 
+12382,D 
+12383,Answer: A
+12384,D 
+12385,Answer: A
+12386,D
+12387,D 
+12388,D 
+12389,D
+12390,D 
+12391,D 
+12392,Answer: C
+12393,A
+12394,Not Sure
+12395,Answer: D
+12396,B
+12397,D
+12398,B
+12399,D
+12400,B
+12401,C 
+12402,D
+12403,D
+12404,
+12405,D
+12406,D
+12407,D
+12408,D 
+12409,Answer: A
+12410,D
+12411,D
+12412,Answer: B
+12413,D 
+12414,A
+12415,Answer: A
+12416,D 
+12417,D
+12418,D
+12419,D 
+12420,C
+12421,C
+12422,D
+12423,D
+12424,D
+12425,Answer: D
+12426,D
+12427,C
+12428,D
+12429,C
+12430,Answer: B
+12431,Answer: D
+12432,A
+12433,Answer: B
+12434,Answer: D
+12435,D
+12436,Answer: B
+12437,D 
+12438,C
+12439,B
+12440,B 
+12441,A
+12442,B 
+12443,D
+12444,A
+12445,A
+12446,Answer: A
+12447,B
+12448,D
+12449,A
+12450,B
+12451,A 
+12452,B
+12453,Answer: A
+12454,Not Sure
+12455,Answer: D
+12456,D
+12457,B 
+12458,B
+12459,Answer: D
+12460,None of the above
+12461,Answer: A
+12462,Answer: D
+12463,A
+12464,B 
+12465,Answer: C
+12466,D
+12467,B
+12468,C 
+12469,D
+12470,A
+12471,C
+12472,Answer: B
+12473,Answer: D
+12474,Answer: D
+12475,C
+12476,A 
+12477,C
+12478,Answer: D
+12479,B
+12480,D
+12481,A
+12482,D
+12483,C
+12484,Answer: C
+12485,Answer: D
+12486,D 
+12487,B 
+12488,C
+12489,A
+12490,B
+12491,D
+12492,C 
+12493,D
+12494,D
+12495,Answer: D
+12496,A
+12497,C
+12498,A
+12499,B
+12500,C 
+12501,B 
+12502,D
+12503,A
+12504,D
+12505,C 
+12506,Answer: D
+12507,D
+12508,B
+12509,B 
+12510,D
+12511,D 
+12512,Answer: D
+12513,B 
+12514,Answer: A
+12515,A
+12516,D
+12517,Answer: C
+12518,Answer: C
+12519,B
+12520,Answer: D
+12521,Answer: D
+12522,D
+12523,D
+12524,C
+12525,Answer: B
+12526,D
+12527,D
+12528,D
+12529,D 
+12530,Answer: C
+12531,B
+12532,Answer: D
+12533,Answer: D
+12534,D 
+12535,A
+12536,B
+12537,Answer: C
+12538,Not Sure
+12539,D
+12540,
+12541,Answer: D
+12542,B
+12543,B
+12544,Answer: C
+12545,Answer: B
+12546,Answer: D
+12547,B 
+12548,B
+12549,C
+12550,D
+12551,B
+12552,D
+12553,B
+12554,Answer: B
+12555,C
+12556,Answer: A
+12557,D
+12558,A 
+12559,Answer: D
+12560,D
+12561,D 
+12562,B
+12563,C
+12564,D
+12565,C
+12566,B
+12567,B 
+12568,D
+12569,Not Sure
+12570,B
+12571,D
+12572,D
+12573,C
+12574,C
+12575,A
+12576,D
+12577,B
+12578,A
+12579,Answer: A
+12580,D 
+12581,Answer: D
+12582,Answer: B
+12583,Answer: D
+12584,B
+12585,A
+12586,"electrolyte imbalance, so the answer is D"
+12587,C
+12588,B
+12589,Answer: C
+12590,Answer: D
+12591,Answer: C
+12592,Answer: B
+12593,C
+12594,D 
+12595,B
+12596,D 
+12597,C
+12598,D
+12599,B
+12600,C
+12601,D 
+12602,C 
+12603,A 
+12604,D
+12605,Answer: B
+12606,D
+12607,D
+12608,D
+12609,D 
+12610,B 
+12611,B 
+12612,Answer: D
+12613,A
+12614,A 
+12615,C 
+12616,A
+12617,Answer: D
+12618,C
+12619,D 
+12620,C 
+12621,A
+12622,D
+12623,Answer: D
+12624,A
+12625,Answer: D
+12626,C
+12627,D
+12628,Answer: A
+12629,D
+12630,C
+12631,Answer: D
+12632,B
+12633,A
+12634,Answer: B
+12635,Answer: B
+12636,B 
+12637,D
+12638,Answer: A
+12639,Answer: D
+12640,D
+12641,A
+12642,C 
+12643,D
+12644,C
+12645,C
+12646,A
+12647,D 
+12648,"we tend to remember unfinished tasks better than finished ones., so the answer is A"
+12649,D
+12650,C
+12651,"Explicit memory, so the answer is D"
+12652,D
+12653,B
+12654,Answer: D
+12655,C 
+12656,Answer: D
+12657,None of the above
+12658,C
+12659,B
+12660,C 
+12661,Answer: D
+12662,A 
+12663,Answer: C
+12664,D 
+12665,A 
+12666,D
+12667,Answer: A
+12668,D
+12669,Answer: D
+12670,Answer: C
+12671,A
+12672,Answer: A
+12673,Answer: B
+12674,Answer: D
+12675,C
+12676,A
+12677,B 
+12678,Answer: D
+12679,Answer: D
+12680,C 
+12681,A
+12682,D
+12683,Answer: D
+12684,D
+12685,A
+12686,Answer: D
+12687,B 
+12688,C
+12689,D
+12690,C
+12691,Answer: C
+12692,A
+12693,D
+12694,A 
+12695,Answer: D
+12696,D
+12697,D
+12698,Answer: D
+12699,D
+12700,Answer: C
+12701,Answer: A
+12702,C
+12703,Answer: B
+12704,B
+12705,A
+12706,A
+12707,Answer: C
+12708,Answer: A
+12709,Answer: C
+12710,Answer: C
+12711,None of the above
+12712,Answer: A
+12713,D 
+12714,D
+12715,B
+12716,C
+12717,C
+12718,D
+12719,D
+12720,A 
+12721,
+12722,Answer: D
+12723,C
+12724,C
+12725,"when the drive level is strongest, so the answer is B"
+12726,Answer: D
+12727,Answer: A
+12728,A
+12729,Answer: A
+12730,B 
+12731,B
+12732,Not Sure
+12733,Answer: C
+12734,Answer: C
+12735,Answer: D
+12736,Answer: C
+12737,C
+12738,A
+12739,C
+12740,C 
+12741,D 
+12742,None of the above
+12743,A 
+12744,Answer: C
+12745,Answer: A
+12746,C
+12747,C
+12748,C
+12749,Answer: D
+12750,B
+12751,A
+12752,C
+12753,B
+12754,B
+12755,C
+12756,A
+12757,Answer: A
+12758,D 
+12759,Answer: D
+12760,D
+12761,A
+12762,D
+12763,Answer: C
+12764,D
+12765,C 
+12766,B
+12767,A
+12768,Answer: D
+12769,D
+12770,C
+12771,D
+12772,A 
+12773,D 
+12774,C
+12775,C 
+12776,D
+12777,C
+12778,C
+12779,B
+12780,C
+12781,B 
+12782,Answer: C
+12783,"tells you how many SDs away from the mean a score is, so the answer is D"
+12784,Answer: C
+12785,B
+12786,A
+12787,Answer: D
+12788,B
+12789,C
+12790,Answer: C
+12791,Answer: D
+12792,C
+12793,Answer: D
+12794,B
+12795,C
+12796,D
+12797,D
+12798,D
+12799,B
+12800,C
+12801,B
+12802,D
+12803,C
+12804,B
+12805,Answer: C
+12806,Answer: C
+12807,A
+12808,D
+12809,D
+12810,A
+12811,B
+12812,D
+12813,A
+12814,Answer: C
+12815,B
+12816,Answer: B
+12817,Answer: C
+12818,Answer: D
+12819,A
+12820,D
+12821,Answer: D
+12822,C 
+12823,B
+12824,B
+12825,Answer: D
+12826,A 
+12827,Answer: D
+12828,D
+12829,C
+12830,Answer: C
+12831,None of the above
+12832,Answer: D
+12833,C
+12834,C
+12835,C 
+12836,C
+12837,Answer: A
+12838,C
+12839,Answer: D
+12840,Answer: B
+12841,Answer: D
+12842,B
+12843,B
+12844,D
+12845,Answer: C
+12846,D
+12847,A
+12848,Answer: D
+12849,B
+12850,Answer: C
+12851,Answer: D
+12852,D
+12853,D
+12854,Answer: C
+12855,D
+12856,C
+12857,Answer: A
+12858,C 
+12859,B
+12860,C
+12861,D 
+12862,C
+12863,C
+12864,D
+12865,A
+12866,Answer: B
+12867,D
+12868,B 
+12869,A
+12870,C
+12871,D
+12872,B
+12873,Answer: D
+12874,C
+12875,C 
+12876,C
+12877,B
+12878,Answer: D
+12879,D
+12880,D
+12881,C
+12882,Answer: A
+12883,A
+12884,Answer: A
+12885,D
+12886,Answer: D
+12887,D
+12888,C
+12889,B 
+12890,D 
+12891,C
+12892,D
+12893,C
+12894,D
+12895,C
+12896,B
+12897,D
+12898,Answer: B
+12899,Answer: C
+12900,C
+12901,D 
+12902,D
+12903,C
+12904,C
+12905,A 
+12906,D 
+12907,
+12908,C
+12909,D
+12910,D 
+12911,C
+12912,Answer: A
+12913,D
+12914,Answer: C
+12915,Answer: D
+12916,D
+12917,C 
+12918,D 
+12919,D 
+12920,A
+12921,Answer: D
+12922,A
+12923,Answer: C
+12924,
+12925,C
+12926,D 
+12927,Answer: C
+12928,C 
+12929,D 
+12930,C
+12931,D
+12932,B
+12933,D 
+12934,D
+12935,C
+12936,B
+12937,Answer: A
+12938,D
+12939,Answer: C
+12940,"agree to see these clients only if they are experiencing a crisis., so the answer is D"
+12941,D
+12942,D
+12943,B 
+12944,Answer: A
+12945,Not Sure
+12946,B
+12947,
+12948,D
+12949,Answer: D
+12950,D 
+12951,B
+12952,A
+12953,"does not have any internal validity; can’t infer causal relationship, so the answer is C"
+12954,B
+12955,C
+12956,D 
+12957,D 
+12958,B
+12959,C
+12960,Answer: B
+12961,B 
+12962,D 
+12963,D
+12964,Answer: C
+12965,D
+12966,Answer: B
+12967,Answer: C
+12968,D
+12969,
+12970,Not Sure
+12971,C
+12972,Answer: D
+12973,Answer: D
+12974,D 
+12975,B
+12976,D 
+12977,Answer: D
+12978,D 
+12979,A
+12980,B 
+12981,Answer: D
+12982,Answer: B
+12983,D 
+12984,B 
+12985,Answer: C
+12986,D 
+12987,
+12988,A
+12989,B
+12990,Answer: D
+12991,D
+12992,D
+12993,Answer: B
+12994,Answer: D
+12995,Answer: C
+12996,C 
+12997,A
+12998,D 
+12999,A 
+13000,B 
+13001,Answer: C
+13002,C
+13003,C
+13004,Answer: C
+13005,B
+13006,Answer: B
+13007,Answer: D
+13008,Answer: D
+13009,B
+13010,Answer: A
+13011,D
+13012,Answer: D
+13013,B
+13014,B
+13015,C
+13016,Answer: A
+13017,A
+13018,D
+13019,D 
+13020,D 
+13021,C
+13022,D
+13023,D
+13024,A
+13025,D 
+13026,D
+13027,C
+13028,A
+13029,C 
+13030,C 
+13031,D
+13032,D 
+13033,Answer: D
+13034,A
+13035,A
+13036,Answer: A
+13037,D
+13038,B
+13039,D
+13040,D
+13041,Answer: A
+13042,A
+13043,B 
+13044,C
+13045,Answer: B
+13046,C
+13047,Answer: A
+13048,Answer: B
+13049,B
+13050,Answer: D
+13051,B 
+13052,A
+13053,C
+13054,Answer: B
+13055,A
+13056,D
+13057,Answer: B
+13058,Not Sure
+13059,D
+13060,Answer: D
+13061,D 
+13062,Answer: C
+13063,C 
+13064,C
+13065,D
+13066,C
+13067,D
+13068,C
+13069,D
+13070,Answer: B
+13071,D
+13072,B 
+13073,D
+13074,D 
+13075,D
+13076,D
+13077,B
+13078,Answer: B
+13079,Answer: D
+13080,C 
+13081,Answer: C
+13082,B
+13083,Answer: B
+13084,C 
+13085,C 
+13086,Answer: B
+13087,Answer: D
+13088,Answer: B
+13089,C
+13090,Answer: A
+13091,B 
+13092,A 
+13093,C
+13094,Answer: D
+13095,Answer: D
+13096,"The Creel Committee, so the answer is A"
+13097,D 
+13098,Answer: C
+13099,Answer: D
+13100,Answer: C
+13101,D 
+13102,Answer: C
+13103,Answer: D
+13104,D
+13105,D
+13106,B
+13107,A
+13108,C 
+13109,B
+13110,D
+13111,Answer: D
+13112,Answer: C
+13113,"Evaluation involves assessing all aspects of the programme., so the answer is D"
+13114,D
+13115,A
+13116,A 
+13117,A
+13118,Answer: D
+13119,D 
+13120,D
+13121,D
+13122,C
+13123,D 
+13124,Answer: D
+13125,Answer: C
+13126,Answer: B
+13127,C 
+13128,A
+13129,Answer: A
+13130,D
+13131,Answer: D
+13132,D
+13133,D
+13134,B
+13135,A
+13136,D
+13137,D 
+13138,B 
+13139,D
+13140,D 
+13141,Answer: A
+13142,Answer: C
+13143,Answer: D
+13144,B 
+13145,A
+13146,B
+13147,C
+13148,B
+13149,D
+13150,"Change in attitude, so the answer is A"
+13151,C
+13152,Answer: D
+13153,A 
+13154,D
+13155,"Readership, so the answer is D"
+13156,B 
+13157,Answer: A
+13158,Answer: D
+13159,B 
+13160,Answer: B
+13161,Answer: D
+13162,D
+13163,D
+13164,C
+13165,D
+13166,A
+13167,B
+13168,A 
+13169,D
+13170,D
+13171,C
+13172,Answer: B
+13173,Answer: C
+13174,Answer: C
+13175,Answer: A
+13176,D 
+13177,C 
+13178,D 
+13179,B
+13180,D
+13181,Answer: D
+13182,
+13183,C
+13184,B 
+13185,B 
+13186,D
+13187,Answer: A
+13188,A 
+13189,D 
+13190,D
+13191,D
+13192,C
+13193,A 
+13194,D 
+13195,Answer: A
+13196,Answer: A
+13197,D
+13198,D
+13199,C 
+13200,C
+13201,Answer: B
+13202,Answer: B
+13203,A
+13204,C
+13205,C
+13206,D 
+13207,Answer: D
+13208,B
+13209,D
+13210,Answer: B
+13211,Answer: D
+13212,C
+13213,D
+13214,Answer: C
+13215,D
+13216,D
+13217,Answer: D
+13218,Answer: C
+13219,Answer: D
+13220,None of the above
+13221,"The impact of environmental problems seems unlikely to diminish so that the relevance of environmental security for policy will likely increase, particularly multilateral action on common security concerns to achieve forms of social organization that are ecologically sustainable. In some sense, current practices of national security are an impediment to achieving environmental security for all people., so the answer is D"
+13222,C
+13223,Answer: D
+13224,Answer: A
+13225,C 
+13226,
+13227,C
+13228,A
+13229,Answer: D
+13230,Answer: B
+13231,Answer: D
+13232,D 
+13233,D
+13234,D 
+13235,B 
+13236,C
+13237,B
+13238,Answer: D
+13239,C
+13240,B
+13241,D
+13242,Answer: A
+13243,D
+13244,A
+13245,Answer: C
+13246,Answer: D
+13247,C
+13248,"All of these options., so the answer is D"
+13249,D
+13250,D
+13251,Answer: A
+13252,Answer: C
+13253,C
+13254,D
+13255,Answer: D
+13256,Answer: D
+13257,Answer: D
+13258,A
+13259,Answer: D
+13260,B
+13261,Answer: C
+13262,
+13263,Answer: D
+13264,B
+13265,D
+13266,D 
+13267,B
+13268,D
+13269,Answer: D
+13270,C 
+13271,D
+13272,D
+13273,D 
+13274,A
+13275,D 
+13276,Answer: B
+13277,D
+13278,D
+13279,D
+13280,Answer: B
+13281,C
+13282,D
+13283,Answer: C
+13284,Answer: D
+13285,D
+13286,C 
+13287,D
+13288,C
+13289,D
+13290,C 
+13291,Answer: B
+13292,C
+13293,D
+13294,D
+13295,D 
+13296,B
+13297,Answer: B
+13298,C
+13299,D 
+13300,D 
+13301,B
+13302,D
+13303,B
+13304,D 
+13305,C
+13306,Answer: D
+13307,D
+13308,C 
+13309,D
+13310,D
+13311,Answer: D
+13312,Answer: D
+13313,A
+13314,D 
+13315,Answer: D
+13316,D
+13317,D 
+13318,Answer: D
+13319,D 
+13320,B
+13321,A
+13322,Answer: D
+13323,Answer: B
+13324,Answer: D
+13325,C 
+13326,Answer: B
+13327,C
+13328,Answer: C
+13329,D
+13330,Answer: D
+13331,D
+13332,Answer: C
+13333,C
+13334,B 
+13335,C
+13336,Answer: C
+13337,Answer: B
+13338,B
+13339,A
+13340,Answer: D
+13341,D
+13342,Answer: C
+13343,D
+13344,C
+13345,A
+13346,D
+13347,D
+13348,A
+13349,Answer: D
+13350,D
+13351,D
+13352,Answer: A
+13353,Answer: D
+13354,A
+13355,D
+13356,D 
+13357,D
+13358,D 
+13359,D 
+13360,D
+13361,D
+13362,C
+13363,C
+13364,Answer: A
+13365,Answer: D
+13366,B
+13367,"To prevent the erosion of established civil liberties through the removal of special rights and the cessation of extraordinary measures., so the answer is A"
+13368,D
+13369,C
+13370,A 
+13371,Answer: D
+13372,C
+13373,Answer: B
+13374,D
+13375,B
+13376,D
+13377,"Weak state insecurity dilemmas are born out of a lack of political and institutional centring with a monopoly of force. However, the engagement of armed forces to strengthen institutions may stop this process. Inability to foster 'stateness' is reversed by the use of violence. Social disquiet is a semi-permanent situation of emergent but not developed anarchy., so the answer is D"
+13378,D 
+13379,Not Sure
+13380,Answer: B
+13381,Answer: C
+13382,Answer: D
+13383,D 
+13384,D 
+13385,D
+13386,C
+13387,Answer: C
+13388,B
+13389,Answer: D
+13390,C
+13391,D
+13392,C
+13393,Answer: C
+13394,Not Sure
+13395,Not Sure
+13396,C
+13397,Answer: C
+13398,Answer: A
+13399,D
+13400,Answer: C
+13401,D
+13402,Not Sure
+13403,"The success ultimately rests on perceptual, psychological and emotional factors, giving rise to the risk that misperception or miscalculation will defeat even a well-executed strategy that otherwise meets all the requirements for success., so the answer is C"
+13404,Answer: C
+13405,A
+13406,Answer: C
+13407,Answer: D
+13408,Answer: D
+13409,D
+13410,D
+13411,D 
+13412,B
+13413,Answer: C
+13414,D 
+13415,D
+13416,A
+13417,Answer: A
+13418,Answer: C
+13419,A
+13420,A
+13421,A
+13422,A
+13423,Not Sure
+13424,C
+13425,D
+13426,C
+13427,D
+13428,C
+13429,C
+13430,Answer: C
+13431,A 
+13432,Answer: A
+13433,Answer: B
+13434,Answer: D
+13435,C 
+13436,B
+13437,D
+13438,A
+13439,A
+13440,A
+13441,D
+13442,B
+13443,Answer: B
+13444,D 
+13445,D
+13446,C
+13447,Answer: D
+13448,A 
+13449,Not Sure
+13450,Answer: D
+13451,B 
+13452,D 
+13453,C
+13454,
+13455,Answer: B
+13456,D
+13457,C
+13458,Answer: A
+13459,C
+13460,B
+13461,D
+13462,Answer: D
+13463,Answer: B
+13464,Answer: B
+13465,C
+13466,D
+13467,C
+13468,D
+13469,D
+13470,Answer: D
+13471,D
+13472,Answer: A
+13473,A 
+13474,A
+13475,C
+13476,D
+13477,D 
+13478,C
+13479,Answer: A
+13480,C
+13481,C
+13482,C
+13483,D
+13484,Answer: D
+13485,C
+13486,D 
+13487,D
+13488,D
+13489,Answer: B
+13490,Answer: D
+13491,Answer: D
+13492,Answer: D
+13493,D
+13494,B 
+13495,C
+13496,Answer: D
+13497,Answer: D
+13498,A 
+13499,D
+13500,Answer: C
+13501,D
+13502,D
+13503,C
+13504,D
+13505,Answer: D
+13506,D
+13507,D 
+13508,Answer: D
+13509,B
+13510,Answer: D
+13511,Answer: D
+13512,Answer: D
+13513,Answer: C
+13514,D
+13515,B
+13516,Answer: D
+13517,D
+13518,Answer: D
+13519,Answer: B
+13520,C
+13521,B
+13522,A
+13523,Answer: C
+13524,D
+13525,"Modernization theory, so the answer is B"
+13526,D
+13527,C 
+13528,Answer: A
+13529,
+13530,C 
+13531,D
+13532,Answer: C
+13533,C 
+13534,D
+13535,D
+13536,D 
+13537,D 
+13538,B
+13539,Answer: B
+13540,B
+13541,Answer: A
+13542,D 
+13543,D 
+13544,B
+13545,B
+13546,Answer: D
+13547,A 
+13548,Answer: B
+13549,D
+13550,Answer: D
+13551,D
+13552,Answer: B
+13553,D
+13554,Answer: A
+13555,C 
+13556,D
+13557,Answer: C
+13558,D
+13559,C 
+13560,D
+13561,B 
+13562,B
+13563,Answer: B
+13564,
+13565,D
+13566,B
+13567,A
+13568,D
+13569,None of the above
+13570,Answer: D
+13571,Answer: C
+13572,D
+13573,D
+13574,D
+13575,Answer: A
+13576,A
+13577,Answer: B
+13578,A 
+13579,C
+13580,D 
+13581,B 
+13582,Answer: B
+13583,Answer: C
+13584,C
+13585,C 
+13586,A 
+13587,C
+13588,Answer: C
+13589,A
+13590,D 
+13591,B
+13592,C 
+13593,Answer: C
+13594,C
+13595,D
+13596,A
+13597,C
+13598,B
+13599,B 
+13600,D
+13601,Answer: C
+13602,D
+13603,B 
+13604,B
+13605,A
+13606,A
+13607,
+13608,D
+13609,Answer: D
+13610,Answer: B
+13611,A
+13612,D
+13613,Answer: D
+13614,Answer: D
+13615,B
+13616,D
+13617,B 
+13618,D
+13619,"the president., so the answer is B"
+13620,B
+13621,C
+13622,D
+13623,C 
+13624,Answer: B
+13625,D
+13626,C 
+13627,Answer: C
+13628,D
+13629,C
+13630,D
+13631,D
+13632,B 
+13633,D
+13634,Answer: A
+13635,D 
+13636,Answer: B
+13637,D
+13638,A 
+13639,B 
+13640,Answer: D
+13641,A
+13642,Answer: C
+13643,Answer: B
+13644,Answer: A
+13645,B 
+13646,D
+13647,D
+13648,Answer: D
+13649,A
+13650,C 
+13651,C
+13652,D
+13653,Answer: C
+13654,B
+13655,Answer: A
+13656,A 
+13657,C 
+13658,Answer: D
+13659,A
+13660,A 
+13661,A 
+13662,Answer: D
+13663,C
+13664,B
+13665,Answer: A
+13666,C 
+13667,None of the above
+13668,Answer: D
+13669,Answer: B
+13670,D 
+13671,B
+13672,Answer: D
+13673,D
+13674,Answer: D
+13675,B 
+13676,D
+13677,Answer: B
+13678,D
+13679,Answer: A
+13680,Answer: C
+13681,D
+13682,C
+13683,Answer: D
+13684,Answer: D
+13685,C
+13686,A 
+13687,
+13688,A 
+13689,Answer: D
+13690,C
+13691,C
+13692,C
+13693,Answer: D
+13694,D 
+13695,Answer: B
+13696,None of the above
+13697,C
+13698,Answer: A
+13699,D
+13700,D 
+13701,D
+13702,B
+13703,Answer: D
+13704,C
+13705,A
+13706,D
+13707,B
+13708,Answer: B
+13709,B
+13710,A 
+13711,B 
+13712,B
+13713,Answer: D
+13714,C
+13715,C
+13716,D
+13717,D 
+13718,A 
+13719,D
+13720,A
+13721,C
+13722,C
+13723,B
+13724,C
+13725,C
+13726,A 
+13727,D
+13728,Answer: B
+13729,C 
+13730,Answer: B
+13731,Answer: C
+13732,D
+13733,D
+13734,Answer: C
+13735,Answer: B
+13736,D
+13737,D
+13738,D
+13739,Answer: D
+13740,C
+13741,None of the above
+13742,Answer: D
+13743,A
+13744,Answer: D
+13745,A
+13746,A
+13747,D
+13748,Answer: B
+13749,Answer: B
+13750,B 
+13751,C
+13752,Answer: B
+13753,D 
+13754,A
+13755,Answer: B
+13756,Answer: A
+13757,B
+13758,B
+13759,A
+13760,Not Sure
+13761,Answer: D
+13762,D 
+13763,Answer: C
+13764,Answer: D
+13765,C
+13766,B
+13767,D
+13768,D
+13769,D 
+13770,A
+13771,D
+13772,A
+13773,D
+13774,C
+13775,Answer: C
+13776,D
+13777,Answer: B
+13778,C
+13779,
+13780,D
+13781,A
+13782,D
+13783,D
+13784,D
+13785,D
+13786,C
+13787,C 
+13788,C 
+13789,D 
+13790,C 
+13791,B 
+13792,Answer: D
+13793,C 
+13794,D
+13795,Answer: D
+13796,Answer: D
+13797,D
+13798,D
+13799,Answer: A
+13800,D 
+13801,Answer: D
+13802,"Antivirals, so the answer is B"
+13803,D
+13804,A
+13805,Answer: C
+13806,Answer: D
+13807,D 
+13808,D
+13809,B
+13810,"Rapid adsorption and fusion from without via a hydrophobic peptide, so the answer is C"
+13811,Answer: A
+13812,A
+13813,Answer: A
+13814,B
+13815,None of the above
+13816,A 
+13817,Answer: D
+13818,Answer: D
+13819,D 
+13820,B
+13821,Answer: B
+13822,Answer: D
+13823,D
+13824,Answer: D
+13825,Answer: C
+13826,C 
+13827,B
+13828,Answer: D
+13829,Answer: A
+13830,B
+13831,C
+13832,B 
+13833,"Monoclonal antibodies, so the answer is C"
+13834,A 
+13835,D
+13836,C
+13837,C
+13838,Answer: A
+13839,Answer: A
+13840,Answer: D
+13841,C
+13842,C
+13843,Answer: C
+13844,
+13845,C 
+13846,B
+13847,D
+13848,Answer: A
+13849,D 
+13850,Answer: D
+13851,B
+13852,A
+13853,C 
+13854,A
+13855,D
+13856,C
+13857,C
+13858,D 
+13859,B 
+13860,Answer: D
+13861,D
+13862,Answer: A
+13863,D
+13864,Answer: D
+13865,Answer: D
+13866,D 
+13867,Answer: D
+13868,D
+13869,Answer: B
+13870,B
+13871,Answer: C
+13872,B
+13873,Answer: D
+13874,A 
+13875,Answer: D
+13876,D
+13877,D
+13878,Answer: A
+13879,D
+13880,C
+13881,B
+13882,Answer: D
+13883,D
+13884,Answer: B
+13885,B 
+13886,D 
+13887,Answer: C
+13888,C 
+13889,Answer: D
+13890,Answer: A
+13891,A
+13892,C
+13893,A 
+13894,Answer: A
+13895,Answer: A
+13896,A 
+13897,A
+13898,Answer: C
+13899,Answer: D
+13900,Not Sure
+13901,Answer: B
+13902,A 
+13903,A
+13904,B
+13905,A 
+13906,A
+13907,A 
+13908,B
+13909,Answer: A
+13910,D 
+13911,B
+13912,Answer: D
+13913,Answer: A
+13914,B
+13915,D 
+13916,C
+13917,A 
+13918,C
+13919,A
+13920,Not Sure
+13921,D 
+13922,B 
+13923,C
+13924,Answer: D
+13925,Answer: C
+13926,D
+13927,C
+13928,Answer: C
+13929,Answer: D
+13930,A 
+13931,B
+13932,Answer: B
+13933,Answer: B
+13934,A
+13935,B 
+13936,C 
+13937,Answer: A
+13938,Answer: A
+13939,A 
+13940,Answer: D
+13941,D
+13942,C 
+13943,B
+13944,D 
+13945,Answer: B
+13946,C
+13947,C
+13948,C
+13949,Answer: C
+13950,C
+13951,D
+13952,D 
+13953,C
+13954,Answer: C
+13955,D
+13956,A 
+13957,A
+13958,A 
+13959,D 
+13960,Answer: A
+13961,D 
+13962,C
+13963,D
+13964,C
+13965,D 
+13966,Answer: D
+13967,D
+13968,A 
+13969,D
+13970,A
+13971,Answer: B
+13972,A
+13973,Answer: D
+13974,B 
+13975,C
+13976,A
+13977,D
+13978,C
+13979,Answer: C
+13980,D
+13981,B 
+13982,Answer: A
+13983,A
+13984,B
+13985,Answer: D
+13986,C
+13987,Answer: D
+13988,Answer: D
+13989,D
+13990,D
+13991,D
+13992,C
+13993,None of the above
+13994,Answer: C
+13995,Answer: C
+13996,D 
+13997,D
+13998,B 
+13999,C 
+14000,Answer: D
+14001,Answer: C
+14002,D
+14003,B
+14004,C 
+14005,C
+14006,B 
+14007,A
+14008,D
+14009,Answer: D
+14010,C
+14011,C
+14012,C
+14013,Answer: D
+14014,D
+14015,B
+14016,C
+14017,C
+14018,D
+14019,D
+14020,D 
+14021,D 
+14022,C 
+14023,Answer: B
+14024,Answer: B
+14025,D
+14026,Answer: D
+14027,Answer: C
+14028,C
+14029,B
+14030,C
+14031,D
+14032,A 
+14033,B
+14034,D
+14035,Answer: C
+14036,A 
+14037,C 
+14038,D
+14039,Answer: D
+14040,B
+14041,D 
