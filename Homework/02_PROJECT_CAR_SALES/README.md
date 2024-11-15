@@ -1,7 +1,7 @@
 # Homework 2
 
 
-The homework tasks are described in the `2024_HW2.ipynb` file.
+The homework tasks are described in the `2024-HW2.ipynb` file.
 
 Most of the tasks require you to write code to solve them. It's recommended to explain your reasoning as comments in the code cells which can help TA to better understand your solution.
 Some questions may be answered without coding, in which case you can write your answer in a markdown cell or as a comment in a code cell.
@@ -19,7 +19,7 @@ Please, follow the instructions below to create your team repo and start working
 5. Most importantly, don’t forget to push the final solved version by **November 29th, 23:59**!
 
 ### Deliverables
-1. `2024_HW2.ipynb` notebook with disclosed output for each cell. **Please don't update the data folders provided in the repository, i.e., use it in read-only mode.**
+1. `2024-HW2.ipynb` notebook with disclosed output for each cell. **Please don't update the data folders provided in the repository, i.e., use it in read-only mode.**
 
 #### Deadline: November 29th, 23:59
 
