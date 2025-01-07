@@ -2,7 +2,7 @@
 
 This repository contains the final exam for Applied Data Analysis (CS-401).
 
-The questions and the data will be made available to you at 15:15 on Tuesday January 14th, 2024.
+The questions and the data will be made available to you at 15:15 on Tuesday January 14th, 2025.
 
 All the logistical details, rules, and guidelines for the exam are stated below.
 
