@@ -67,8 +67,10 @@ Complete the following steps for a smooth exam experience on the day of the exam
 
 ## Questions During the Exam
 
-During the exam, we will use this [google doc](https://docs.google.com/document/d/1RynDe099-LswODrlV9g2Wqaq9drzq34tFjn4fmDQn-0/edit?usp=sharing) to post any clarifications or corrections to the questions(live updates). Please refer to this page regularly to see the latest updates.
+During the exam, we will use this [google doc](https://docs.google.com/document/d/e/2PACX-1vSGK9QkaeX5pWgmxyiRyRm61Q1HOByW4Jx5a616NS_F-VbkdubsHkhyq_V2Oq-0HiT_OTVAKg8OY6UO/pub) to post any clarifications or corrections to the questions(live updates). Please refer to this page regularly to see the latest updates.
 To ensure efficiency and fairness, we will not reply to individual question directly. Instead, we will address common questions in this doc if they are relevant to a larger audience.  
+
+*Note: For sharing documents with more than 100 viewers, Google recommends publishing them to the Web (details [here](https://support.google.com/a/users/answer/9308870?hl=en)). As a consequence, the document may no longer be updated in real-time by your Web browser. Thus, in order to view an up-to-date version of the document you might need to periodically refresh the page*
 
 
 ## High-level Guidelines and Rules
